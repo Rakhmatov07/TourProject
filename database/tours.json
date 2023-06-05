@@ -1,0 +1,7010 @@
+[
+  {
+    "id": "8c454220-9f7b-4d47-a022-348bfc2dcd30",
+    "name": "Philippines",
+    "price": "$46413.35",
+    "startDate": "2024-06-02",
+    "duration": 10
+  },
+  {
+    "id": "d0d47efc-a39d-41fd-8f96-aa3a71babbfa",
+    "name": "Morocco",
+    "price": "$24089.57",
+    "startDate": "2024-02-10",
+    "duration": 31
+  },
+  {
+    "id": "f5201700-9ddb-4cd2-885f-ddcbcf395909",
+    "name": "Latvia",
+    "price": "$19210.35",
+    "startDate": "2024-04-14",
+    "duration": 34
+  },
+  {
+    "id": "8a244193-8998-4454-816c-5308fb4230b5",
+    "name": "Costa Rica",
+    "price": "$12285.47",
+    "startDate": "2024-01-06",
+    "duration": 25
+  },
+  {
+    "id": "53187014-bc55-4574-9715-18d6906f4b0a",
+    "name": "Argentina",
+    "price": "$1227.44",
+    "startDate": "2024-04-09",
+    "duration": 25
+  },
+  {
+    "id": "18d8c382-82c6-470b-8234-8acde89309d8",
+    "name": "China",
+    "price": "$47655.97",
+    "startDate": "2023-12-23",
+    "duration": 36
+  },
+  {
+    "id": "8b133e4c-be6b-49e3-bebf-526cc3974679",
+    "name": "Cuba",
+    "price": "$37765.78",
+    "startDate": "2024-01-13",
+    "duration": 25
+  },
+  {
+    "id": "befb8465-281b-4a8f-bb95-ec81acf46b12",
+    "name": "Indonesia",
+    "price": "$29336.34",
+    "startDate": "2024-03-27",
+    "duration": 40
+  },
+  {
+    "id": "9c7539af-7d5d-445f-8771-099e360169ae",
+    "name": "Indonesia",
+    "price": "$7072.42",
+    "startDate": "2023-09-18",
+    "duration": 29
+  },
+  {
+    "id": "4b6efc99-4307-4006-a93a-4d72c2b387ef",
+    "name": "Croatia",
+    "price": "$29610.12",
+    "startDate": "2024-04-02",
+    "duration": 25
+  },
+  {
+    "id": "c82926bb-f4b5-44d8-863a-93999ae09247",
+    "name": "Serbia",
+    "price": "$39684.30",
+    "startDate": "2023-08-04",
+    "duration": 12
+  },
+  {
+    "id": "a8696676-8c4d-42fc-8c83-d3fedd635a80",
+    "name": "Ukraine",
+    "price": "$35697.23",
+    "startDate": "2023-08-08",
+    "duration": 37
+  },
+  {
+    "id": "7f0e92f0-18e1-4189-a5e0-3c958b9be576",
+    "name": "Albania",
+    "price": "$34974.14",
+    "startDate": "2023-08-09",
+    "duration": 30
+  },
+  {
+    "id": "d89d01fa-e4b6-410e-b015-1a8b12f6daeb",
+    "name": "France",
+    "price": "$9675.99",
+    "startDate": "2023-12-23",
+    "duration": 11
+  },
+  {
+    "id": "2ce0ef37-65f7-4462-9a26-e87c959650bb",
+    "name": "China",
+    "price": "$39988.32",
+    "startDate": "2023-12-24",
+    "duration": 40
+  },
+  {
+    "id": "37919b8e-f998-415f-b4a5-d40bdd31a5d3",
+    "name": "China",
+    "price": "$6936.22",
+    "startDate": "2023-06-25",
+    "duration": 38
+  },
+  {
+    "id": "10e236cb-1189-48ac-82cc-a0fbc107d4e1",
+    "name": "Guatemala",
+    "price": "$17918.30",
+    "startDate": "2023-12-18",
+    "duration": 21
+  },
+  {
+    "id": "0df543cb-f607-4680-9e89-08ea4aa6a49b",
+    "name": "Myanmar",
+    "price": "$40360.89",
+    "startDate": "2023-07-08",
+    "duration": 14
+  },
+  {
+    "id": "15b0f3ad-a11c-471e-bd77-902c0dbf9cb7",
+    "name": "Indonesia",
+    "price": "$649.65",
+    "startDate": "2024-02-04",
+    "duration": 13
+  },
+  {
+    "id": "14f81260-8a2e-431e-b481-e1726eefc338",
+    "name": "Peru",
+    "price": "$8623.07",
+    "startDate": "2024-05-25",
+    "duration": 10
+  },
+  {
+    "id": "25f2c8ef-db8a-48ac-80e8-d5a0a0f7939a",
+    "name": "Portugal",
+    "price": "$41392.89",
+    "startDate": "2024-02-25",
+    "duration": 6
+  },
+  {
+    "id": "f10723ee-74a0-4c91-a3c1-8bd13700c87f",
+    "name": "Indonesia",
+    "price": "$25501.16",
+    "startDate": "2023-11-18",
+    "duration": 5
+  },
+  {
+    "id": "a9ce3c51-f01d-4c95-a5ea-895962ad1026",
+    "name": "Indonesia",
+    "price": "$34376.54",
+    "startDate": "2023-07-04",
+    "duration": 10
+  },
+  {
+    "id": "251e1e62-0491-4fd8-9a3e-ef8ccec04037",
+    "name": "France",
+    "price": "$15102.70",
+    "startDate": "2023-12-13",
+    "duration": 32
+  },
+  {
+    "id": "6fb70f78-2f55-4af0-9efa-9df601eb777e",
+    "name": "Philippines",
+    "price": "$23603.42",
+    "startDate": "2024-01-28",
+    "duration": 25
+  },
+  {
+    "id": "f97a0565-568d-426e-84fc-5654e88bc7fa",
+    "name": "Indonesia",
+    "price": "$18946.93",
+    "startDate": "2024-05-25",
+    "duration": 6
+  },
+  {
+    "id": "4b559f55-3668-428c-a30e-8c634dd83f54",
+    "name": "Russia",
+    "price": "$518.10",
+    "startDate": "2023-08-14",
+    "duration": 9
+  },
+  {
+    "id": "02239e7d-74a7-4b3e-9e29-be76237adf22",
+    "name": "Russia",
+    "price": "$11500.39",
+    "startDate": "2023-11-14",
+    "duration": 36
+  },
+  {
+    "id": "61747b5a-fc5e-4fea-9227-c43cd4436a52",
+    "name": "Ukraine",
+    "price": "$7473.98",
+    "startDate": "2023-06-22",
+    "duration": 27
+  },
+  {
+    "id": "99e74155-a037-4c20-a7a4-b63b8bbb5faa",
+    "name": "China",
+    "price": "$44701.00",
+    "startDate": "2023-06-29",
+    "duration": 5
+  },
+  {
+    "id": "0e29470a-f93a-42e8-bbf6-a2093acb1e24",
+    "name": "France",
+    "price": "$21319.20",
+    "startDate": "2024-01-23",
+    "duration": 11
+  },
+  {
+    "id": "8e474ceb-1e37-44e1-9391-f1e678c487bc",
+    "name": "China",
+    "price": "$29848.60",
+    "startDate": "2024-03-24",
+    "duration": 13
+  },
+  {
+    "id": "76d0219d-89b8-41ef-9941-06ffcdf2311a",
+    "name": "Nigeria",
+    "price": "$22874.84",
+    "startDate": "2024-01-24",
+    "duration": 6
+  },
+  {
+    "id": "38a1f88a-7080-4850-b7e3-0d3e010845d5",
+    "name": "South Africa",
+    "price": "$30502.07",
+    "startDate": "2023-09-14",
+    "duration": 3
+  },
+  {
+    "id": "730dd073-0138-4adb-baf0-e7a7758e7745",
+    "name": "Indonesia",
+    "price": "$34568.85",
+    "startDate": "2024-03-02",
+    "duration": 8
+  },
+  {
+    "id": "47a5be34-603a-4c59-9505-5d76b1ad3d50",
+    "name": "Botswana",
+    "price": "$25318.97",
+    "startDate": "2024-02-11",
+    "duration": 17
+  },
+  {
+    "id": "06e2da76-749c-4bed-a532-6dc957867228",
+    "name": "China",
+    "price": "$41999.45",
+    "startDate": "2023-07-21",
+    "duration": 30
+  },
+  {
+    "id": "12417288-e012-4ffb-9bef-c21138370cb9",
+    "name": "China",
+    "price": "$48944.51",
+    "startDate": "2024-01-13",
+    "duration": 12
+  },
+  {
+    "id": "e4891547-b0ac-42c3-9c85-d08bcf81470c",
+    "name": "France",
+    "price": "$6771.17",
+    "startDate": "2023-10-07",
+    "duration": 19
+  },
+  {
+    "id": "5077f44b-d7f7-4933-85f5-ddaedfdf013f",
+    "name": "Philippines",
+    "price": "$34281.57",
+    "startDate": "2023-09-03",
+    "duration": 10
+  },
+  {
+    "id": "d88103be-7371-4e1a-8fde-5ac9fc7f3671",
+    "name": "North Korea",
+    "price": "$1445.03",
+    "startDate": "2024-03-02",
+    "duration": 26
+  },
+  {
+    "id": "9688b274-2a98-4cce-8f97-5206fa7e6a8d",
+    "name": "China",
+    "price": "$46299.03",
+    "startDate": "2024-01-26",
+    "duration": 29
+  },
+  {
+    "id": "5ac15667-e1f3-459a-b297-379d9c92b53d",
+    "name": "Belize",
+    "price": "$45735.06",
+    "startDate": "2024-02-02",
+    "duration": 21
+  },
+  {
+    "id": "3911f849-24ff-45f5-b210-250ad9980d96",
+    "name": "Indonesia",
+    "price": "$48001.05",
+    "startDate": "2023-06-10",
+    "duration": 21
+  },
+  {
+    "id": "eaea51de-cc20-475c-a8dd-12c8180f9e0d",
+    "name": "Indonesia",
+    "price": "$44742.10",
+    "startDate": "2023-10-03",
+    "duration": 20
+  },
+  {
+    "id": "395a7bfe-79ee-4829-8f13-8b3317fb4283",
+    "name": "Greece",
+    "price": "$13194.80",
+    "startDate": "2023-09-28",
+    "duration": 35
+  },
+  {
+    "id": "d5987ee3-6525-43d4-9c41-bd881ee22464",
+    "name": "Egypt",
+    "price": "$37395.15",
+    "startDate": "2023-10-30",
+    "duration": 33
+  },
+  {
+    "id": "05b416f6-5897-4e73-8ee7-1b8db6217a3c",
+    "name": "Poland",
+    "price": "$23449.48",
+    "startDate": "2023-10-20",
+    "duration": 3
+  },
+  {
+    "id": "8041605e-ae5c-4836-ad03-165f94535ddf",
+    "name": "Nigeria",
+    "price": "$24436.48",
+    "startDate": "2023-10-17",
+    "duration": 9
+  },
+  {
+    "id": "1e5dc52c-9b48-4004-bd2c-f0f475cd8147",
+    "name": "Philippines",
+    "price": "$34768.18",
+    "startDate": "2024-05-26",
+    "duration": 19
+  },
+  {
+    "id": "c02e47bd-fbc3-423b-a146-350478239ed9",
+    "name": "France",
+    "price": "$32014.41",
+    "startDate": "2023-10-04",
+    "duration": 9
+  },
+  {
+    "id": "5f3c71b0-fef7-4239-a8ab-ef2728b97a9b",
+    "name": "China",
+    "price": "$28712.00",
+    "startDate": "2024-04-30",
+    "duration": 16
+  },
+  {
+    "id": "48d00feb-bbec-4c12-bf5f-f1a4fcbc1fa1",
+    "name": "Moldova",
+    "price": "$20689.18",
+    "startDate": "2023-06-21",
+    "duration": 38
+  },
+  {
+    "id": "13772b86-9319-4fb1-b6e3-5de5f810ac63",
+    "name": "Portugal",
+    "price": "$46472.19",
+    "startDate": "2024-02-13",
+    "duration": 39
+  },
+  {
+    "id": "877405f9-68b1-484f-98bd-0b1078f6901d",
+    "name": "United States",
+    "price": "$7725.42",
+    "startDate": "2023-06-09",
+    "duration": 36
+  },
+  {
+    "id": "9fc05430-f90e-43bd-91b4-9d2bbc566108",
+    "name": "Australia",
+    "price": "$14446.40",
+    "startDate": "2024-04-29",
+    "duration": 4
+  },
+  {
+    "id": "8626c012-e2ba-4009-852f-3a7f97fabc70",
+    "name": "Philippines",
+    "price": "$23631.27",
+    "startDate": "2023-07-25",
+    "duration": 12
+  },
+  {
+    "id": "0291adda-b5c6-4c11-8de5-9da50d3e99e0",
+    "name": "Greece",
+    "price": "$22342.30",
+    "startDate": "2023-10-10",
+    "duration": 24
+  },
+  {
+    "id": "1e796982-3cfa-41c2-b22a-8e8ef82051d2",
+    "name": "Poland",
+    "price": "$7230.44",
+    "startDate": "2024-03-22",
+    "duration": 25
+  },
+  {
+    "id": "53446269-f5f8-4a0b-9def-d59aa53beca2",
+    "name": "Croatia",
+    "price": "$33503.36",
+    "startDate": "2024-02-28",
+    "duration": 38
+  },
+  {
+    "id": "ff4ac93a-9be8-47e9-8207-13e829df62ae",
+    "name": "Indonesia",
+    "price": "$41442.65",
+    "startDate": "2023-09-22",
+    "duration": 34
+  },
+  {
+    "id": "c5cfd003-76af-4f06-9943-e1eb2d07b433",
+    "name": "China",
+    "price": "$9565.42",
+    "startDate": "2024-05-12",
+    "duration": 23
+  },
+  {
+    "id": "26a954d7-bcc2-4b45-b358-a9c1e1a8004b",
+    "name": "Guatemala",
+    "price": "$36991.66",
+    "startDate": "2023-09-29",
+    "duration": 34
+  },
+  {
+    "id": "9c453f34-c018-4ba4-91d6-198b643453e0",
+    "name": "Albania",
+    "price": "$31982.21",
+    "startDate": "2024-01-27",
+    "duration": 16
+  },
+  {
+    "id": "c408fe2f-5fe6-4be8-b537-0349305aa453",
+    "name": "Canada",
+    "price": "$46379.52",
+    "startDate": "2023-07-19",
+    "duration": 15
+  },
+  {
+    "id": "61a5aea2-ae46-469c-8493-5aa5691d978b",
+    "name": "Czech Republic",
+    "price": "$12502.87",
+    "startDate": "2024-03-19",
+    "duration": 7
+  },
+  {
+    "id": "a3c78ca7-620b-4dcd-b40e-78683bdaf088",
+    "name": "Netherlands",
+    "price": "$44543.54",
+    "startDate": "2024-03-17",
+    "duration": 4
+  },
+  {
+    "id": "ec97ae0c-cadc-416c-88f5-f751c9e3d49a",
+    "name": "China",
+    "price": "$45148.39",
+    "startDate": "2024-05-13",
+    "duration": 5
+  },
+  {
+    "id": "fbf7774a-c3ee-440d-8870-be947f1a53ba",
+    "name": "China",
+    "price": "$46756.75",
+    "startDate": "2023-09-15",
+    "duration": 22
+  },
+  {
+    "id": "b578f9da-ba59-4e96-bcd7-0dcadf206fa7",
+    "name": "Bulgaria",
+    "price": "$17572.63",
+    "startDate": "2023-11-29",
+    "duration": 34
+  },
+  {
+    "id": "6e2dd587-3b84-4874-a7bd-eaca0a0d7bb5",
+    "name": "Azerbaijan",
+    "price": "$1321.79",
+    "startDate": "2024-01-15",
+    "duration": 10
+  },
+  {
+    "id": "d575f590-6dea-40f9-bd81-283ec524c93a",
+    "name": "Denmark",
+    "price": "$31521.17",
+    "startDate": "2023-10-06",
+    "duration": 38
+  },
+  {
+    "id": "087e20e1-38af-4b98-8914-e68dde98b7b3",
+    "name": "Brazil",
+    "price": "$7418.71",
+    "startDate": "2024-01-08",
+    "duration": 25
+  },
+  {
+    "id": "c4d32611-237e-49a2-8154-de3f183bae2d",
+    "name": "Yemen",
+    "price": "$24378.85",
+    "startDate": "2024-02-26",
+    "duration": 24
+  },
+  {
+    "id": "dad436f1-5012-4a64-ab28-db9b2b83b023",
+    "name": "Indonesia",
+    "price": "$44118.07",
+    "startDate": "2024-02-28",
+    "duration": 5
+  },
+  {
+    "id": "ed0176a7-647e-43be-b039-611d39880c3c",
+    "name": "Vietnam",
+    "price": "$29017.50",
+    "startDate": "2023-11-30",
+    "duration": 19
+  },
+  {
+    "id": "034e655b-c622-4342-b081-b15c3bbc1eaa",
+    "name": "Greece",
+    "price": "$30505.49",
+    "startDate": "2023-10-03",
+    "duration": 34
+  },
+  {
+    "id": "943bd2be-b30a-4128-bcdc-a0190fe12119",
+    "name": "Bolivia",
+    "price": "$23122.52",
+    "startDate": "2024-03-05",
+    "duration": 38
+  },
+  {
+    "id": "723a6580-5258-45ce-8eb4-24ba9e807271",
+    "name": "Argentina",
+    "price": "$46513.37",
+    "startDate": "2024-01-31",
+    "duration": 35
+  },
+  {
+    "id": "e117f36d-7dd3-4171-9cc5-78884373be76",
+    "name": "Central African Republic",
+    "price": "$27964.99",
+    "startDate": "2023-12-10",
+    "duration": 6
+  },
+  {
+    "id": "2a5ceabf-8992-4d8f-9bd3-f035005aa820",
+    "name": "Croatia",
+    "price": "$29508.51",
+    "startDate": "2024-01-27",
+    "duration": 38
+  },
+  {
+    "id": "c294b274-4222-4206-8d73-fac04003121d",
+    "name": "Russia",
+    "price": "$21099.50",
+    "startDate": "2023-07-07",
+    "duration": 33
+  },
+  {
+    "id": "85431f0e-6fa2-424b-8e8f-12cb774c5fd7",
+    "name": "Russia",
+    "price": "$29303.20",
+    "startDate": "2023-07-24",
+    "duration": 18
+  },
+  {
+    "id": "16be045b-6986-445a-aa10-5a980f0e2ccb",
+    "name": "Albania",
+    "price": "$4428.91",
+    "startDate": "2024-01-16",
+    "duration": 19
+  },
+  {
+    "id": "8af9581a-bc5b-4913-ac75-f98f633c86b6",
+    "name": "Paraguay",
+    "price": "$18600.82",
+    "startDate": "2024-01-30",
+    "duration": 8
+  },
+  {
+    "id": "86f935c6-c73b-4138-8ff1-055301af3a5f",
+    "name": "Indonesia",
+    "price": "$37384.25",
+    "startDate": "2023-09-27",
+    "duration": 32
+  },
+  {
+    "id": "c5c37ce6-f046-439a-9862-df4250337e9a",
+    "name": "China",
+    "price": "$28717.22",
+    "startDate": "2023-11-03",
+    "duration": 5
+  },
+  {
+    "id": "a7d77f70-2f3d-4d4d-8676-b1f1bf40d5ec",
+    "name": "Indonesia",
+    "price": "$34054.78",
+    "startDate": "2023-10-01",
+    "duration": 37
+  },
+  {
+    "id": "6981774a-0ae5-46ba-828b-fedb09a93048",
+    "name": "China",
+    "price": "$43259.87",
+    "startDate": "2024-06-01",
+    "duration": 29
+  },
+  {
+    "id": "2b098372-f640-4f46-9865-d86e453dea8c",
+    "name": "Russia",
+    "price": "$15711.19",
+    "startDate": "2023-11-16",
+    "duration": 31
+  },
+  {
+    "id": "312edb78-86a3-4e59-bdff-5de7e7e81613",
+    "name": "Portugal",
+    "price": "$30587.38",
+    "startDate": "2023-10-03",
+    "duration": 30
+  },
+  {
+    "id": "7f7e035d-771a-4717-b57c-cf7d05643a09",
+    "name": "United States",
+    "price": "$44975.29",
+    "startDate": "2024-04-30",
+    "duration": 23
+  },
+  {
+    "id": "da45556f-9198-48c6-82b1-99ef56bd590f",
+    "name": "Indonesia",
+    "price": "$22633.31",
+    "startDate": "2023-09-10",
+    "duration": 38
+  },
+  {
+    "id": "536ef76b-ae25-44a9-a6b4-2e578932a369",
+    "name": "Qatar",
+    "price": "$34548.47",
+    "startDate": "2024-02-22",
+    "duration": 31
+  },
+  {
+    "id": "2d3058e5-ef22-4c93-a995-faf874c8dc68",
+    "name": "Portugal",
+    "price": "$30137.02",
+    "startDate": "2024-03-02",
+    "duration": 32
+  },
+  {
+    "id": "dd7376ec-cf27-4e6a-bf66-0091ffcc0d98",
+    "name": "China",
+    "price": "$15017.07",
+    "startDate": "2023-10-09",
+    "duration": 10
+  },
+  {
+    "id": "1ec84405-7537-4f87-9772-8bbe06ece746",
+    "name": "Pakistan",
+    "price": "$45449.79",
+    "startDate": "2024-03-14",
+    "duration": 24
+  },
+  {
+    "id": "d61589ba-7d2f-482d-b60a-c74b5d6966bf",
+    "name": "Mexico",
+    "price": "$35334.06",
+    "startDate": "2024-01-08",
+    "duration": 4
+  },
+  {
+    "id": "7d58e29a-f0bc-4a86-bcda-9ebe863f7629",
+    "name": "United States",
+    "price": "$22777.94",
+    "startDate": "2024-05-11",
+    "duration": 26
+  },
+  {
+    "id": "6f294bf6-40ba-4e0e-abf5-41002eed4e06",
+    "name": "Democratic Republic of the Congo",
+    "price": "$17090.40",
+    "startDate": "2024-05-28",
+    "duration": 29
+  },
+  {
+    "id": "ccdcc23b-ba3a-434d-a3a0-189dab4ef2c8",
+    "name": "Indonesia",
+    "price": "$14575.35",
+    "startDate": "2023-09-16",
+    "duration": 15
+  },
+  {
+    "id": "5619b492-014d-4e45-8ae9-e6250640517e",
+    "name": "France",
+    "price": "$45461.54",
+    "startDate": "2023-07-06",
+    "duration": 18
+  },
+  {
+    "id": "fa6a9484-7a0b-4c3d-99f5-fe048d428b8a",
+    "name": "New Zealand",
+    "price": "$49185.79",
+    "startDate": "2023-10-17",
+    "duration": 17
+  },
+  {
+    "id": "c8b74084-3cb7-4d2e-8092-2e4e1b4706ff",
+    "name": "China",
+    "price": "$5548.87",
+    "startDate": "2023-09-22",
+    "duration": 8
+  },
+  {
+    "id": "746bdc65-ff73-48cd-9521-30cebb354d18",
+    "name": "Ivory Coast",
+    "price": "$3597.43",
+    "startDate": "2023-07-29",
+    "duration": 17
+  },
+  {
+    "id": "5bc5deb0-9c65-4f56-b190-2e7f4f4086a5",
+    "name": "Cyprus",
+    "price": "$40703.42",
+    "startDate": "2024-02-24",
+    "duration": 38
+  },
+  {
+    "id": "2679aee3-be66-4301-b014-759c4faa0b15",
+    "name": "France",
+    "price": "$25360.04",
+    "startDate": "2024-04-23",
+    "duration": 29
+  },
+  {
+    "id": "d94b44f0-4cba-436e-9ac9-315e1a32cd75",
+    "name": "China",
+    "price": "$20672.76",
+    "startDate": "2023-09-26",
+    "duration": 5
+  },
+  {
+    "id": "30334184-1345-48a9-bc2d-e72ef914954b",
+    "name": "Afghanistan",
+    "price": "$19233.62",
+    "startDate": "2023-08-23",
+    "duration": 18
+  },
+  {
+    "id": "7ce949c1-b55c-48f5-ad1a-87c1185fde53",
+    "name": "Russia",
+    "price": "$21137.36",
+    "startDate": "2023-07-04",
+    "duration": 28
+  },
+  {
+    "id": "6a59906a-8772-49cc-8f89-89f9fee5fdbd",
+    "name": "Brazil",
+    "price": "$47592.59",
+    "startDate": "2024-04-12",
+    "duration": 8
+  },
+  {
+    "id": "79c126a0-4214-449c-b8a0-d005021b1a04",
+    "name": "Philippines",
+    "price": "$6954.43",
+    "startDate": "2024-04-04",
+    "duration": 3
+  },
+  {
+    "id": "0afe2c6e-2109-4d79-8642-bec9c2a17438",
+    "name": "United States",
+    "price": "$24868.55",
+    "startDate": "2024-04-08",
+    "duration": 28
+  },
+  {
+    "id": "470b6aaf-546a-44d3-9b21-eff2b7e071d5",
+    "name": "Philippines",
+    "price": "$8449.43",
+    "startDate": "2023-08-18",
+    "duration": 30
+  },
+  {
+    "id": "669bda19-f5df-4a45-bef6-7f6637506f67",
+    "name": "Poland",
+    "price": "$28292.08",
+    "startDate": "2023-10-23",
+    "duration": 4
+  },
+  {
+    "id": "30936234-fd71-486d-ba82-71a5f3c4950b",
+    "name": "Indonesia",
+    "price": "$13750.52",
+    "startDate": "2024-03-24",
+    "duration": 37
+  },
+  {
+    "id": "596fa4f0-5162-465c-996f-6ecc7f1325a6",
+    "name": "Peru",
+    "price": "$25681.07",
+    "startDate": "2023-07-23",
+    "duration": 38
+  },
+  {
+    "id": "732b5e13-4087-464c-bb05-46c1ee211212",
+    "name": "Greece",
+    "price": "$36207.14",
+    "startDate": "2023-08-03",
+    "duration": 15
+  },
+  {
+    "id": "2cf8a5a2-bb01-4f67-8d64-fbad410deef3",
+    "name": "Portugal",
+    "price": "$1689.62",
+    "startDate": "2023-09-17",
+    "duration": 31
+  },
+  {
+    "id": "372345e3-2c0e-46c8-82af-680c38e58373",
+    "name": "Canada",
+    "price": "$49609.07",
+    "startDate": "2024-02-17",
+    "duration": 10
+  },
+  {
+    "id": "49f91132-6eb9-483c-a4cc-2f8176c0070e",
+    "name": "Malaysia",
+    "price": "$48386.32",
+    "startDate": "2024-03-01",
+    "duration": 27
+  },
+  {
+    "id": "4d5b71a0-47a1-4f42-b282-7cce5eba39da",
+    "name": "China",
+    "price": "$9364.89",
+    "startDate": "2023-10-21",
+    "duration": 22
+  },
+  {
+    "id": "b2571ebd-20d0-4a88-9766-075438d0c74b",
+    "name": "United States",
+    "price": "$16516.90",
+    "startDate": "2024-03-16",
+    "duration": 18
+  },
+  {
+    "id": "4b72c114-8a58-4a3e-82d2-7e198da9b28a",
+    "name": "Indonesia",
+    "price": "$5228.79",
+    "startDate": "2023-10-03",
+    "duration": 8
+  },
+  {
+    "id": "9de67a6a-5e53-4ec3-8930-5e5fd9ac7159",
+    "name": "Burkina Faso",
+    "price": "$14572.38",
+    "startDate": "2023-10-02",
+    "duration": 13
+  },
+  {
+    "id": "fdc86fd2-292d-41c2-bce7-89fbbf564823",
+    "name": "Indonesia",
+    "price": "$4718.40",
+    "startDate": "2024-01-26",
+    "duration": 5
+  },
+  {
+    "id": "a8829856-206f-4a6c-bab0-5d01af13b2e6",
+    "name": "Pakistan",
+    "price": "$8297.31",
+    "startDate": "2023-11-27",
+    "duration": 13
+  },
+  {
+    "id": "defc2d57-06e2-4d2f-9345-906c2422f292",
+    "name": "Pakistan",
+    "price": "$41641.04",
+    "startDate": "2024-02-28",
+    "duration": 38
+  },
+  {
+    "id": "2411ad91-66cf-4247-bd1f-e2fbf49af923",
+    "name": "China",
+    "price": "$5886.72",
+    "startDate": "2023-11-09",
+    "duration": 26
+  },
+  {
+    "id": "e5a2c4b8-55f6-474f-b342-3f1025dc3b4c",
+    "name": "Czech Republic",
+    "price": "$26793.86",
+    "startDate": "2024-05-10",
+    "duration": 14
+  },
+  {
+    "id": "c7a75594-4b0f-4049-a112-609f8941f122",
+    "name": "Serbia",
+    "price": "$12439.91",
+    "startDate": "2024-02-27",
+    "duration": 28
+  },
+  {
+    "id": "e973c5c1-b87c-4e72-82e8-62a912506dcd",
+    "name": "Mongolia",
+    "price": "$38968.69",
+    "startDate": "2023-08-05",
+    "duration": 33
+  },
+  {
+    "id": "96f36f6c-3a79-45c4-b71a-3edcc0579f27",
+    "name": "Armenia",
+    "price": "$49907.71",
+    "startDate": "2023-07-26",
+    "duration": 16
+  },
+  {
+    "id": "4a3ddfd3-8d96-4f91-94ac-7a15119c3569",
+    "name": "Ukraine",
+    "price": "$28401.69",
+    "startDate": "2024-04-02",
+    "duration": 38
+  },
+  {
+    "id": "d332b535-ae3d-447b-af65-53947d421270",
+    "name": "South Africa",
+    "price": "$10571.00",
+    "startDate": "2024-03-20",
+    "duration": 39
+  },
+  {
+    "id": "f0e7178f-16fd-42bd-a700-dffe24229b37",
+    "name": "Indonesia",
+    "price": "$43895.87",
+    "startDate": "2024-03-04",
+    "duration": 4
+  },
+  {
+    "id": "df942fd4-98b8-44d2-8ebb-b08687e3d1c9",
+    "name": "Togo",
+    "price": "$37848.08",
+    "startDate": "2023-08-04",
+    "duration": 8
+  },
+  {
+    "id": "17f5c2ae-919c-47f2-b220-fdaa4b6c061f",
+    "name": "Portugal",
+    "price": "$38239.68",
+    "startDate": "2023-11-09",
+    "duration": 39
+  },
+  {
+    "id": "4f051532-9819-4a8e-bf35-9aa3b9bc5f28",
+    "name": "Jamaica",
+    "price": "$8935.76",
+    "startDate": "2023-09-14",
+    "duration": 39
+  },
+  {
+    "id": "89f50be0-02eb-43a3-9b8b-c928aa575ebc",
+    "name": "Brazil",
+    "price": "$17601.74",
+    "startDate": "2023-12-22",
+    "duration": 39
+  },
+  {
+    "id": "767409a2-2dc4-4267-b2cd-f85cc6bbc343",
+    "name": "Poland",
+    "price": "$17428.52",
+    "startDate": "2024-03-12",
+    "duration": 27
+  },
+  {
+    "id": "729503d5-fc5a-4270-9143-c46fcf2ad0d5",
+    "name": "Armenia",
+    "price": "$20883.33",
+    "startDate": "2024-01-17",
+    "duration": 15
+  },
+  {
+    "id": "83c15529-60c6-468b-b5ba-15d9b4beb7fe",
+    "name": "China",
+    "price": "$5939.38",
+    "startDate": "2023-11-14",
+    "duration": 15
+  },
+  {
+    "id": "8f48380b-93c6-4100-8058-171274486a3c",
+    "name": "Poland",
+    "price": "$1814.91",
+    "startDate": "2023-10-25",
+    "duration": 13
+  },
+  {
+    "id": "e21edaa8-8f80-4a83-98a5-49db42e257a6",
+    "name": "China",
+    "price": "$20796.86",
+    "startDate": "2024-02-17",
+    "duration": 12
+  },
+  {
+    "id": "76b7f44f-797e-4052-ac72-6f0415ef31f1",
+    "name": "Philippines",
+    "price": "$31685.57",
+    "startDate": "2023-06-23",
+    "duration": 26
+  },
+  {
+    "id": "4033b1a0-640c-49e9-a4c2-9ff4dc280481",
+    "name": "Ireland",
+    "price": "$14022.70",
+    "startDate": "2023-06-16",
+    "duration": 8
+  },
+  {
+    "id": "ef8ef174-cb97-43bd-95f5-d673c593f527",
+    "name": "China",
+    "price": "$9703.68",
+    "startDate": "2024-01-13",
+    "duration": 40
+  },
+  {
+    "id": "fb3fc4b6-9012-4885-b5b5-64eeae32ab86",
+    "name": "Portugal",
+    "price": "$3135.25",
+    "startDate": "2023-07-04",
+    "duration": 6
+  },
+  {
+    "id": "d38b93d3-866d-4158-8b98-833eed3c6a20",
+    "name": "Portugal",
+    "price": "$4480.67",
+    "startDate": "2023-08-09",
+    "duration": 3
+  },
+  {
+    "id": "a0ffd412-3cd6-483d-9842-5cf0e2882da4",
+    "name": "Chile",
+    "price": "$8369.32",
+    "startDate": "2023-08-23",
+    "duration": 17
+  },
+  {
+    "id": "77231d93-33e4-44cb-abaa-1921d8235ef3",
+    "name": "China",
+    "price": "$23944.30",
+    "startDate": "2023-09-13",
+    "duration": 16
+  },
+  {
+    "id": "ebcebed3-2633-4bdc-8407-327b2cae2139",
+    "name": "Indonesia",
+    "price": "$38028.80",
+    "startDate": "2024-01-30",
+    "duration": 22
+  },
+  {
+    "id": "6351a43a-73c3-4e8c-a71b-433a839c7154",
+    "name": "Norway",
+    "price": "$45965.28",
+    "startDate": "2023-07-02",
+    "duration": 11
+  },
+  {
+    "id": "15d5e5bf-5bbe-4a88-8fab-7267c4e6eff9",
+    "name": "China",
+    "price": "$47264.45",
+    "startDate": "2024-01-08",
+    "duration": 38
+  },
+  {
+    "id": "e59f8a40-807b-4dc8-9c98-16bf9f2859ba",
+    "name": "Portugal",
+    "price": "$24609.73",
+    "startDate": "2024-01-02",
+    "duration": 28
+  },
+  {
+    "id": "9fa41dc9-47c9-4cb1-abd0-517fb5827922",
+    "name": "Portugal",
+    "price": "$47993.93",
+    "startDate": "2023-08-24",
+    "duration": 20
+  },
+  {
+    "id": "8f57136b-aab9-420d-8b71-e8557b49c448",
+    "name": "Brazil",
+    "price": "$49408.05",
+    "startDate": "2024-05-30",
+    "duration": 14
+  },
+  {
+    "id": "064baa2a-97e4-41bb-bc41-cce77b7a1ec0",
+    "name": "United States",
+    "price": "$30293.78",
+    "startDate": "2023-12-31",
+    "duration": 19
+  },
+  {
+    "id": "35e95335-a207-4773-b9c3-8b6d0ffb1225",
+    "name": "Russia",
+    "price": "$9354.03",
+    "startDate": "2023-06-13",
+    "duration": 39
+  },
+  {
+    "id": "80bb2968-e88a-4fac-9cb5-04643b72043f",
+    "name": "Venezuela",
+    "price": "$13118.83",
+    "startDate": "2024-04-02",
+    "duration": 6
+  },
+  {
+    "id": "3c972893-8644-4bf6-83f2-ac0891346f0d",
+    "name": "Botswana",
+    "price": "$29820.85",
+    "startDate": "2024-04-26",
+    "duration": 17
+  },
+  {
+    "id": "4f273f22-2540-44d6-a51a-fa72c39cfdba",
+    "name": "Sweden",
+    "price": "$24204.10",
+    "startDate": "2023-06-21",
+    "duration": 23
+  },
+  {
+    "id": "e679fec1-1dab-4f0c-bc5a-023af226fd41",
+    "name": "Madagascar",
+    "price": "$49191.94",
+    "startDate": "2024-02-23",
+    "duration": 7
+  },
+  {
+    "id": "67ba279e-dbb0-4b81-a1ca-e09c0e58393f",
+    "name": "Canada",
+    "price": "$42599.92",
+    "startDate": "2023-10-26",
+    "duration": 25
+  },
+  {
+    "id": "96283509-fbe8-4324-a377-71cd50dc8e09",
+    "name": "Sweden",
+    "price": "$1564.92",
+    "startDate": "2023-11-06",
+    "duration": 29
+  },
+  {
+    "id": "8a10c5fb-21b4-495b-b9af-e9626775517e",
+    "name": "Iran",
+    "price": "$11303.77",
+    "startDate": "2023-08-09",
+    "duration": 23
+  },
+  {
+    "id": "e053e778-e0e9-4684-94c8-a713ea3d46b9",
+    "name": "France",
+    "price": "$4920.20",
+    "startDate": "2023-11-26",
+    "duration": 3
+  },
+  {
+    "id": "fbf3fa32-51fa-469b-8b22-6215af57ebcc",
+    "name": "United States",
+    "price": "$3338.00",
+    "startDate": "2023-10-02",
+    "duration": 35
+  },
+  {
+    "id": "c870698a-66a5-43ef-acb4-76fc99443461",
+    "name": "China",
+    "price": "$26078.97",
+    "startDate": "2024-02-02",
+    "duration": 30
+  },
+  {
+    "id": "17a2dcff-493f-4fba-9a4f-bc36c1f71cfa",
+    "name": "Peru",
+    "price": "$42689.44",
+    "startDate": "2024-02-27",
+    "duration": 19
+  },
+  {
+    "id": "590b2447-54e8-43a5-9537-e5750ce75d62",
+    "name": "China",
+    "price": "$14691.77",
+    "startDate": "2024-05-24",
+    "duration": 6
+  },
+  {
+    "id": "4fc8eafa-3a2d-4e54-beb7-082876d51b33",
+    "name": "Nicaragua",
+    "price": "$31504.41",
+    "startDate": "2023-07-20",
+    "duration": 40
+  },
+  {
+    "id": "a85f48a2-49f6-485c-9330-5b7a8dd55285",
+    "name": "Sweden",
+    "price": "$7229.15",
+    "startDate": "2024-03-18",
+    "duration": 17
+  },
+  {
+    "id": "8ef0fb21-a92e-4284-bda3-c2916cefb624",
+    "name": "Brazil",
+    "price": "$1847.56",
+    "startDate": "2024-01-25",
+    "duration": 33
+  },
+  {
+    "id": "7d2f74ad-c1b8-41b4-90fd-a8b9e7b2d135",
+    "name": "China",
+    "price": "$41106.30",
+    "startDate": "2023-06-24",
+    "duration": 25
+  },
+  {
+    "id": "699070d3-ba9d-4bc1-9f26-90485d37bf2f",
+    "name": "Ukraine",
+    "price": "$44559.07",
+    "startDate": "2023-07-09",
+    "duration": 38
+  },
+  {
+    "id": "03b2c923-4e76-4539-afd4-98e4df294c57",
+    "name": "Russia",
+    "price": "$14831.04",
+    "startDate": "2023-06-06",
+    "duration": 36
+  },
+  {
+    "id": "6ccf4038-3d69-4de5-9324-fc6f31a478d0",
+    "name": "Russia",
+    "price": "$46412.28",
+    "startDate": "2023-11-28",
+    "duration": 23
+  },
+  {
+    "id": "7e984384-9ef9-48e1-87db-f6a2b0db2516",
+    "name": "China",
+    "price": "$36170.72",
+    "startDate": "2024-06-03",
+    "duration": 16
+  },
+  {
+    "id": "d9c14603-9df9-4058-9c72-a2a1c0f1aacd",
+    "name": "Madagascar",
+    "price": "$40936.21",
+    "startDate": "2024-03-16",
+    "duration": 15
+  },
+  {
+    "id": "983e0d80-b5f8-48df-9e1e-d1230fc46417",
+    "name": "United Kingdom",
+    "price": "$45380.32",
+    "startDate": "2024-01-28",
+    "duration": 19
+  },
+  {
+    "id": "5682995c-c6fa-490e-b6ad-c584b50e863c",
+    "name": "Indonesia",
+    "price": "$45776.05",
+    "startDate": "2024-04-10",
+    "duration": 12
+  },
+  {
+    "id": "02d30443-77fd-4740-8449-d21fd320f0b0",
+    "name": "China",
+    "price": "$19977.51",
+    "startDate": "2024-05-16",
+    "duration": 36
+  },
+  {
+    "id": "a7bf7712-6192-4c86-825c-2735dfdf7767",
+    "name": "France",
+    "price": "$24169.28",
+    "startDate": "2024-02-28",
+    "duration": 21
+  },
+  {
+    "id": "fc904cbd-f287-4b79-8d0c-c1777bc9f3f9",
+    "name": "Kenya",
+    "price": "$3321.51",
+    "startDate": "2024-02-10",
+    "duration": 31
+  },
+  {
+    "id": "2216b782-c382-4eb6-93a6-e255be94dd39",
+    "name": "Philippines",
+    "price": "$34767.89",
+    "startDate": "2024-02-29",
+    "duration": 7
+  },
+  {
+    "id": "4192c4b2-242f-4845-849c-4d8cc06f9724",
+    "name": "Nigeria",
+    "price": "$43978.75",
+    "startDate": "2024-04-07",
+    "duration": 5
+  },
+  {
+    "id": "a37a519d-6413-4f8a-aad8-48d44eb1f2f2",
+    "name": "Poland",
+    "price": "$30786.31",
+    "startDate": "2023-07-04",
+    "duration": 16
+  },
+  {
+    "id": "9008eff3-8185-46fd-8320-8916b7b24048",
+    "name": "Indonesia",
+    "price": "$40549.48",
+    "startDate": "2024-02-29",
+    "duration": 23
+  },
+  {
+    "id": "f7f459b4-4792-4c12-a040-8798afc7c0bd",
+    "name": "China",
+    "price": "$4940.33",
+    "startDate": "2023-12-08",
+    "duration": 9
+  },
+  {
+    "id": "f363692c-079f-4c5f-aade-4493027e1c9d",
+    "name": "Uruguay",
+    "price": "$48676.79",
+    "startDate": "2023-09-17",
+    "duration": 39
+  },
+  {
+    "id": "e8a52da3-dc38-4f4d-ae32-213cdb598658",
+    "name": "Brazil",
+    "price": "$12798.53",
+    "startDate": "2024-04-18",
+    "duration": 36
+  },
+  {
+    "id": "224bd329-552b-4221-9856-6b3605f40931",
+    "name": "Indonesia",
+    "price": "$34748.20",
+    "startDate": "2023-12-07",
+    "duration": 38
+  },
+  {
+    "id": "5b44b505-f339-44bb-aad3-67e11e0f334b",
+    "name": "United States",
+    "price": "$11474.79",
+    "startDate": "2023-07-01",
+    "duration": 16
+  },
+  {
+    "id": "c86e72f3-b0d2-4860-90f8-3e57238f5a9b",
+    "name": "Indonesia",
+    "price": "$39231.86",
+    "startDate": "2023-10-22",
+    "duration": 26
+  },
+  {
+    "id": "54d0db3d-c72f-4945-9189-524e4824de42",
+    "name": "Indonesia",
+    "price": "$26851.78",
+    "startDate": "2024-04-24",
+    "duration": 26
+  },
+  {
+    "id": "d3ed8287-c0c5-4066-9885-653da3951176",
+    "name": "China",
+    "price": "$2967.01",
+    "startDate": "2023-11-20",
+    "duration": 32
+  },
+  {
+    "id": "ad3bea46-c8cc-408a-9d3d-1312012cd946",
+    "name": "Indonesia",
+    "price": "$45339.11",
+    "startDate": "2023-12-27",
+    "duration": 4
+  },
+  {
+    "id": "c1eb4801-49f9-4339-a4f5-0d8a29cd2125",
+    "name": "Vietnam",
+    "price": "$35914.93",
+    "startDate": "2023-07-01",
+    "duration": 12
+  },
+  {
+    "id": "1f0466ad-5c13-420d-8e48-dd3777fe104c",
+    "name": "South Africa",
+    "price": "$36030.50",
+    "startDate": "2023-06-06",
+    "duration": 17
+  },
+  {
+    "id": "17dfd8a8-8a78-46ed-aff5-67d9cb1c54d4",
+    "name": "China",
+    "price": "$16058.84",
+    "startDate": "2024-04-03",
+    "duration": 31
+  },
+  {
+    "id": "1ce53037-9057-4764-85ea-5b3536c88d76",
+    "name": "China",
+    "price": "$5367.93",
+    "startDate": "2023-11-04",
+    "duration": 30
+  },
+  {
+    "id": "0967569b-2725-49d2-ae23-8fe70197e1ff",
+    "name": "Indonesia",
+    "price": "$24742.44",
+    "startDate": "2023-10-11",
+    "duration": 4
+  },
+  {
+    "id": "931d13d4-f5ed-4e51-80c7-dd031f57e44b",
+    "name": "Russia",
+    "price": "$42081.98",
+    "startDate": "2023-07-04",
+    "duration": 19
+  },
+  {
+    "id": "c9cbc262-18fe-4a77-8dd5-d95b10f76786",
+    "name": "El Salvador",
+    "price": "$1255.12",
+    "startDate": "2024-05-23",
+    "duration": 3
+  },
+  {
+    "id": "1c9230c9-eff6-4673-81fb-ce2894fc9b0c",
+    "name": "Colombia",
+    "price": "$21435.35",
+    "startDate": "2023-07-02",
+    "duration": 32
+  },
+  {
+    "id": "2f675088-6096-4a8f-806b-9eaf9e4b00c0",
+    "name": "China",
+    "price": "$46079.59",
+    "startDate": "2023-11-05",
+    "duration": 22
+  },
+  {
+    "id": "e6988458-8978-40a2-b62b-c45c05fc1ef3",
+    "name": "Indonesia",
+    "price": "$31196.51",
+    "startDate": "2024-04-24",
+    "duration": 21
+  },
+  {
+    "id": "9640dfac-5eda-4c59-be00-4b8f85893750",
+    "name": "Norway",
+    "price": "$7587.22",
+    "startDate": "2024-03-16",
+    "duration": 37
+  },
+  {
+    "id": "efae0bd8-50bd-4fc9-a238-ef81b63342cd",
+    "name": "China",
+    "price": "$10003.03",
+    "startDate": "2023-11-29",
+    "duration": 14
+  },
+  {
+    "id": "b7e7f486-312d-4339-9551-a45ce9920416",
+    "name": "Colombia",
+    "price": "$32657.96",
+    "startDate": "2024-01-12",
+    "duration": 37
+  },
+  {
+    "id": "f7643c60-0409-4455-bbd9-1683959ff343",
+    "name": "Honduras",
+    "price": "$4834.99",
+    "startDate": "2023-08-18",
+    "duration": 20
+  },
+  {
+    "id": "30995237-42ef-48dc-9bbd-f37ed10b8606",
+    "name": "Russia",
+    "price": "$18962.78",
+    "startDate": "2023-07-25",
+    "duration": 35
+  },
+  {
+    "id": "637e561e-d8e6-4ffa-89c1-3e34d3870107",
+    "name": "Sweden",
+    "price": "$15340.33",
+    "startDate": "2023-09-18",
+    "duration": 35
+  },
+  {
+    "id": "fe4b1150-386b-49d8-a995-27b5c0fe93e6",
+    "name": "Brazil",
+    "price": "$42650.05",
+    "startDate": "2023-12-11",
+    "duration": 38
+  },
+  {
+    "id": "4f475baa-54c8-4ece-aed1-f5b03f19178e",
+    "name": "Russia",
+    "price": "$48005.64",
+    "startDate": "2024-02-06",
+    "duration": 10
+  },
+  {
+    "id": "1033cc0c-57e9-4f6e-b887-8447d9ad99f8",
+    "name": "Argentina",
+    "price": "$6138.45",
+    "startDate": "2024-04-20",
+    "duration": 33
+  },
+  {
+    "id": "d04e50ca-fac3-4e24-9ff1-d060511307ea",
+    "name": "China",
+    "price": "$2958.09",
+    "startDate": "2023-08-06",
+    "duration": 20
+  },
+  {
+    "id": "1a092451-139e-4803-ad56-2a2bcd1948a7",
+    "name": "Japan",
+    "price": "$13643.59",
+    "startDate": "2023-07-31",
+    "duration": 3
+  },
+  {
+    "id": "04c8cc2c-0b41-4e9b-9ea4-90ce7f6faf2d",
+    "name": "Indonesia",
+    "price": "$25776.28",
+    "startDate": "2024-03-02",
+    "duration": 16
+  },
+  {
+    "id": "f72db3a4-4d1d-44c6-85dd-6549df09a13a",
+    "name": "Russia",
+    "price": "$1626.99",
+    "startDate": "2023-06-22",
+    "duration": 32
+  },
+  {
+    "id": "0652eb4e-af75-4adc-b691-f27fa559cb62",
+    "name": "China",
+    "price": "$37125.67",
+    "startDate": "2023-10-08",
+    "duration": 14
+  },
+  {
+    "id": "6862bfbb-0c51-4ade-b6fe-3f8fafca31d4",
+    "name": "Mexico",
+    "price": "$40887.96",
+    "startDate": "2024-01-27",
+    "duration": 18
+  },
+  {
+    "id": "1a649046-7557-4790-a2e6-c854b49a773c",
+    "name": "Philippines",
+    "price": "$10529.14",
+    "startDate": "2024-05-22",
+    "duration": 24
+  },
+  {
+    "id": "05d1dbfe-f4c0-45ef-b292-a31fc2f9738a",
+    "name": "United States",
+    "price": "$45772.85",
+    "startDate": "2024-02-14",
+    "duration": 40
+  },
+  {
+    "id": "40de55e2-243b-454f-bcd5-d72dcb84a306",
+    "name": "Portugal",
+    "price": "$639.57",
+    "startDate": "2023-08-25",
+    "duration": 32
+  },
+  {
+    "id": "3c8ecad6-821a-4936-80a2-aaeeb70f6269",
+    "name": "Azerbaijan",
+    "price": "$18035.67",
+    "startDate": "2023-09-01",
+    "duration": 7
+  },
+  {
+    "id": "41d58419-439a-44da-a3ec-3cd1c90b4c21",
+    "name": "Greece",
+    "price": "$15563.85",
+    "startDate": "2023-07-03",
+    "duration": 39
+  },
+  {
+    "id": "c9282ada-b28e-4969-a8de-e3e935db93d7",
+    "name": "Dominican Republic",
+    "price": "$18717.01",
+    "startDate": "2023-12-19",
+    "duration": 15
+  },
+  {
+    "id": "1bcf502f-4d80-416a-a8f6-f378e03fceea",
+    "name": "Slovenia",
+    "price": "$34078.65",
+    "startDate": "2024-01-17",
+    "duration": 38
+  },
+  {
+    "id": "60e90cc2-a19f-4140-a40d-35f02d85d33d",
+    "name": "Micronesia",
+    "price": "$37295.29",
+    "startDate": "2023-10-18",
+    "duration": 23
+  },
+  {
+    "id": "ae2d3499-1d9b-493b-8556-cd4b8c298425",
+    "name": "Montenegro",
+    "price": "$28157.17",
+    "startDate": "2023-06-19",
+    "duration": 40
+  },
+  {
+    "id": "17038998-3b71-48ab-b3b4-65e6b3cb411b",
+    "name": "Thailand",
+    "price": "$25807.46",
+    "startDate": "2024-02-23",
+    "duration": 29
+  },
+  {
+    "id": "0da0a034-e28d-4858-9175-bb861b8d2153",
+    "name": "Cuba",
+    "price": "$15031.69",
+    "startDate": "2023-10-12",
+    "duration": 33
+  },
+  {
+    "id": "b4b795f3-dee3-419e-8b9b-d7aa853039cd",
+    "name": "Azerbaijan",
+    "price": "$13929.06",
+    "startDate": "2023-06-06",
+    "duration": 19
+  },
+  {
+    "id": "0a4e431c-b0b3-4e70-8d20-538d80b9e9b3",
+    "name": "Colombia",
+    "price": "$39015.21",
+    "startDate": "2024-04-02",
+    "duration": 21
+  },
+  {
+    "id": "5d9cf901-7935-4cf9-bd77-e009863fc994",
+    "name": "Ukraine",
+    "price": "$9502.64",
+    "startDate": "2023-11-06",
+    "duration": 24
+  },
+  {
+    "id": "00d7faab-cf0f-4bde-80c1-28d717669932",
+    "name": "Portugal",
+    "price": "$19863.44",
+    "startDate": "2024-02-02",
+    "duration": 21
+  },
+  {
+    "id": "ddb4a1be-f228-4134-b7c4-ac4b98a12bc6",
+    "name": "Thailand",
+    "price": "$45799.93",
+    "startDate": "2023-08-31",
+    "duration": 32
+  },
+  {
+    "id": "8833b5cc-8404-4e37-becc-2d43102ad449",
+    "name": "China",
+    "price": "$49171.09",
+    "startDate": "2024-05-01",
+    "duration": 11
+  },
+  {
+    "id": "5ee1cfe3-5f47-4524-945b-4aa2db6287e5",
+    "name": "Philippines",
+    "price": "$19930.42",
+    "startDate": "2024-03-29",
+    "duration": 10
+  },
+  {
+    "id": "2dec8093-2e25-4171-8ed9-f32889d27fcd",
+    "name": "Tunisia",
+    "price": "$1481.08",
+    "startDate": "2023-11-01",
+    "duration": 9
+  },
+  {
+    "id": "bd8e84f7-4ab7-4878-bb68-e5ff27ba0f60",
+    "name": "Ukraine",
+    "price": "$3562.12",
+    "startDate": "2023-06-09",
+    "duration": 11
+  },
+  {
+    "id": "73d9edb9-8481-45df-b776-c52e2bec15a5",
+    "name": "Philippines",
+    "price": "$20457.29",
+    "startDate": "2023-08-31",
+    "duration": 27
+  },
+  {
+    "id": "327c070e-89b4-4d88-8542-5fa2794930e8",
+    "name": "Jamaica",
+    "price": "$23127.36",
+    "startDate": "2023-08-02",
+    "duration": 34
+  },
+  {
+    "id": "db569008-eac8-4124-b41b-8d44aca0a926",
+    "name": "Peru",
+    "price": "$17238.44",
+    "startDate": "2024-01-07",
+    "duration": 25
+  },
+  {
+    "id": "524f7e2c-39a4-4306-9122-df8494317dcb",
+    "name": "Japan",
+    "price": "$16699.09",
+    "startDate": "2024-01-20",
+    "duration": 26
+  },
+  {
+    "id": "0908851f-8679-411c-ab9c-9050fc3e3972",
+    "name": "China",
+    "price": "$26655.43",
+    "startDate": "2024-05-02",
+    "duration": 29
+  },
+  {
+    "id": "fb65a7ab-4945-46e2-9223-57d8b6aca45d",
+    "name": "Armenia",
+    "price": "$2959.27",
+    "startDate": "2023-06-25",
+    "duration": 7
+  },
+  {
+    "id": "29cf1014-5be2-419c-9841-bf34178261a2",
+    "name": "Portugal",
+    "price": "$45596.12",
+    "startDate": "2023-07-30",
+    "duration": 7
+  },
+  {
+    "id": "9d380ee5-f3b9-4139-afd0-1dfd1411c9c9",
+    "name": "Philippines",
+    "price": "$20025.08",
+    "startDate": "2024-04-13",
+    "duration": 24
+  },
+  {
+    "id": "d39f4652-93c0-4dd2-af5d-4f19cd16e71a",
+    "name": "Russia",
+    "price": "$49274.54",
+    "startDate": "2024-02-13",
+    "duration": 9
+  },
+  {
+    "id": "2a338205-bebb-4772-bad5-09f8a1c53bdd",
+    "name": "Colombia",
+    "price": "$27828.36",
+    "startDate": "2024-01-10",
+    "duration": 11
+  },
+  {
+    "id": "989dbbe5-f898-46af-a477-dec5fe1905c2",
+    "name": "Indonesia",
+    "price": "$23859.74",
+    "startDate": "2024-01-27",
+    "duration": 15
+  },
+  {
+    "id": "97ea011e-d5ed-460a-b7a8-53d89e247407",
+    "name": "China",
+    "price": "$1562.54",
+    "startDate": "2024-03-11",
+    "duration": 15
+  },
+  {
+    "id": "25046243-a44c-4870-8073-ebbfb99d389f",
+    "name": "Yemen",
+    "price": "$9455.27",
+    "startDate": "2024-02-14",
+    "duration": 29
+  },
+  {
+    "id": "c97b50cd-36e0-4b74-af45-e7636371c271",
+    "name": "China",
+    "price": "$32766.05",
+    "startDate": "2024-01-04",
+    "duration": 14
+  },
+  {
+    "id": "6c4d0d9d-6fbd-400d-89fe-c390a3ad07bc",
+    "name": "Sweden",
+    "price": "$8297.42",
+    "startDate": "2024-05-26",
+    "duration": 10
+  },
+  {
+    "id": "b367fc47-1855-4613-82c3-b8f591c48077",
+    "name": "Philippines",
+    "price": "$34152.50",
+    "startDate": "2024-02-28",
+    "duration": 21
+  },
+  {
+    "id": "a0c9b78f-73f5-4cea-8ede-43a7554572ad",
+    "name": "Poland",
+    "price": "$20661.72",
+    "startDate": "2024-05-23",
+    "duration": 38
+  },
+  {
+    "id": "2cbcf830-d085-46b4-8613-2b5c61e20b8d",
+    "name": "Hungary",
+    "price": "$11646.39",
+    "startDate": "2023-07-24",
+    "duration": 11
+  },
+  {
+    "id": "73299c55-9b80-4697-a294-208c08f8742d",
+    "name": "China",
+    "price": "$17031.25",
+    "startDate": "2023-07-09",
+    "duration": 40
+  },
+  {
+    "id": "97a93e18-99f1-4508-ba0a-5ce2aac4ba91",
+    "name": "China",
+    "price": "$36852.83",
+    "startDate": "2023-08-08",
+    "duration": 40
+  },
+  {
+    "id": "cdb70968-5b4e-4d87-afb3-593f5ebf2ebf",
+    "name": "France",
+    "price": "$16599.49",
+    "startDate": "2023-10-09",
+    "duration": 25
+  },
+  {
+    "id": "201eb038-15b7-4854-b2d3-21aa3753ba41",
+    "name": "Canada",
+    "price": "$23768.96",
+    "startDate": "2023-09-24",
+    "duration": 37
+  },
+  {
+    "id": "525b2eca-29dd-4d9d-a41b-7e5aef023193",
+    "name": "Honduras",
+    "price": "$14739.82",
+    "startDate": "2023-12-11",
+    "duration": 9
+  },
+  {
+    "id": "1f9edaaa-a4fe-47d1-a766-739521513cc5",
+    "name": "China",
+    "price": "$26310.09",
+    "startDate": "2023-12-16",
+    "duration": 20
+  },
+  {
+    "id": "41abf4d5-15fa-4941-9f40-f30ec7e31a48",
+    "name": "Russia",
+    "price": "$6441.03",
+    "startDate": "2023-07-13",
+    "duration": 5
+  },
+  {
+    "id": "179cfd37-b575-4807-8f89-346c027e902f",
+    "name": "Indonesia",
+    "price": "$1081.97",
+    "startDate": "2023-08-10",
+    "duration": 3
+  },
+  {
+    "id": "02158b19-8be5-4e9f-82df-44d51986856e",
+    "name": "Poland",
+    "price": "$17375.08",
+    "startDate": "2023-12-30",
+    "duration": 23
+  },
+  {
+    "id": "792d5892-ff42-4aea-bb38-9040aae40e32",
+    "name": "China",
+    "price": "$47534.98",
+    "startDate": "2023-12-26",
+    "duration": 38
+  },
+  {
+    "id": "21cb5c74-5a3c-463e-b641-8ea4627730f1",
+    "name": "Cuba",
+    "price": "$7382.83",
+    "startDate": "2024-02-08",
+    "duration": 7
+  },
+  {
+    "id": "3a382bc3-5990-461c-8425-39a6943d4eec",
+    "name": "Thailand",
+    "price": "$15845.59",
+    "startDate": "2024-01-09",
+    "duration": 9
+  },
+  {
+    "id": "e5a3ef3d-2f21-41f6-b5d9-aa4477d9addb",
+    "name": "China",
+    "price": "$24681.83",
+    "startDate": "2024-05-30",
+    "duration": 30
+  },
+  {
+    "id": "3fa99fbf-d3bc-487f-a29b-aedd9e9d3257",
+    "name": "Indonesia",
+    "price": "$1283.78",
+    "startDate": "2024-05-14",
+    "duration": 21
+  },
+  {
+    "id": "9c3a2fd0-3e4f-4ab6-aa71-09611c57e21e",
+    "name": "China",
+    "price": "$23109.46",
+    "startDate": "2024-05-26",
+    "duration": 32
+  },
+  {
+    "id": "624c3eff-1678-4bb0-8b84-ca6311e1f26c",
+    "name": "Dominican Republic",
+    "price": "$12344.10",
+    "startDate": "2023-06-30",
+    "duration": 40
+  },
+  {
+    "id": "7e51655d-9ffe-4bde-bd04-032b055ad98f",
+    "name": "China",
+    "price": "$11389.54",
+    "startDate": "2024-01-02",
+    "duration": 30
+  },
+  {
+    "id": "82e505ff-041f-4e40-b6b4-e5e2b7ebfce6",
+    "name": "Brazil",
+    "price": "$49610.37",
+    "startDate": "2023-06-17",
+    "duration": 20
+  },
+  {
+    "id": "cb183e83-3b6e-4168-b4c8-03c56ff076fb",
+    "name": "China",
+    "price": "$31468.39",
+    "startDate": "2024-04-19",
+    "duration": 16
+  },
+  {
+    "id": "6995e52f-ba9c-4c33-b59c-8e746ef52040",
+    "name": "Indonesia",
+    "price": "$31154.33",
+    "startDate": "2023-08-15",
+    "duration": 33
+  },
+  {
+    "id": "1683a501-5bcd-4be6-b7db-a5e2c927d939",
+    "name": "Nicaragua",
+    "price": "$6481.93",
+    "startDate": "2024-02-26",
+    "duration": 6
+  },
+  {
+    "id": "128c92f9-6e77-45f0-b095-f26374974292",
+    "name": "Philippines",
+    "price": "$31123.31",
+    "startDate": "2024-02-23",
+    "duration": 18
+  },
+  {
+    "id": "52124579-ce41-4ee6-ad12-989225412cc3",
+    "name": "Albania",
+    "price": "$10059.64",
+    "startDate": "2024-04-28",
+    "duration": 35
+  },
+  {
+    "id": "76df441d-58ce-4ca9-aeb7-555f01e2ac65",
+    "name": "China",
+    "price": "$2459.05",
+    "startDate": "2023-09-20",
+    "duration": 16
+  },
+  {
+    "id": "59ca193c-bf1e-4e4c-b17a-1d013b35bd8f",
+    "name": "China",
+    "price": "$37728.12",
+    "startDate": "2023-09-18",
+    "duration": 17
+  },
+  {
+    "id": "e9c133a9-caa0-47f0-8a6b-f01e1a77f2d8",
+    "name": "Indonesia",
+    "price": "$8222.11",
+    "startDate": "2023-09-11",
+    "duration": 17
+  },
+  {
+    "id": "f696fae1-b1e2-4ca6-b5cd-a9c107268c45",
+    "name": "China",
+    "price": "$14906.42",
+    "startDate": "2024-03-04",
+    "duration": 40
+  },
+  {
+    "id": "213deec0-3f82-4300-ab05-a55866aab300",
+    "name": "Argentina",
+    "price": "$11624.63",
+    "startDate": "2023-09-14",
+    "duration": 18
+  },
+  {
+    "id": "f464f044-05a9-4b43-8f55-a3495becad39",
+    "name": "Japan",
+    "price": "$4224.61",
+    "startDate": "2023-09-01",
+    "duration": 26
+  },
+  {
+    "id": "728c64e7-adf8-4c13-9c29-6266192521cf",
+    "name": "Israel",
+    "price": "$46523.89",
+    "startDate": "2023-12-23",
+    "duration": 16
+  },
+  {
+    "id": "fb235776-d60d-4066-b708-85ff8ec383fd",
+    "name": "Indonesia",
+    "price": "$22226.13",
+    "startDate": "2023-09-11",
+    "duration": 12
+  },
+  {
+    "id": "cf3baad4-6a50-4e99-a6bd-485e0cf0e374",
+    "name": "Philippines",
+    "price": "$49260.23",
+    "startDate": "2024-04-28",
+    "duration": 31
+  },
+  {
+    "id": "8740e8ae-a66c-47e7-abf7-1ca12517595a",
+    "name": "Cook Islands",
+    "price": "$10005.39",
+    "startDate": "2024-04-11",
+    "duration": 33
+  },
+  {
+    "id": "6fbf8fe9-33db-441f-9fbc-9be6fd88361a",
+    "name": "Brazil",
+    "price": "$45277.28",
+    "startDate": "2023-12-08",
+    "duration": 13
+  },
+  {
+    "id": "dbcac037-64b8-47b1-9989-86dc20c03647",
+    "name": "China",
+    "price": "$48834.04",
+    "startDate": "2023-06-09",
+    "duration": 32
+  },
+  {
+    "id": "aa27893b-938e-477d-b545-691317605bed",
+    "name": "China",
+    "price": "$42899.87",
+    "startDate": "2024-02-24",
+    "duration": 40
+  },
+  {
+    "id": "038e43b1-f148-475c-8361-916b1dbe6d56",
+    "name": "China",
+    "price": "$6127.43",
+    "startDate": "2023-11-26",
+    "duration": 11
+  },
+  {
+    "id": "289049c9-33cf-4352-93c9-606f68a6c9a6",
+    "name": "France",
+    "price": "$27870.68",
+    "startDate": "2024-03-14",
+    "duration": 7
+  },
+  {
+    "id": "14fd4b63-a278-4e2b-9d5a-c4653427de9f",
+    "name": "Czech Republic",
+    "price": "$8333.76",
+    "startDate": "2023-11-29",
+    "duration": 36
+  },
+  {
+    "id": "cb9c52c1-91bd-4284-a4df-f693fc116b64",
+    "name": "Bulgaria",
+    "price": "$28191.82",
+    "startDate": "2023-09-24",
+    "duration": 3
+  },
+  {
+    "id": "c874a95e-19e5-4ca0-acfb-f6dc785a9068",
+    "name": "El Salvador",
+    "price": "$2368.14",
+    "startDate": "2024-03-18",
+    "duration": 33
+  },
+  {
+    "id": "3cc707e7-c29a-442b-9de9-641019cb2236",
+    "name": "China",
+    "price": "$28143.61",
+    "startDate": "2024-03-12",
+    "duration": 9
+  },
+  {
+    "id": "69032105-24b2-4f5c-8a99-451b747f7b64",
+    "name": "Sweden",
+    "price": "$39551.20",
+    "startDate": "2023-07-18",
+    "duration": 13
+  },
+  {
+    "id": "dc31c439-4ef3-49d5-abee-cd46ce815799",
+    "name": "New Caledonia",
+    "price": "$40518.30",
+    "startDate": "2024-05-29",
+    "duration": 26
+  },
+  {
+    "id": "04c45252-8def-44a7-8086-6717b9897d20",
+    "name": "China",
+    "price": "$47323.97",
+    "startDate": "2023-11-15",
+    "duration": 15
+  },
+  {
+    "id": "b5359d64-0022-4d6c-a9f9-7fd3b274582d",
+    "name": "Poland",
+    "price": "$40719.56",
+    "startDate": "2023-07-21",
+    "duration": 34
+  },
+  {
+    "id": "2a22d647-ce3b-4060-93db-035024693c1b",
+    "name": "China",
+    "price": "$2641.17",
+    "startDate": "2024-03-04",
+    "duration": 11
+  },
+  {
+    "id": "17846880-411d-412a-b82c-f080dd6f61bf",
+    "name": "Colombia",
+    "price": "$42301.75",
+    "startDate": "2024-05-03",
+    "duration": 28
+  },
+  {
+    "id": "ffb3e29e-d3d4-440c-95f1-522aa4d72e0d",
+    "name": "France",
+    "price": "$33659.11",
+    "startDate": "2023-08-21",
+    "duration": 8
+  },
+  {
+    "id": "0cb5c12a-5696-4c5b-9ad7-074f1d2901bd",
+    "name": "China",
+    "price": "$45792.52",
+    "startDate": "2023-08-11",
+    "duration": 35
+  },
+  {
+    "id": "497e9116-8d05-4e56-8d0c-e57f4997f8f2",
+    "name": "Indonesia",
+    "price": "$14294.87",
+    "startDate": "2024-05-29",
+    "duration": 8
+  },
+  {
+    "id": "3800c0f8-4e4b-4c0b-a9f7-c94a9f91edbd",
+    "name": "Croatia",
+    "price": "$27253.19",
+    "startDate": "2024-01-27",
+    "duration": 25
+  },
+  {
+    "id": "223ee5fa-88e5-4592-8e32-c8c748fb5490",
+    "name": "Poland",
+    "price": "$37035.71",
+    "startDate": "2023-12-08",
+    "duration": 9
+  },
+  {
+    "id": "a07c17ee-28d2-4182-b063-8b381f17eff9",
+    "name": "United States",
+    "price": "$31275.82",
+    "startDate": "2024-04-04",
+    "duration": 3
+  },
+  {
+    "id": "12948938-9932-44cc-9c7b-87f8eaa0ff6b",
+    "name": "Dominican Republic",
+    "price": "$6504.68",
+    "startDate": "2023-11-28",
+    "duration": 38
+  },
+  {
+    "id": "d0ced147-f58f-4cae-898a-5adc7d148627",
+    "name": "Gambia",
+    "price": "$15560.26",
+    "startDate": "2023-07-28",
+    "duration": 25
+  },
+  {
+    "id": "64ab67ff-ca36-4fa0-bb6c-39cce7f5c577",
+    "name": "Ukraine",
+    "price": "$34446.23",
+    "startDate": "2023-10-22",
+    "duration": 24
+  },
+  {
+    "id": "0e6cead1-2135-4b97-8660-0f7b52af0a49",
+    "name": "Netherlands",
+    "price": "$44999.89",
+    "startDate": "2023-06-06",
+    "duration": 40
+  },
+  {
+    "id": "ac7aa2f8-0b7c-4b00-b6e3-bfa1fea354d5",
+    "name": "Mongolia",
+    "price": "$35348.18",
+    "startDate": "2023-09-06",
+    "duration": 24
+  },
+  {
+    "id": "40dc4798-fd6b-4108-adf1-49401001b4e1",
+    "name": "China",
+    "price": "$49855.42",
+    "startDate": "2024-02-22",
+    "duration": 21
+  },
+  {
+    "id": "1e39e8b6-b220-4b36-8051-818364820b26",
+    "name": "Canada",
+    "price": "$4451.82",
+    "startDate": "2023-07-07",
+    "duration": 13
+  },
+  {
+    "id": "8584e750-4da2-4feb-9155-2eba9d95205c",
+    "name": "Poland",
+    "price": "$16703.26",
+    "startDate": "2023-08-02",
+    "duration": 33
+  },
+  {
+    "id": "c3a945fb-c9c3-4fe7-9026-3d9f5462d8a7",
+    "name": "Sweden",
+    "price": "$21420.03",
+    "startDate": "2024-06-01",
+    "duration": 22
+  },
+  {
+    "id": "31fa1dec-78bb-4698-be4a-adacd7489ae5",
+    "name": "Uzbekistan",
+    "price": "$35048.68",
+    "startDate": "2024-05-12",
+    "duration": 36
+  },
+  {
+    "id": "a00d82ff-473b-41b3-b353-7aea9a76ce82",
+    "name": "China",
+    "price": "$33469.83",
+    "startDate": "2023-07-26",
+    "duration": 5
+  },
+  {
+    "id": "929430cd-feea-458d-805f-64afeb33ec37",
+    "name": "Vietnam",
+    "price": "$35219.73",
+    "startDate": "2024-02-11",
+    "duration": 13
+  },
+  {
+    "id": "2cb92d27-f7b0-40d2-90a9-676568e9b73c",
+    "name": "Indonesia",
+    "price": "$16669.83",
+    "startDate": "2024-05-03",
+    "duration": 5
+  },
+  {
+    "id": "a0a739cb-aa72-4b88-bf85-6325cfd513b2",
+    "name": "Poland",
+    "price": "$17905.42",
+    "startDate": "2024-05-04",
+    "duration": 30
+  },
+  {
+    "id": "5365977e-f0b0-47db-a188-7b6170935fec",
+    "name": "Sweden",
+    "price": "$33623.73",
+    "startDate": "2023-06-15",
+    "duration": 6
+  },
+  {
+    "id": "7b8d17ae-08f1-4595-a427-577d82877ff4",
+    "name": "France",
+    "price": "$26100.73",
+    "startDate": "2024-04-19",
+    "duration": 20
+  },
+  {
+    "id": "20a3e9a2-999c-4d19-9d1e-5b5f56d7ed0a",
+    "name": "Indonesia",
+    "price": "$26606.48",
+    "startDate": "2023-09-24",
+    "duration": 39
+  },
+  {
+    "id": "44d3c086-07ac-43fd-90c9-2a388a174020",
+    "name": "Nepal",
+    "price": "$41885.51",
+    "startDate": "2023-07-12",
+    "duration": 5
+  },
+  {
+    "id": "b0ee50d5-27b0-4d44-ad24-2ae7ef87bae1",
+    "name": "Indonesia",
+    "price": "$35172.56",
+    "startDate": "2023-12-01",
+    "duration": 22
+  },
+  {
+    "id": "c1918a63-97dc-4912-9ae8-044c1223021c",
+    "name": "Japan",
+    "price": "$33741.42",
+    "startDate": "2023-07-12",
+    "duration": 4
+  },
+  {
+    "id": "03461c5e-2a7e-409e-bea3-e392b7e7e5c4",
+    "name": "China",
+    "price": "$6573.30",
+    "startDate": "2023-12-23",
+    "duration": 26
+  },
+  {
+    "id": "607fb96e-d1c6-4f5d-b349-8406b9856960",
+    "name": "Indonesia",
+    "price": "$31386.68",
+    "startDate": "2023-09-29",
+    "duration": 39
+  },
+  {
+    "id": "31018dc6-d810-40eb-9a78-3244286585c1",
+    "name": "China",
+    "price": "$45647.06",
+    "startDate": "2023-10-12",
+    "duration": 13
+  },
+  {
+    "id": "24d2533d-f83b-426b-a0c5-5a06cf62164d",
+    "name": "China",
+    "price": "$13037.53",
+    "startDate": "2024-04-10",
+    "duration": 37
+  },
+  {
+    "id": "a2b20751-25d0-42b6-8ddb-ae759ab73427",
+    "name": "Bolivia",
+    "price": "$11126.36",
+    "startDate": "2023-06-26",
+    "duration": 25
+  },
+  {
+    "id": "4a083ada-9820-43a3-b907-d8c704803b3d",
+    "name": "Sri Lanka",
+    "price": "$22476.90",
+    "startDate": "2024-05-26",
+    "duration": 30
+  },
+  {
+    "id": "205599d6-5f7b-4f69-b03b-65cc9ba88168",
+    "name": "Finland",
+    "price": "$15617.53",
+    "startDate": "2024-01-15",
+    "duration": 15
+  },
+  {
+    "id": "97ceadfa-57e0-4557-8028-31bac7e4beec",
+    "name": "Mexico",
+    "price": "$28724.50",
+    "startDate": "2024-04-29",
+    "duration": 33
+  },
+  {
+    "id": "29691269-503d-47a5-bf46-0c9a63c37ead",
+    "name": "China",
+    "price": "$49889.86",
+    "startDate": "2024-01-13",
+    "duration": 20
+  },
+  {
+    "id": "14cb0a04-57b3-414e-8199-43cc160c2a5e",
+    "name": "Russia",
+    "price": "$16054.69",
+    "startDate": "2023-09-18",
+    "duration": 3
+  },
+  {
+    "id": "9ddc4eb8-0eb0-4f87-9fe6-152628c9ccac",
+    "name": "Ghana",
+    "price": "$25707.18",
+    "startDate": "2023-09-20",
+    "duration": 30
+  },
+  {
+    "id": "b6450050-866f-43fb-a48d-6324438c7a3e",
+    "name": "Serbia",
+    "price": "$20877.16",
+    "startDate": "2023-11-11",
+    "duration": 39
+  },
+  {
+    "id": "8c901a30-8982-4982-b605-0735c2946716",
+    "name": "Russia",
+    "price": "$33672.05",
+    "startDate": "2023-06-17",
+    "duration": 20
+  },
+  {
+    "id": "c0a2c527-fa89-45d4-ac4d-332578fc717f",
+    "name": "Russia",
+    "price": "$18092.37",
+    "startDate": "2023-10-21",
+    "duration": 5
+  },
+  {
+    "id": "143ea0dc-888c-4171-bda6-492829666f75",
+    "name": "China",
+    "price": "$6689.47",
+    "startDate": "2023-08-19",
+    "duration": 17
+  },
+  {
+    "id": "aaee18e0-a5ee-4158-90d8-129632137d4b",
+    "name": "Nigeria",
+    "price": "$10606.52",
+    "startDate": "2023-07-01",
+    "duration": 29
+  },
+  {
+    "id": "3c8ea3f7-6a04-4155-9e27-6d38aea3fe58",
+    "name": "Indonesia",
+    "price": "$45693.68",
+    "startDate": "2023-10-22",
+    "duration": 10
+  },
+  {
+    "id": "4c8e3486-d07d-4244-aace-d06a39aeae7d",
+    "name": "Germany",
+    "price": "$40053.11",
+    "startDate": "2024-03-20",
+    "duration": 30
+  },
+  {
+    "id": "00d02434-29a1-4e0c-b5df-ee1f1beeef88",
+    "name": "Czech Republic",
+    "price": "$21834.36",
+    "startDate": "2024-04-26",
+    "duration": 20
+  },
+  {
+    "id": "7db7e748-727f-4477-8f24-e190dcfc0517",
+    "name": "Czech Republic",
+    "price": "$2605.04",
+    "startDate": "2023-12-17",
+    "duration": 6
+  },
+  {
+    "id": "3cb21f17-3b1e-41d8-8a3b-5b1a1a241fb5",
+    "name": "China",
+    "price": "$38657.77",
+    "startDate": "2024-02-23",
+    "duration": 13
+  },
+  {
+    "id": "932a4e6c-4851-44dc-95f6-bc5063f621cb",
+    "name": "Poland",
+    "price": "$30870.06",
+    "startDate": "2024-02-13",
+    "duration": 8
+  },
+  {
+    "id": "d7a14ffd-3d6c-4daf-9f95-648b06d879f9",
+    "name": "Indonesia",
+    "price": "$21943.83",
+    "startDate": "2024-02-16",
+    "duration": 20
+  },
+  {
+    "id": "69185980-26e9-427a-9f0f-043e17e754d9",
+    "name": "Poland",
+    "price": "$38640.73",
+    "startDate": "2023-08-04",
+    "duration": 21
+  },
+  {
+    "id": "81f95f02-6d0b-4040-b6e9-2809bfb908bc",
+    "name": "China",
+    "price": "$27352.58",
+    "startDate": "2024-03-19",
+    "duration": 11
+  },
+  {
+    "id": "d2b2d42f-79cf-4617-b144-b3c903eee215",
+    "name": "North Korea",
+    "price": "$49791.73",
+    "startDate": "2023-06-05",
+    "duration": 22
+  },
+  {
+    "id": "5535a6ef-30a9-4e89-9146-16f866b67d1f",
+    "name": "China",
+    "price": "$11803.64",
+    "startDate": "2023-11-20",
+    "duration": 4
+  },
+  {
+    "id": "63de8765-63f9-4d09-bc9a-76a7e1ddcdab",
+    "name": "Indonesia",
+    "price": "$681.80",
+    "startDate": "2024-03-04",
+    "duration": 30
+  },
+  {
+    "id": "4855e1af-3026-46dd-9a31-6cf51f663cc2",
+    "name": "Spain",
+    "price": "$3544.75",
+    "startDate": "2023-09-23",
+    "duration": 28
+  },
+  {
+    "id": "69ce10c6-182b-493e-8ef5-12e172fb1186",
+    "name": "Sri Lanka",
+    "price": "$22598.11",
+    "startDate": "2024-02-06",
+    "duration": 39
+  },
+  {
+    "id": "0fa7a83c-11e9-488f-b7c3-3dffc9720ad0",
+    "name": "China",
+    "price": "$21848.95",
+    "startDate": "2024-03-19",
+    "duration": 23
+  },
+  {
+    "id": "657d0522-17d0-4d34-a3e3-a05403f079db",
+    "name": "France",
+    "price": "$13915.61",
+    "startDate": "2023-07-22",
+    "duration": 34
+  },
+  {
+    "id": "a34df728-ad6a-4096-9328-6acaeb617c1c",
+    "name": "China",
+    "price": "$31002.95",
+    "startDate": "2023-12-29",
+    "duration": 9
+  },
+  {
+    "id": "c4af2fa0-1f48-42b5-ae96-0d7db7c7bf3f",
+    "name": "Haiti",
+    "price": "$46550.12",
+    "startDate": "2023-07-02",
+    "duration": 16
+  },
+  {
+    "id": "52fc27c9-2238-4d30-8a33-a7622447f071",
+    "name": "Hungary",
+    "price": "$44269.00",
+    "startDate": "2024-05-26",
+    "duration": 38
+  },
+  {
+    "id": "3e015763-e735-4bab-9c1b-1db6be35f4de",
+    "name": "Canada",
+    "price": "$41644.03",
+    "startDate": "2023-12-11",
+    "duration": 30
+  },
+  {
+    "id": "50c3e057-b920-4228-a34e-b0b44b323744",
+    "name": "Philippines",
+    "price": "$3451.39",
+    "startDate": "2024-04-01",
+    "duration": 22
+  },
+  {
+    "id": "b27413ac-8fa5-4370-bb91-13dacf523f7f",
+    "name": "Jamaica",
+    "price": "$15552.52",
+    "startDate": "2023-08-08",
+    "duration": 19
+  },
+  {
+    "id": "f5d25698-d237-4f41-a4a3-f078166db5b9",
+    "name": "Yemen",
+    "price": "$44030.28",
+    "startDate": "2023-12-08",
+    "duration": 6
+  },
+  {
+    "id": "cbbc573c-d5cc-4ff0-9e4d-53c852cd9e3c",
+    "name": "China",
+    "price": "$47637.62",
+    "startDate": "2024-01-14",
+    "duration": 26
+  },
+  {
+    "id": "4d7e13c0-72fb-4b9d-bb92-d2f9a0ee5a79",
+    "name": "Luxembourg",
+    "price": "$14834.16",
+    "startDate": "2024-01-25",
+    "duration": 27
+  },
+  {
+    "id": "b3005c55-6c4f-4c8e-8442-4d56eba2110a",
+    "name": "Indonesia",
+    "price": "$14751.94",
+    "startDate": "2023-09-02",
+    "duration": 23
+  },
+  {
+    "id": "ee1de294-0ccc-46a0-aaa3-87f7532af3f7",
+    "name": "Indonesia",
+    "price": "$37140.74",
+    "startDate": "2023-08-29",
+    "duration": 33
+  },
+  {
+    "id": "f91f8769-2af2-4e0b-a91e-af710b006616",
+    "name": "Saudi Arabia",
+    "price": "$35558.41",
+    "startDate": "2024-01-20",
+    "duration": 6
+  },
+  {
+    "id": "49534719-91d2-4bc0-824f-1917604de195",
+    "name": "Colombia",
+    "price": "$35208.05",
+    "startDate": "2024-01-22",
+    "duration": 36
+  },
+  {
+    "id": "1e6d1c12-1700-4b1a-93ef-d7a034776572",
+    "name": "Canada",
+    "price": "$36753.03",
+    "startDate": "2023-08-03",
+    "duration": 37
+  },
+  {
+    "id": "2acad599-f8ca-41a6-a309-9d9838140a45",
+    "name": "China",
+    "price": "$37777.55",
+    "startDate": "2024-04-14",
+    "duration": 34
+  },
+  {
+    "id": "37a26078-1287-432a-9560-995442a9d7f4",
+    "name": "French Polynesia",
+    "price": "$4961.90",
+    "startDate": "2023-06-13",
+    "duration": 30
+  },
+  {
+    "id": "b1b2bcba-0771-4682-b520-e24c347fa547",
+    "name": "Egypt",
+    "price": "$38766.20",
+    "startDate": "2023-12-10",
+    "duration": 21
+  },
+  {
+    "id": "d1faa681-9212-4905-a180-b3f3d2db64c0",
+    "name": "Philippines",
+    "price": "$10121.68",
+    "startDate": "2024-01-09",
+    "duration": 39
+  },
+  {
+    "id": "1eef3c9f-3c43-4432-bc2e-93d98d9e2d48",
+    "name": "Serbia",
+    "price": "$32286.04",
+    "startDate": "2024-05-02",
+    "duration": 20
+  },
+  {
+    "id": "fa101129-9208-4d2e-b626-fad041ac27e4",
+    "name": "Colombia",
+    "price": "$35014.04",
+    "startDate": "2024-03-20",
+    "duration": 36
+  },
+  {
+    "id": "a66e6f69-615b-43b5-a2d1-c45864fe7342",
+    "name": "Poland",
+    "price": "$29287.30",
+    "startDate": "2023-07-20",
+    "duration": 32
+  },
+  {
+    "id": "49da3d5b-0849-4ba2-b595-0e8526dd19a3",
+    "name": "Indonesia",
+    "price": "$38878.43",
+    "startDate": "2024-01-28",
+    "duration": 7
+  },
+  {
+    "id": "cc9cd7f6-14d5-4150-93a6-90f6c489455a",
+    "name": "China",
+    "price": "$12090.54",
+    "startDate": "2023-10-25",
+    "duration": 6
+  },
+  {
+    "id": "5ae45b53-e164-431c-bc60-43ce47de6db2",
+    "name": "Colombia",
+    "price": "$49005.50",
+    "startDate": "2024-03-06",
+    "duration": 26
+  },
+  {
+    "id": "9a3fdd00-ab0e-4686-8809-0fa30fb5f282",
+    "name": "Indonesia",
+    "price": "$1864.43",
+    "startDate": "2023-07-17",
+    "duration": 5
+  },
+  {
+    "id": "6572d923-2698-4a7f-b687-ba805ef6bbc7",
+    "name": "Nigeria",
+    "price": "$46572.31",
+    "startDate": "2023-07-16",
+    "duration": 36
+  },
+  {
+    "id": "991429f8-2da3-4c4a-ad47-a6dcca6c4689",
+    "name": "Portugal",
+    "price": "$36518.05",
+    "startDate": "2024-03-17",
+    "duration": 29
+  },
+  {
+    "id": "23019aaf-b9d9-4647-9fe8-f56a3e41d840",
+    "name": "Zimbabwe",
+    "price": "$34707.34",
+    "startDate": "2023-10-09",
+    "duration": 37
+  },
+  {
+    "id": "9b2e2455-b9a2-4c4f-b287-fd5d51fe249d",
+    "name": "Russia",
+    "price": "$45672.21",
+    "startDate": "2023-07-16",
+    "duration": 28
+  },
+  {
+    "id": "c68dd864-5c7b-4b03-a703-37730a63c44f",
+    "name": "Croatia",
+    "price": "$21350.57",
+    "startDate": "2023-11-11",
+    "duration": 34
+  },
+  {
+    "id": "2965f27b-0740-4d84-8681-2dcb509599e3",
+    "name": "China",
+    "price": "$46916.72",
+    "startDate": "2023-11-14",
+    "duration": 32
+  },
+  {
+    "id": "4bf66185-480a-4eb3-9fb7-a33a15d0dac9",
+    "name": "Tunisia",
+    "price": "$32584.58",
+    "startDate": "2023-07-18",
+    "duration": 33
+  },
+  {
+    "id": "26c935b7-5934-4d9c-9018-8dbf49d077eb",
+    "name": "China",
+    "price": "$4946.95",
+    "startDate": "2024-01-25",
+    "duration": 25
+  },
+  {
+    "id": "b2b622d4-27ee-4405-9f71-c5707c294ad0",
+    "name": "Philippines",
+    "price": "$19499.00",
+    "startDate": "2024-02-06",
+    "duration": 36
+  },
+  {
+    "id": "303d85f5-942a-4f9e-b136-22e26a738039",
+    "name": "Tunisia",
+    "price": "$30569.09",
+    "startDate": "2023-08-29",
+    "duration": 18
+  },
+  {
+    "id": "94225e00-ba38-44bc-876e-286080f9ff59",
+    "name": "China",
+    "price": "$19139.43",
+    "startDate": "2023-09-17",
+    "duration": 36
+  },
+  {
+    "id": "8088f465-efe9-4b60-b85d-734acc799c8a",
+    "name": "Russia",
+    "price": "$28130.68",
+    "startDate": "2024-05-02",
+    "duration": 26
+  },
+  {
+    "id": "fad6a1b4-70c0-414d-8e9a-bd40dc639af0",
+    "name": "China",
+    "price": "$15596.45",
+    "startDate": "2023-12-23",
+    "duration": 22
+  },
+  {
+    "id": "ac16c4c2-fc31-4f2b-bc34-19f1bc708e07",
+    "name": "China",
+    "price": "$42218.58",
+    "startDate": "2023-07-05",
+    "duration": 35
+  },
+  {
+    "id": "bcb1667b-f33e-44be-879d-8f0cd025c475",
+    "name": "Poland",
+    "price": "$13303.25",
+    "startDate": "2024-03-25",
+    "duration": 28
+  },
+  {
+    "id": "090da1ed-d6e9-418e-9d64-ab6ef371e00b",
+    "name": "China",
+    "price": "$10713.08",
+    "startDate": "2023-07-27",
+    "duration": 6
+  },
+  {
+    "id": "703d102a-11d1-406b-9871-88c44833bbf4",
+    "name": "Iran",
+    "price": "$46285.14",
+    "startDate": "2023-10-21",
+    "duration": 5
+  },
+  {
+    "id": "b01df52b-4815-4942-891f-9b28809c6e4a",
+    "name": "France",
+    "price": "$22171.93",
+    "startDate": "2024-01-31",
+    "duration": 3
+  },
+  {
+    "id": "20531ea0-6683-437c-9a36-5448759ca781",
+    "name": "Russia",
+    "price": "$40130.77",
+    "startDate": "2024-01-30",
+    "duration": 17
+  },
+  {
+    "id": "e266216a-1946-40ef-9c57-2ab37c92e8aa",
+    "name": "Tanzania",
+    "price": "$5595.37",
+    "startDate": "2023-09-03",
+    "duration": 24
+  },
+  {
+    "id": "e19d4f1b-0ad9-4090-ae78-7b5a5be6a832",
+    "name": "China",
+    "price": "$34735.42",
+    "startDate": "2023-09-19",
+    "duration": 36
+  },
+  {
+    "id": "133a8eae-0240-445b-9ee9-e792956266a3",
+    "name": "Democratic Republic of the Congo",
+    "price": "$33972.05",
+    "startDate": "2023-08-24",
+    "duration": 26
+  },
+  {
+    "id": "76302cff-dd02-4df8-bb50-d0c2fcffbc72",
+    "name": "Democratic Republic of the Congo",
+    "price": "$6749.69",
+    "startDate": "2023-07-03",
+    "duration": 3
+  },
+  {
+    "id": "9c490839-b5ca-4927-87c7-4f5a0cfc610b",
+    "name": "South Africa",
+    "price": "$37288.04",
+    "startDate": "2023-12-01",
+    "duration": 26
+  },
+  {
+    "id": "140cca27-50e0-4d9f-86cb-149d39c6da44",
+    "name": "Venezuela",
+    "price": "$25067.58",
+    "startDate": "2024-01-07",
+    "duration": 30
+  },
+  {
+    "id": "f6a05f95-b7c4-433a-a3c9-ca0d3e1efa45",
+    "name": "Iran",
+    "price": "$47692.12",
+    "startDate": "2023-09-14",
+    "duration": 37
+  },
+  {
+    "id": "cc037921-c275-4ec6-af1f-5dd8b476e6c4",
+    "name": "China",
+    "price": "$35075.39",
+    "startDate": "2023-07-05",
+    "duration": 24
+  },
+  {
+    "id": "387fff8b-c202-46e9-ab59-3d944bef96d6",
+    "name": "China",
+    "price": "$24428.63",
+    "startDate": "2023-10-25",
+    "duration": 25
+  },
+  {
+    "id": "755c38b9-808b-48c4-a9bc-4d2b45a1ebe0",
+    "name": "Sweden",
+    "price": "$23445.25",
+    "startDate": "2024-05-18",
+    "duration": 21
+  },
+  {
+    "id": "05300828-37a9-49e1-b239-c80b489cffc9",
+    "name": "United States",
+    "price": "$12597.19",
+    "startDate": "2023-11-11",
+    "duration": 16
+  },
+  {
+    "id": "48041f53-c2cc-4596-9699-a22f0ffb89cd",
+    "name": "Iran",
+    "price": "$13548.89",
+    "startDate": "2023-09-16",
+    "duration": 34
+  },
+  {
+    "id": "a8f90ac6-3870-4751-b985-2fe27aea04af",
+    "name": "China",
+    "price": "$40296.95",
+    "startDate": "2023-08-12",
+    "duration": 26
+  },
+  {
+    "id": "641af266-56ae-407a-b4b6-4bc1564019af",
+    "name": "Ukraine",
+    "price": "$27560.43",
+    "startDate": "2024-05-11",
+    "duration": 29
+  },
+  {
+    "id": "af7ba45e-9fd2-4601-8e95-e76a98faa4dc",
+    "name": "Iceland",
+    "price": "$28378.71",
+    "startDate": "2023-12-29",
+    "duration": 34
+  },
+  {
+    "id": "b9f4ef19-3dfb-4b5d-a475-5a839952d548",
+    "name": "Poland",
+    "price": "$19680.94",
+    "startDate": "2024-02-04",
+    "duration": 36
+  },
+  {
+    "id": "5469d945-d4c8-46ec-9023-99e736695c16",
+    "name": "China",
+    "price": "$32265.07",
+    "startDate": "2024-03-30",
+    "duration": 10
+  },
+  {
+    "id": "719d9c0f-154f-4ea2-a797-f7aff8aaf619",
+    "name": "Indonesia",
+    "price": "$29549.17",
+    "startDate": "2023-11-27",
+    "duration": 38
+  },
+  {
+    "id": "48f6283d-183f-4d21-b070-82f738ac2481",
+    "name": "Ukraine",
+    "price": "$42317.38",
+    "startDate": "2024-02-14",
+    "duration": 39
+  },
+  {
+    "id": "aa8c624b-a276-4dea-8a0c-05cdfea05a7a",
+    "name": "China",
+    "price": "$19603.97",
+    "startDate": "2024-01-27",
+    "duration": 32
+  },
+  {
+    "id": "4e9a0887-c948-4394-b009-339e6f4f7289",
+    "name": "Morocco",
+    "price": "$22641.47",
+    "startDate": "2023-06-05",
+    "duration": 21
+  },
+  {
+    "id": "e6d4f91f-f8b7-4481-86e8-d72ff5b64afe",
+    "name": "France",
+    "price": "$30535.65",
+    "startDate": "2024-04-17",
+    "duration": 27
+  },
+  {
+    "id": "5a740eac-7ae4-463b-9944-39818f9c3ed8",
+    "name": "China",
+    "price": "$21506.71",
+    "startDate": "2023-08-28",
+    "duration": 17
+  },
+  {
+    "id": "3b7970b2-72dc-483e-b865-efe0eca4e6b0",
+    "name": "France",
+    "price": "$6443.76",
+    "startDate": "2024-01-30",
+    "duration": 11
+  },
+  {
+    "id": "025f846e-112b-4659-a4bb-f015fa31548f",
+    "name": "United States",
+    "price": "$30824.81",
+    "startDate": "2024-06-04",
+    "duration": 20
+  },
+  {
+    "id": "7ee6bc20-04bb-4ed9-ba6d-3ad388eae0a4",
+    "name": "Lesotho",
+    "price": "$25618.91",
+    "startDate": "2024-01-11",
+    "duration": 40
+  },
+  {
+    "id": "71845915-b49a-4d8a-bed5-a4a2bbdf53ed",
+    "name": "Thailand",
+    "price": "$34230.10",
+    "startDate": "2023-10-29",
+    "duration": 19
+  },
+  {
+    "id": "c0bf0486-6c30-413e-9017-a74e980f58d6",
+    "name": "Armenia",
+    "price": "$46135.90",
+    "startDate": "2023-09-03",
+    "duration": 39
+  },
+  {
+    "id": "09a5907a-4f76-4929-9a62-b85cd5cdaa95",
+    "name": "Cameroon",
+    "price": "$44897.23",
+    "startDate": "2023-09-24",
+    "duration": 3
+  },
+  {
+    "id": "036dcee1-3d47-4ee3-95c0-6789ecb5eaf9",
+    "name": "Indonesia",
+    "price": "$27621.42",
+    "startDate": "2023-07-30",
+    "duration": 23
+  },
+  {
+    "id": "4255c1ea-7737-4bf8-84fc-1399cb68f3f0",
+    "name": "China",
+    "price": "$32902.10",
+    "startDate": "2024-02-27",
+    "duration": 9
+  },
+  {
+    "id": "1c369559-df7a-4239-82c9-693e004d6901",
+    "name": "Indonesia",
+    "price": "$42327.84",
+    "startDate": "2023-10-13",
+    "duration": 13
+  },
+  {
+    "id": "0f59475c-63ea-49b3-b107-1e1ebeffe05b",
+    "name": "China",
+    "price": "$37274.45",
+    "startDate": "2023-09-06",
+    "duration": 32
+  },
+  {
+    "id": "f2b4f309-3499-4b9d-ab40-6882c6a3811f",
+    "name": "Japan",
+    "price": "$10867.48",
+    "startDate": "2024-01-13",
+    "duration": 12
+  },
+  {
+    "id": "9b15d4ea-e41a-4fb8-9606-2a1914327de6",
+    "name": "Poland",
+    "price": "$18096.00",
+    "startDate": "2023-08-05",
+    "duration": 7
+  },
+  {
+    "id": "aa4a8849-9ac7-45fd-bd92-b4e53e9d5253",
+    "name": "China",
+    "price": "$2798.85",
+    "startDate": "2024-06-02",
+    "duration": 19
+  },
+  {
+    "id": "0ccf5513-be02-4dc2-9ac9-dcde0f171195",
+    "name": "France",
+    "price": "$15814.36",
+    "startDate": "2023-08-17",
+    "duration": 27
+  },
+  {
+    "id": "fa4fc62e-64d2-4645-b7e0-70ce0cbab329",
+    "name": "Chile",
+    "price": "$24580.97",
+    "startDate": "2023-06-05",
+    "duration": 4
+  },
+  {
+    "id": "d5f4ad41-0384-4cb0-b500-fa1c6d532d4b",
+    "name": "France",
+    "price": "$7748.60",
+    "startDate": "2023-08-13",
+    "duration": 40
+  },
+  {
+    "id": "ef2d607d-093c-4df7-8354-66587080a9fd",
+    "name": "Brazil",
+    "price": "$25658.66",
+    "startDate": "2024-02-23",
+    "duration": 13
+  },
+  {
+    "id": "8458dbc4-ac2d-4f6f-9a75-96be1d502b6d",
+    "name": "Nigeria",
+    "price": "$33109.03",
+    "startDate": "2023-08-19",
+    "duration": 22
+  },
+  {
+    "id": "46db2d07-e640-4628-bddf-ce412801a2e6",
+    "name": "China",
+    "price": "$26141.53",
+    "startDate": "2023-06-12",
+    "duration": 9
+  },
+  {
+    "id": "5a7c7242-082a-4aaa-8f91-36750f7bcac9",
+    "name": "Russia",
+    "price": "$34069.42",
+    "startDate": "2023-06-28",
+    "duration": 11
+  },
+  {
+    "id": "ef781338-17cd-40c6-94dd-5a3df33347bd",
+    "name": "China",
+    "price": "$27569.55",
+    "startDate": "2023-10-08",
+    "duration": 17
+  },
+  {
+    "id": "edc14805-acdb-4df7-b90f-bcfc95a6a00d",
+    "name": "Indonesia",
+    "price": "$39684.80",
+    "startDate": "2024-03-07",
+    "duration": 38
+  },
+  {
+    "id": "1673cd93-3474-4980-ad6e-a0a2f1b6a428",
+    "name": "China",
+    "price": "$38588.19",
+    "startDate": "2023-06-21",
+    "duration": 34
+  },
+  {
+    "id": "7736482a-f540-40db-a569-97750143e1fc",
+    "name": "Philippines",
+    "price": "$33616.54",
+    "startDate": "2024-02-13",
+    "duration": 17
+  },
+  {
+    "id": "e7d9b651-0a4f-4271-ad8d-0a3156da7227",
+    "name": "Poland",
+    "price": "$36608.99",
+    "startDate": "2024-04-15",
+    "duration": 14
+  },
+  {
+    "id": "de98863f-571a-477a-a78b-60b3e4ea63fc",
+    "name": "Russia",
+    "price": "$24235.28",
+    "startDate": "2023-12-30",
+    "duration": 36
+  },
+  {
+    "id": "5e2d4218-a2f5-4f29-9796-f497d5b0074a",
+    "name": "Nepal",
+    "price": "$24406.50",
+    "startDate": "2023-08-07",
+    "duration": 8
+  },
+  {
+    "id": "3ef93246-ae8d-4ad7-854b-025cfaeddd62",
+    "name": "Nigeria",
+    "price": "$41413.63",
+    "startDate": "2023-07-17",
+    "duration": 19
+  },
+  {
+    "id": "51852617-a051-427f-af5c-13c74024b8a7",
+    "name": "China",
+    "price": "$49147.20",
+    "startDate": "2023-07-23",
+    "duration": 12
+  },
+  {
+    "id": "5e569cd5-60a6-4558-8c0c-03a394ed0c61",
+    "name": "Indonesia",
+    "price": "$23299.68",
+    "startDate": "2024-04-01",
+    "duration": 6
+  },
+  {
+    "id": "4bcfe489-5b5b-49a4-8df7-da58b1b44249",
+    "name": "Bulgaria",
+    "price": "$30041.14",
+    "startDate": "2023-08-06",
+    "duration": 19
+  },
+  {
+    "id": "b9c77ea9-d88b-4bc7-9ee9-1760e7fc0306",
+    "name": "Russia",
+    "price": "$5762.91",
+    "startDate": "2023-10-02",
+    "duration": 4
+  },
+  {
+    "id": "3a141dd9-1a62-4e68-a808-0f53ceff6892",
+    "name": "China",
+    "price": "$12472.26",
+    "startDate": "2023-07-13",
+    "duration": 12
+  },
+  {
+    "id": "596883b7-27e4-482c-8f5c-7b5083fbe55e",
+    "name": "Portugal",
+    "price": "$29936.50",
+    "startDate": "2023-07-08",
+    "duration": 9
+  },
+  {
+    "id": "a7310583-b416-4587-8304-82ac1ec80e45",
+    "name": "Canada",
+    "price": "$49557.90",
+    "startDate": "2024-05-18",
+    "duration": 32
+  },
+  {
+    "id": "d48554ed-6f22-421d-bd2f-f330dcacd0b3",
+    "name": "Sweden",
+    "price": "$10532.11",
+    "startDate": "2023-09-03",
+    "duration": 10
+  },
+  {
+    "id": "2717e67c-247d-43ce-80f0-007102c1e39b",
+    "name": "French Polynesia",
+    "price": "$29690.97",
+    "startDate": "2024-06-01",
+    "duration": 11
+  },
+  {
+    "id": "3c32b3a2-ed3a-4cf0-b18d-c40e7186bd66",
+    "name": "China",
+    "price": "$22421.34",
+    "startDate": "2023-08-04",
+    "duration": 4
+  },
+  {
+    "id": "e049bfdc-01ba-4c31-9cad-f53c0434d303",
+    "name": "Bangladesh",
+    "price": "$24593.96",
+    "startDate": "2024-04-19",
+    "duration": 20
+  },
+  {
+    "id": "99f4fed6-7693-4d06-a6bd-f9b7355d584e",
+    "name": "Cape Verde",
+    "price": "$31756.20",
+    "startDate": "2023-07-12",
+    "duration": 3
+  },
+  {
+    "id": "d1f3f25b-a27b-4038-9b9e-57336dbc63f9",
+    "name": "Canada",
+    "price": "$5751.09",
+    "startDate": "2023-10-13",
+    "duration": 10
+  },
+  {
+    "id": "1d62a232-0039-46d6-a0f0-4213e0608a64",
+    "name": "Russia",
+    "price": "$2252.62",
+    "startDate": "2024-01-04",
+    "duration": 7
+  },
+  {
+    "id": "06648446-40d1-43e5-93a0-83369cbdc265",
+    "name": "China",
+    "price": "$3300.42",
+    "startDate": "2023-07-23",
+    "duration": 6
+  },
+  {
+    "id": "a494c0e7-7d37-43d3-82f2-880ecc8003fd",
+    "name": "Sweden",
+    "price": "$34734.18",
+    "startDate": "2024-02-15",
+    "duration": 17
+  },
+  {
+    "id": "574d393d-df05-4493-b91f-cceba81a6188",
+    "name": "Indonesia",
+    "price": "$20105.50",
+    "startDate": "2024-05-08",
+    "duration": 37
+  },
+  {
+    "id": "e705ea91-8278-4421-a6f6-716316998153",
+    "name": "Sweden",
+    "price": "$20727.45",
+    "startDate": "2024-03-14",
+    "duration": 12
+  },
+  {
+    "id": "194aab88-4538-403c-986e-c3e6b4b34474",
+    "name": "Greece",
+    "price": "$37494.81",
+    "startDate": "2023-12-12",
+    "duration": 27
+  },
+  {
+    "id": "d3878dab-e82e-4f42-a1b3-c55743158142",
+    "name": "Benin",
+    "price": "$48295.17",
+    "startDate": "2024-02-20",
+    "duration": 31
+  },
+  {
+    "id": "e4868e5d-6038-452d-89c3-e7aae13c17f3",
+    "name": "Ukraine",
+    "price": "$27660.66",
+    "startDate": "2023-09-12",
+    "duration": 25
+  },
+  {
+    "id": "05d92428-963d-4625-9f6b-dbcd403c73fa",
+    "name": "United States",
+    "price": "$2763.59",
+    "startDate": "2023-07-21",
+    "duration": 27
+  },
+  {
+    "id": "1e286808-28b3-4eff-b5c8-eb4325f59e22",
+    "name": "Comoros",
+    "price": "$33617.65",
+    "startDate": "2024-02-11",
+    "duration": 38
+  },
+  {
+    "id": "19276d36-b59e-4251-bcce-3e5c8a5d7fa3",
+    "name": "Ukraine",
+    "price": "$39485.36",
+    "startDate": "2023-07-06",
+    "duration": 16
+  },
+  {
+    "id": "18c60338-c787-4604-a972-37ca4372795f",
+    "name": "Pakistan",
+    "price": "$34197.50",
+    "startDate": "2024-05-16",
+    "duration": 6
+  },
+  {
+    "id": "cdd0b57b-5344-4a89-88c5-c04747e03b47",
+    "name": "Denmark",
+    "price": "$30007.66",
+    "startDate": "2024-05-24",
+    "duration": 6
+  },
+  {
+    "id": "cdca5e59-a0f1-40b4-abad-ad4cd0970222",
+    "name": "Nigeria",
+    "price": "$41056.75",
+    "startDate": "2023-06-29",
+    "duration": 19
+  },
+  {
+    "id": "493bb4b8-f2c3-4aa3-8860-d8406f459c9a",
+    "name": "Mexico",
+    "price": "$11228.50",
+    "startDate": "2024-06-03",
+    "duration": 36
+  },
+  {
+    "id": "4b067b32-4de3-464e-a3ec-dde0a574e960",
+    "name": "Indonesia",
+    "price": "$46125.75",
+    "startDate": "2024-04-22",
+    "duration": 34
+  },
+  {
+    "id": "0a17a629-5959-4454-81f5-b52dee3abda9",
+    "name": "Ethiopia",
+    "price": "$24543.55",
+    "startDate": "2023-08-09",
+    "duration": 17
+  },
+  {
+    "id": "0e40b34d-1eab-4f06-8143-ab0961a011ef",
+    "name": "South Africa",
+    "price": "$4062.69",
+    "startDate": "2024-05-07",
+    "duration": 37
+  },
+  {
+    "id": "89d6fd65-2b6f-46d3-b27b-84b2bc111a2e",
+    "name": "Russia",
+    "price": "$7800.37",
+    "startDate": "2023-07-16",
+    "duration": 30
+  },
+  {
+    "id": "0e8b454b-c624-4f72-9a66-c5ee094f6218",
+    "name": "China",
+    "price": "$33114.62",
+    "startDate": "2023-06-07",
+    "duration": 24
+  },
+  {
+    "id": "1f3ea055-ba78-4edb-bac0-80bf96aa823d",
+    "name": "China",
+    "price": "$40760.20",
+    "startDate": "2024-01-20",
+    "duration": 22
+  },
+  {
+    "id": "9bfd4d47-aab3-4765-8f85-b6414a0e07f4",
+    "name": "Brazil",
+    "price": "$43108.82",
+    "startDate": "2024-06-04",
+    "duration": 16
+  },
+  {
+    "id": "428a8d05-99e2-40c3-8c4a-b828b62529b4",
+    "name": "U.S. Virgin Islands",
+    "price": "$19323.29",
+    "startDate": "2023-09-07",
+    "duration": 5
+  },
+  {
+    "id": "e293730a-bc7b-4938-a558-9cc6c8c35891",
+    "name": "Indonesia",
+    "price": "$23163.76",
+    "startDate": "2024-03-04",
+    "duration": 11
+  },
+  {
+    "id": "cdb9f33a-218b-4238-ac3b-fd1e51e001dd",
+    "name": "Indonesia",
+    "price": "$19251.10",
+    "startDate": "2023-11-29",
+    "duration": 23
+  },
+  {
+    "id": "104827c1-aa49-4d54-8365-f88c6d9143d6",
+    "name": "Morocco",
+    "price": "$10035.01",
+    "startDate": "2023-07-18",
+    "duration": 23
+  },
+  {
+    "id": "be5c801f-eff7-40e4-a2d4-9eeae4d36f12",
+    "name": "Japan",
+    "price": "$47577.45",
+    "startDate": "2023-07-10",
+    "duration": 18
+  },
+  {
+    "id": "0b2f2524-0e70-44b8-ae51-c224ff16c918",
+    "name": "Russia",
+    "price": "$48661.11",
+    "startDate": "2023-07-08",
+    "duration": 12
+  },
+  {
+    "id": "0552de19-9012-45b0-8046-a8de4332a87e",
+    "name": "Brazil",
+    "price": "$42074.59",
+    "startDate": "2023-12-24",
+    "duration": 33
+  },
+  {
+    "id": "d9b89609-a5d7-44ae-8721-f2be61b50b3a",
+    "name": "Indonesia",
+    "price": "$40013.97",
+    "startDate": "2023-10-10",
+    "duration": 38
+  },
+  {
+    "id": "1e8235ab-9029-4ea2-a9e2-735f9e189524",
+    "name": "China",
+    "price": "$36772.74",
+    "startDate": "2023-11-08",
+    "duration": 5
+  },
+  {
+    "id": "570a86cd-fe60-42b9-866c-b77880838452",
+    "name": "China",
+    "price": "$35323.31",
+    "startDate": "2024-01-05",
+    "duration": 36
+  },
+  {
+    "id": "ac9a03ee-cfc4-4e09-85ed-232b52342db6",
+    "name": "Syria",
+    "price": "$11818.72",
+    "startDate": "2024-02-24",
+    "duration": 33
+  },
+  {
+    "id": "70319416-9966-4455-98fd-883bb5f43a19",
+    "name": "Russia",
+    "price": "$27147.09",
+    "startDate": "2024-05-25",
+    "duration": 40
+  },
+  {
+    "id": "591b50ab-2b97-4ff9-8575-ac13a6445690",
+    "name": "Indonesia",
+    "price": "$2819.41",
+    "startDate": "2024-02-15",
+    "duration": 29
+  },
+  {
+    "id": "8cb85b01-318e-4e96-bb0e-28af201c92f3",
+    "name": "Sweden",
+    "price": "$947.47",
+    "startDate": "2023-10-06",
+    "duration": 25
+  },
+  {
+    "id": "7b5ff63d-092a-461d-b57a-f94b054acfc5",
+    "name": "United States",
+    "price": "$28049.92",
+    "startDate": "2023-07-20",
+    "duration": 14
+  },
+  {
+    "id": "ff336678-9a94-4274-87be-a719cd353d45",
+    "name": "China",
+    "price": "$43252.87",
+    "startDate": "2023-11-30",
+    "duration": 34
+  },
+  {
+    "id": "fcdc4b80-8222-4623-9ff4-4464f33f86d3",
+    "name": "Peru",
+    "price": "$2237.59",
+    "startDate": "2023-07-26",
+    "duration": 14
+  },
+  {
+    "id": "785a578a-0582-4258-a3d1-4311443d4d39",
+    "name": "Costa Rica",
+    "price": "$28170.61",
+    "startDate": "2024-06-03",
+    "duration": 4
+  },
+  {
+    "id": "2c4d61a6-96a5-44e2-ac39-737a28830a82",
+    "name": "Dominican Republic",
+    "price": "$11718.11",
+    "startDate": "2024-02-02",
+    "duration": 15
+  },
+  {
+    "id": "a5ff21b4-e21f-48a7-968d-07978363c244",
+    "name": "Niger",
+    "price": "$40374.98",
+    "startDate": "2023-06-14",
+    "duration": 29
+  },
+  {
+    "id": "cd44033d-3332-431b-92b3-10a53c1937d4",
+    "name": "China",
+    "price": "$2525.18",
+    "startDate": "2023-10-13",
+    "duration": 8
+  },
+  {
+    "id": "bd64b6aa-3920-44a9-9b51-d0d6c4b97139",
+    "name": "China",
+    "price": "$24005.94",
+    "startDate": "2024-01-31",
+    "duration": 8
+  },
+  {
+    "id": "29423425-e715-413a-b2b3-a5f52951646c",
+    "name": "Portugal",
+    "price": "$40203.15",
+    "startDate": "2023-10-05",
+    "duration": 37
+  },
+  {
+    "id": "ae7efdf0-3516-456e-b103-9548322292dc",
+    "name": "Portugal",
+    "price": "$18474.15",
+    "startDate": "2023-06-06",
+    "duration": 9
+  },
+  {
+    "id": "dff8026e-b5db-467e-a9bc-6b3eea178bbc",
+    "name": "China",
+    "price": "$47156.98",
+    "startDate": "2023-12-16",
+    "duration": 21
+  },
+  {
+    "id": "dee7f609-b513-4645-9767-7561e9197ea0",
+    "name": "Nicaragua",
+    "price": "$4549.85",
+    "startDate": "2023-11-20",
+    "duration": 28
+  },
+  {
+    "id": "25959083-09ff-4084-a2ef-6541f7306a52",
+    "name": "French Polynesia",
+    "price": "$42787.59",
+    "startDate": "2023-07-03",
+    "duration": 27
+  },
+  {
+    "id": "c6fa1922-2691-4bb9-9884-21bf4654a1ef",
+    "name": "Azerbaijan",
+    "price": "$48702.82",
+    "startDate": "2023-06-17",
+    "duration": 9
+  },
+  {
+    "id": "52b8894e-5eda-4537-8e5a-c6996b0ac831",
+    "name": "China",
+    "price": "$39096.04",
+    "startDate": "2023-06-25",
+    "duration": 28
+  },
+  {
+    "id": "744a88c4-4b03-453f-9d90-4999230df34b",
+    "name": "Thailand",
+    "price": "$9616.94",
+    "startDate": "2023-12-29",
+    "duration": 25
+  },
+  {
+    "id": "cc5b637f-37d0-4e34-af61-8683ad580b0f",
+    "name": "Russia",
+    "price": "$45310.71",
+    "startDate": "2024-04-18",
+    "duration": 35
+  },
+  {
+    "id": "ae87ccfb-5bd1-4b38-b34d-e3fa8a39ce94",
+    "name": "Mali",
+    "price": "$38764.34",
+    "startDate": "2024-05-22",
+    "duration": 21
+  },
+  {
+    "id": "5091e0fa-6ba9-45d0-ba97-2546dd27b6bf",
+    "name": "China",
+    "price": "$46300.08",
+    "startDate": "2023-06-15",
+    "duration": 15
+  },
+  {
+    "id": "ff6be16d-9ab2-4eb9-865d-418eb0fc7332",
+    "name": "China",
+    "price": "$48851.21",
+    "startDate": "2024-03-03",
+    "duration": 16
+  },
+  {
+    "id": "9fe94962-2b3b-463d-a83f-dda5a483892f",
+    "name": "United States",
+    "price": "$31690.83",
+    "startDate": "2023-07-02",
+    "duration": 18
+  },
+  {
+    "id": "16faac3d-31ab-4f4d-bf40-6298798df616",
+    "name": "Russia",
+    "price": "$26717.71",
+    "startDate": "2023-09-26",
+    "duration": 4
+  },
+  {
+    "id": "3c691d65-e4c2-4a6e-becb-f3e564118687",
+    "name": "Mexico",
+    "price": "$23024.92",
+    "startDate": "2023-06-14",
+    "duration": 20
+  },
+  {
+    "id": "de7d57f4-e578-4011-bc44-604947bea11d",
+    "name": "Finland",
+    "price": "$21681.46",
+    "startDate": "2024-04-30",
+    "duration": 32
+  },
+  {
+    "id": "b8174939-613e-4158-86c9-5f85a6f15131",
+    "name": "Argentina",
+    "price": "$12750.63",
+    "startDate": "2024-05-03",
+    "duration": 30
+  },
+  {
+    "id": "9f97d819-2d4e-4c7f-9095-2245297e17b3",
+    "name": "Philippines",
+    "price": "$9574.97",
+    "startDate": "2023-09-29",
+    "duration": 36
+  },
+  {
+    "id": "65102329-ad04-4d42-80c2-362d90c104d6",
+    "name": "Pakistan",
+    "price": "$35282.02",
+    "startDate": "2023-09-15",
+    "duration": 11
+  },
+  {
+    "id": "54065cf1-c74d-4843-a519-0a36f3b562e4",
+    "name": "Sri Lanka",
+    "price": "$14208.28",
+    "startDate": "2024-06-02",
+    "duration": 38
+  },
+  {
+    "id": "4aad35e8-7e1a-4d83-80a9-dbef68ec33d9",
+    "name": "Russia",
+    "price": "$3626.70",
+    "startDate": "2023-09-09",
+    "duration": 37
+  },
+  {
+    "id": "1f2aa946-f641-4fb0-a737-a9e9c85e1723",
+    "name": "China",
+    "price": "$23928.56",
+    "startDate": "2024-01-26",
+    "duration": 31
+  },
+  {
+    "id": "60854f32-6081-4986-8a38-7f3449af13ff",
+    "name": "Ireland",
+    "price": "$29596.08",
+    "startDate": "2024-04-12",
+    "duration": 7
+  },
+  {
+    "id": "9a8459a1-a87a-4c28-9280-13438cf86ff1",
+    "name": "Thailand",
+    "price": "$29079.40",
+    "startDate": "2023-10-20",
+    "duration": 22
+  },
+  {
+    "id": "8b926a00-12da-4d58-9cd4-4c3c1629f051",
+    "name": "China",
+    "price": "$7459.54",
+    "startDate": "2024-02-26",
+    "duration": 7
+  },
+  {
+    "id": "d02e43e3-dbba-4f0c-8152-d93d35020c8c",
+    "name": "China",
+    "price": "$31856.24",
+    "startDate": "2023-12-10",
+    "duration": 22
+  },
+  {
+    "id": "c0d4760f-2d2f-486b-a3e0-0fd14b65d9aa",
+    "name": "China",
+    "price": "$2229.10",
+    "startDate": "2023-09-06",
+    "duration": 24
+  },
+  {
+    "id": "311b5d55-c643-4289-a557-697763bb0247",
+    "name": "Canada",
+    "price": "$29223.21",
+    "startDate": "2024-04-18",
+    "duration": 4
+  },
+  {
+    "id": "bdee255c-666c-4c0e-a06e-2787f69317b0",
+    "name": "Brazil",
+    "price": "$17606.16",
+    "startDate": "2023-12-02",
+    "duration": 19
+  },
+  {
+    "id": "3f36fc25-3efd-4005-814f-f70d37f54602",
+    "name": "Russia",
+    "price": "$47652.74",
+    "startDate": "2024-03-26",
+    "duration": 8
+  },
+  {
+    "id": "a541a623-ff11-4f06-a6a9-5cb25858799c",
+    "name": "Ukraine",
+    "price": "$4673.91",
+    "startDate": "2023-09-25",
+    "duration": 28
+  },
+  {
+    "id": "cdec35be-e8b9-48dd-8a6e-8e9d5d28fd50",
+    "name": "Indonesia",
+    "price": "$27385.62",
+    "startDate": "2024-03-22",
+    "duration": 13
+  },
+  {
+    "id": "c733311a-6d0e-4375-80ef-ecb2ae411971",
+    "name": "Pakistan",
+    "price": "$49588.77",
+    "startDate": "2024-05-16",
+    "duration": 12
+  },
+  {
+    "id": "27068463-af1d-4027-8830-05dc215dba2c",
+    "name": "Finland",
+    "price": "$46300.44",
+    "startDate": "2024-03-16",
+    "duration": 24
+  },
+  {
+    "id": "59f2bf5b-2098-437a-a051-d3290ee650be",
+    "name": "Burkina Faso",
+    "price": "$40589.40",
+    "startDate": "2023-07-25",
+    "duration": 37
+  },
+  {
+    "id": "7de58331-75e6-4172-ba69-572a8199d293",
+    "name": "Peru",
+    "price": "$14353.68",
+    "startDate": "2024-05-31",
+    "duration": 24
+  },
+  {
+    "id": "a53925ed-30ce-4e85-9214-69c79bfa6dc1",
+    "name": "Italy",
+    "price": "$47642.83",
+    "startDate": "2023-07-30",
+    "duration": 5
+  },
+  {
+    "id": "4f2f876c-6d3c-47af-980e-06cb0e43937d",
+    "name": "Saint Vincent and the Grenadines",
+    "price": "$8096.81",
+    "startDate": "2023-11-29",
+    "duration": 15
+  },
+  {
+    "id": "a67be72c-d518-4e02-bd62-20113266be1c",
+    "name": "Brazil",
+    "price": "$1372.09",
+    "startDate": "2024-02-29",
+    "duration": 30
+  },
+  {
+    "id": "c1ae3c35-1320-4cc8-9ee7-e0adb0a37c15",
+    "name": "China",
+    "price": "$31226.92",
+    "startDate": "2023-12-02",
+    "duration": 26
+  },
+  {
+    "id": "65bb4c79-cf79-4914-b7af-567bf70b9ebf",
+    "name": "Palestinian Territory",
+    "price": "$29349.30",
+    "startDate": "2023-07-08",
+    "duration": 37
+  },
+  {
+    "id": "e83420b3-f175-4d76-b1b1-2746f6d5e76a",
+    "name": "Sweden",
+    "price": "$34729.27",
+    "startDate": "2024-02-08",
+    "duration": 36
+  },
+  {
+    "id": "946ab2b1-986e-4407-bf90-db3239a89874",
+    "name": "Ukraine",
+    "price": "$44868.23",
+    "startDate": "2023-08-04",
+    "duration": 33
+  },
+  {
+    "id": "0da9cdec-60b1-4c7b-afcc-f7ae52440f0f",
+    "name": "Malta",
+    "price": "$48645.55",
+    "startDate": "2024-03-27",
+    "duration": 33
+  },
+  {
+    "id": "079a4dbe-45b5-4bd1-a75d-b5e8021493da",
+    "name": "Russia",
+    "price": "$47866.58",
+    "startDate": "2023-08-13",
+    "duration": 29
+  },
+  {
+    "id": "46d05052-c108-47a4-b8bf-f8e2601fd325",
+    "name": "Peru",
+    "price": "$14728.59",
+    "startDate": "2023-11-03",
+    "duration": 35
+  },
+  {
+    "id": "8c60d3b6-116f-47c6-bbb9-7aa8872646e7",
+    "name": "Philippines",
+    "price": "$31022.49",
+    "startDate": "2024-03-10",
+    "duration": 25
+  },
+  {
+    "id": "f0b73ab9-2a5b-4293-a1d4-f84fc6467b1e",
+    "name": "Indonesia",
+    "price": "$35850.55",
+    "startDate": "2023-10-03",
+    "duration": 5
+  },
+  {
+    "id": "aaf255dc-dce0-4126-af2e-6874b62632b3",
+    "name": "Kazakhstan",
+    "price": "$15509.12",
+    "startDate": "2023-07-25",
+    "duration": 29
+  },
+  {
+    "id": "05ac94a8-c9c6-4585-a65b-31a6dfc4bc27",
+    "name": "Russia",
+    "price": "$34409.96",
+    "startDate": "2024-03-27",
+    "duration": 4
+  },
+  {
+    "id": "a37eba1a-338c-4b41-968a-c3c64d82aca0",
+    "name": "Indonesia",
+    "price": "$8724.47",
+    "startDate": "2023-07-24",
+    "duration": 31
+  },
+  {
+    "id": "1ce65c92-0a8d-4329-8dd0-bc886b68e31e",
+    "name": "Greece",
+    "price": "$26736.18",
+    "startDate": "2023-10-16",
+    "duration": 10
+  },
+  {
+    "id": "82aaa177-9ef0-496a-bed8-6ec534be8df6",
+    "name": "Indonesia",
+    "price": "$48260.48",
+    "startDate": "2024-02-17",
+    "duration": 31
+  },
+  {
+    "id": "813ac44b-b9cd-4ac4-9d83-2d3f1224ca18",
+    "name": "China",
+    "price": "$43012.32",
+    "startDate": "2024-03-10",
+    "duration": 17
+  },
+  {
+    "id": "e3471767-4066-4bfe-9c3c-749ce10a918d",
+    "name": "China",
+    "price": "$26102.55",
+    "startDate": "2023-10-19",
+    "duration": 19
+  },
+  {
+    "id": "aa9af1d8-4597-4ed3-89b0-22c68dfa97e1",
+    "name": "Vietnam",
+    "price": "$47376.75",
+    "startDate": "2023-11-06",
+    "duration": 17
+  },
+  {
+    "id": "a7413d81-9647-4be4-8812-562758431c4f",
+    "name": "China",
+    "price": "$48837.06",
+    "startDate": "2024-04-27",
+    "duration": 17
+  },
+  {
+    "id": "4e86a821-3231-4ad0-ba93-61309e20e0b2",
+    "name": "Argentina",
+    "price": "$23475.33",
+    "startDate": "2024-04-14",
+    "duration": 28
+  },
+  {
+    "id": "2f7eb769-4644-4544-b10a-4b21a4d5bdec",
+    "name": "South Georgia and the South Sandwich Islands",
+    "price": "$31616.65",
+    "startDate": "2024-02-05",
+    "duration": 9
+  },
+  {
+    "id": "c33925b1-2d00-41a3-8837-a0fc17cf0a01",
+    "name": "France",
+    "price": "$35696.24",
+    "startDate": "2023-11-09",
+    "duration": 17
+  },
+  {
+    "id": "b13780e1-a61c-4aa0-9272-d995c3f19bf8",
+    "name": "Indonesia",
+    "price": "$43534.08",
+    "startDate": "2023-11-22",
+    "duration": 38
+  },
+  {
+    "id": "fedec06f-d7aa-472a-aa68-5a8b9ad79c44",
+    "name": "China",
+    "price": "$22279.11",
+    "startDate": "2024-04-21",
+    "duration": 27
+  },
+  {
+    "id": "dd8251b4-575e-41ed-a9a3-20aaac0c1f0d",
+    "name": "Brazil",
+    "price": "$6510.39",
+    "startDate": "2023-11-19",
+    "duration": 29
+  },
+  {
+    "id": "45045f3f-167c-4469-8f97-d2aab79d7c14",
+    "name": "Brazil",
+    "price": "$6071.93",
+    "startDate": "2023-12-21",
+    "duration": 28
+  },
+  {
+    "id": "8983e633-ceb0-49ae-9912-3c0e2e5280e2",
+    "name": "Portugal",
+    "price": "$34308.75",
+    "startDate": "2024-05-24",
+    "duration": 24
+  },
+  {
+    "id": "8464c17a-156c-467a-90d5-4cd63ebc9e19",
+    "name": "China",
+    "price": "$13612.08",
+    "startDate": "2023-12-20",
+    "duration": 5
+  },
+  {
+    "id": "c181ec4d-cb24-42c5-a696-194120fdb6af",
+    "name": "Russia",
+    "price": "$23902.51",
+    "startDate": "2023-08-02",
+    "duration": 29
+  },
+  {
+    "id": "40e3dbf1-28ca-48e4-b649-d700405aa3b4",
+    "name": "China",
+    "price": "$11065.59",
+    "startDate": "2024-05-23",
+    "duration": 29
+  },
+  {
+    "id": "6ce76698-9fdd-49c3-99fb-ee65ff6eac94",
+    "name": "France",
+    "price": "$40650.24",
+    "startDate": "2023-09-21",
+    "duration": 30
+  },
+  {
+    "id": "4d3b8136-4327-4f29-83e7-631e3f9ef8f7",
+    "name": "China",
+    "price": "$7157.67",
+    "startDate": "2023-10-03",
+    "duration": 40
+  },
+  {
+    "id": "587ea508-4cf3-423a-bcbe-ea658d6943cb",
+    "name": "Finland",
+    "price": "$21066.61",
+    "startDate": "2023-09-11",
+    "duration": 23
+  },
+  {
+    "id": "d1f6b379-1692-4a36-995f-def228b2b2e8",
+    "name": "Belarus",
+    "price": "$38440.79",
+    "startDate": "2024-04-02",
+    "duration": 6
+  },
+  {
+    "id": "8d99061b-24c2-485e-aa22-e499ae4b2854",
+    "name": "China",
+    "price": "$41279.24",
+    "startDate": "2024-03-20",
+    "duration": 14
+  },
+  {
+    "id": "70d9cfcc-e971-4721-92e5-b4517be08360",
+    "name": "Indonesia",
+    "price": "$48580.63",
+    "startDate": "2023-07-29",
+    "duration": 14
+  },
+  {
+    "id": "437db4a6-6021-4c4d-8d32-f0df7e8c0bc8",
+    "name": "Finland",
+    "price": "$15669.99",
+    "startDate": "2023-07-22",
+    "duration": 18
+  },
+  {
+    "id": "6bf65f9c-0650-490c-8de0-c0a5a69faf32",
+    "name": "Brazil",
+    "price": "$6993.10",
+    "startDate": "2023-07-20",
+    "duration": 5
+  },
+  {
+    "id": "e976afbd-2819-4fc9-8f0d-d8901e213b05",
+    "name": "Russia",
+    "price": "$36774.33",
+    "startDate": "2023-07-30",
+    "duration": 34
+  },
+  {
+    "id": "19920b05-7b5f-4e98-a9f5-98fedc94051f",
+    "name": "Argentina",
+    "price": "$37866.03",
+    "startDate": "2024-04-11",
+    "duration": 24
+  },
+  {
+    "id": "45837277-62d4-4e97-94dc-4a7cf4f2e795",
+    "name": "Indonesia",
+    "price": "$49805.60",
+    "startDate": "2023-08-19",
+    "duration": 40
+  },
+  {
+    "id": "7e9a2e45-df72-4322-b4cd-e57bf049aad6",
+    "name": "Poland",
+    "price": "$39862.81",
+    "startDate": "2023-09-16",
+    "duration": 37
+  },
+  {
+    "id": "446bcadf-f4c2-4c5e-912e-da369f68d240",
+    "name": "China",
+    "price": "$6869.20",
+    "startDate": "2024-01-24",
+    "duration": 34
+  },
+  {
+    "id": "41785734-7b3b-4276-b69d-133191f6111e",
+    "name": "Philippines",
+    "price": "$30336.43",
+    "startDate": "2023-11-21",
+    "duration": 40
+  },
+  {
+    "id": "8779bd24-54d5-4c0e-9697-f31f909e4231",
+    "name": "China",
+    "price": "$13752.61",
+    "startDate": "2023-07-23",
+    "duration": 5
+  },
+  {
+    "id": "f95bbdef-a851-4355-acdc-f64671391ca3",
+    "name": "Indonesia",
+    "price": "$39354.51",
+    "startDate": "2023-10-03",
+    "duration": 20
+  },
+  {
+    "id": "2ca22859-7f14-4cc5-93c5-2f9c3e7c6aad",
+    "name": "Sweden",
+    "price": "$23609.62",
+    "startDate": "2023-07-10",
+    "duration": 35
+  },
+  {
+    "id": "5e3ed3f2-d350-43de-b3c1-394d0f60d886",
+    "name": "Portugal",
+    "price": "$15569.45",
+    "startDate": "2024-05-01",
+    "duration": 20
+  },
+  {
+    "id": "01701fb4-3958-4c97-97b0-f1afb65a130b",
+    "name": "Indonesia",
+    "price": "$13745.01",
+    "startDate": "2023-08-20",
+    "duration": 19
+  },
+  {
+    "id": "f341c11a-b4c5-46e2-93af-9419cc250c49",
+    "name": "Greece",
+    "price": "$1652.55",
+    "startDate": "2024-02-12",
+    "duration": 4
+  },
+  {
+    "id": "a12980cf-8a53-41dd-bfed-d4938f9cb5f1",
+    "name": "China",
+    "price": "$17314.19",
+    "startDate": "2024-05-28",
+    "duration": 18
+  },
+  {
+    "id": "12021020-e2d5-40d5-bcac-4c79e8b5db93",
+    "name": "Bulgaria",
+    "price": "$1515.18",
+    "startDate": "2023-11-21",
+    "duration": 29
+  },
+  {
+    "id": "4301fcf8-b6f8-424a-96d1-43e02cfce261",
+    "name": "Sweden",
+    "price": "$15936.66",
+    "startDate": "2023-09-29",
+    "duration": 15
+  },
+  {
+    "id": "c3d831a3-3e84-4f6c-a6ad-c6fa2bfd4bb8",
+    "name": "Poland",
+    "price": "$38061.71",
+    "startDate": "2023-11-03",
+    "duration": 14
+  },
+  {
+    "id": "57214fa5-f53f-40c1-9fd0-f7ce53e480a8",
+    "name": "China",
+    "price": "$17199.91",
+    "startDate": "2023-08-14",
+    "duration": 13
+  },
+  {
+    "id": "6601e820-f216-4247-bea9-ab144b2e5d3f",
+    "name": "China",
+    "price": "$31887.80",
+    "startDate": "2023-07-12",
+    "duration": 32
+  },
+  {
+    "id": "bc547555-936f-42ad-8dbc-f59342d86a01",
+    "name": "China",
+    "price": "$16966.64",
+    "startDate": "2023-08-17",
+    "duration": 38
+  },
+  {
+    "id": "f78fd954-b49a-4269-995a-93140d84ba23",
+    "name": "China",
+    "price": "$1882.66",
+    "startDate": "2023-10-08",
+    "duration": 13
+  },
+  {
+    "id": "d30bd445-9e94-40ca-b705-ff72f0e30964",
+    "name": "Russia",
+    "price": "$11757.28",
+    "startDate": "2024-02-10",
+    "duration": 12
+  },
+  {
+    "id": "4cd83d1d-5900-45c6-b16c-d6b805741530",
+    "name": "Nigeria",
+    "price": "$7712.68",
+    "startDate": "2024-02-05",
+    "duration": 34
+  },
+  {
+    "id": "7fc4f774-18d3-48e7-bba2-19d878ced03a",
+    "name": "Thailand",
+    "price": "$23516.74",
+    "startDate": "2024-01-16",
+    "duration": 39
+  },
+  {
+    "id": "612ef821-2e59-4edb-8343-20e0f1c0b962",
+    "name": "Poland",
+    "price": "$48007.28",
+    "startDate": "2024-01-06",
+    "duration": 13
+  },
+  {
+    "id": "bd6e1a38-eaad-4833-bdb7-bdcd762ea26d",
+    "name": "Turkmenistan",
+    "price": "$38533.82",
+    "startDate": "2023-10-06",
+    "duration": 37
+  },
+  {
+    "id": "b9394514-72b7-4ded-be12-416f63e10382",
+    "name": "Russia",
+    "price": "$17756.79",
+    "startDate": "2024-01-13",
+    "duration": 17
+  },
+  {
+    "id": "32720fab-a7ca-4e62-b96c-b4e7c1c8a6e0",
+    "name": "France",
+    "price": "$30271.18",
+    "startDate": "2023-10-04",
+    "duration": 16
+  },
+  {
+    "id": "d1d5eecb-1d7f-4e16-ae71-ecd3e6df2a56",
+    "name": "Ghana",
+    "price": "$47695.41",
+    "startDate": "2023-09-28",
+    "duration": 19
+  },
+  {
+    "id": "f808fabb-ac3a-4ed1-bf79-de2b0976b57d",
+    "name": "China",
+    "price": "$29004.49",
+    "startDate": "2024-02-11",
+    "duration": 27
+  },
+  {
+    "id": "d1fe91b1-16a1-4247-9b30-75dcf91de214",
+    "name": "China",
+    "price": "$41652.93",
+    "startDate": "2024-03-19",
+    "duration": 4
+  },
+  {
+    "id": "584279b3-1b7d-4c4c-8cca-7a2684105299",
+    "name": "Russia",
+    "price": "$32329.57",
+    "startDate": "2023-08-08",
+    "duration": 11
+  },
+  {
+    "id": "4035a614-5c18-4816-b2c6-7b74dee138a3",
+    "name": "Japan",
+    "price": "$33724.09",
+    "startDate": "2023-09-24",
+    "duration": 37
+  },
+  {
+    "id": "99b82506-44cc-4118-bfb8-a8cb571a4e0e",
+    "name": "China",
+    "price": "$49884.31",
+    "startDate": "2023-09-11",
+    "duration": 8
+  },
+  {
+    "id": "b712f054-f7c0-4dab-b33c-158c4f686eb8",
+    "name": "China",
+    "price": "$23773.56",
+    "startDate": "2023-10-21",
+    "duration": 22
+  },
+  {
+    "id": "bb69d659-b63a-4330-a1ca-9d10f89ec3c8",
+    "name": "Argentina",
+    "price": "$8535.46",
+    "startDate": "2023-10-22",
+    "duration": 26
+  },
+  {
+    "id": "df84a6cd-9930-4d10-99f1-6dc380320d9e",
+    "name": "Bulgaria",
+    "price": "$26050.53",
+    "startDate": "2023-12-04",
+    "duration": 28
+  },
+  {
+    "id": "a71ad2f9-896f-45c9-adcd-bcbf6ca070ac",
+    "name": "France",
+    "price": "$1425.38",
+    "startDate": "2024-05-30",
+    "duration": 18
+  },
+  {
+    "id": "9fec86ae-3caa-4123-8262-b2a27e107517",
+    "name": "China",
+    "price": "$42620.47",
+    "startDate": "2023-09-14",
+    "duration": 16
+  },
+  {
+    "id": "b8f96a8f-7a53-46be-96b0-1072d86b3ab0",
+    "name": "Sweden",
+    "price": "$7244.87",
+    "startDate": "2024-02-28",
+    "duration": 15
+  },
+  {
+    "id": "4f5926e0-3a17-4dbe-8f48-c7b82600f0fd",
+    "name": "Brazil",
+    "price": "$38690.98",
+    "startDate": "2024-03-08",
+    "duration": 40
+  },
+  {
+    "id": "4c040c7f-fdad-4266-8ebc-79540021e745",
+    "name": "Brazil",
+    "price": "$42597.15",
+    "startDate": "2024-03-01",
+    "duration": 32
+  },
+  {
+    "id": "a421f4bc-b774-45b0-9b9d-31b6c9efddd9",
+    "name": "Czech Republic",
+    "price": "$39235.32",
+    "startDate": "2023-12-25",
+    "duration": 38
+  },
+  {
+    "id": "789c627b-92e5-436d-a148-531388585e89",
+    "name": "Colombia",
+    "price": "$21596.31",
+    "startDate": "2023-08-17",
+    "duration": 33
+  },
+  {
+    "id": "1927f36a-302a-46db-a26e-3563df9e5c30",
+    "name": "France",
+    "price": "$15370.23",
+    "startDate": "2023-10-18",
+    "duration": 14
+  },
+  {
+    "id": "d72dc4fa-fcfd-4049-a64b-b971ba3353dd",
+    "name": "Ethiopia",
+    "price": "$3928.04",
+    "startDate": "2023-11-26",
+    "duration": 27
+  },
+  {
+    "id": "c7fafeb6-6248-4da5-9402-1c8450eba010",
+    "name": "Portugal",
+    "price": "$14676.16",
+    "startDate": "2024-06-01",
+    "duration": 11
+  },
+  {
+    "id": "070f071a-6953-4a60-891e-f555e7ede1a7",
+    "name": "Philippines",
+    "price": "$34180.71",
+    "startDate": "2024-02-21",
+    "duration": 20
+  },
+  {
+    "id": "1c9b459d-293e-42c3-96fa-4eeeb110075c",
+    "name": "Brazil",
+    "price": "$28013.78",
+    "startDate": "2023-09-01",
+    "duration": 4
+  },
+  {
+    "id": "0d8988f7-3ad3-4239-88db-0a51079e2d95",
+    "name": "Indonesia",
+    "price": "$2456.26",
+    "startDate": "2023-06-26",
+    "duration": 20
+  },
+  {
+    "id": "9468348a-af5c-4437-b8af-37c75a9e0a20",
+    "name": "Brazil",
+    "price": "$32093.75",
+    "startDate": "2023-09-27",
+    "duration": 21
+  },
+  {
+    "id": "769f3545-096a-4f17-9ff7-2f7fc6807610",
+    "name": "Japan",
+    "price": "$16590.22",
+    "startDate": "2023-12-18",
+    "duration": 33
+  },
+  {
+    "id": "389836f4-b607-4c44-b341-839625ae6f90",
+    "name": "Russia",
+    "price": "$45115.36",
+    "startDate": "2024-02-18",
+    "duration": 17
+  },
+  {
+    "id": "8732ac4e-b4ef-43ac-b3c5-3f870355a549",
+    "name": "Brazil",
+    "price": "$33859.54",
+    "startDate": "2023-06-22",
+    "duration": 12
+  },
+  {
+    "id": "2a31988e-6c2f-4781-b0bc-6aba463c2e43",
+    "name": "Ukraine",
+    "price": "$47471.47",
+    "startDate": "2023-09-27",
+    "duration": 3
+  },
+  {
+    "id": "a9f938c1-b037-4dfa-9a81-7344204374ab",
+    "name": "Bolivia",
+    "price": "$21931.91",
+    "startDate": "2024-03-08",
+    "duration": 11
+  },
+  {
+    "id": "225f7f3b-5c40-4a0b-80e4-1df8a31711d2",
+    "name": "Philippines",
+    "price": "$39652.69",
+    "startDate": "2024-01-30",
+    "duration": 6
+  },
+  {
+    "id": "edd119a9-781b-46b2-bcf9-01e5511f040c",
+    "name": "Indonesia",
+    "price": "$13944.82",
+    "startDate": "2023-11-06",
+    "duration": 13
+  },
+  {
+    "id": "058b621e-53c0-4c9e-9739-6ca21a1bfa37",
+    "name": "Ivory Coast",
+    "price": "$30229.58",
+    "startDate": "2024-01-26",
+    "duration": 9
+  },
+  {
+    "id": "31fa208b-5ac9-4760-9e42-794867264988",
+    "name": "Bangladesh",
+    "price": "$8551.82",
+    "startDate": "2023-07-25",
+    "duration": 9
+  },
+  {
+    "id": "3085c5a5-1d2a-4356-a105-99096727ade2",
+    "name": "Indonesia",
+    "price": "$31333.64",
+    "startDate": "2024-05-11",
+    "duration": 32
+  },
+  {
+    "id": "d106c9bf-509e-4709-b334-e802e59b9421",
+    "name": "Djibouti",
+    "price": "$45352.84",
+    "startDate": "2023-06-16",
+    "duration": 37
+  },
+  {
+    "id": "0ee36dbf-688d-4e6d-8dcf-c90b605bfae7",
+    "name": "Bulgaria",
+    "price": "$42995.66",
+    "startDate": "2024-01-26",
+    "duration": 28
+  },
+  {
+    "id": "c64b4f85-9cee-4569-a677-9b8ef6930c67",
+    "name": "Chad",
+    "price": "$19175.30",
+    "startDate": "2024-05-10",
+    "duration": 22
+  },
+  {
+    "id": "a01a0806-db19-4f21-b9bd-b978bf9371b0",
+    "name": "Peru",
+    "price": "$6325.79",
+    "startDate": "2024-04-07",
+    "duration": 10
+  },
+  {
+    "id": "94dd4606-dcf9-4583-97b5-a0bc8a333f5b",
+    "name": "Argentina",
+    "price": "$20710.82",
+    "startDate": "2023-12-13",
+    "duration": 40
+  },
+  {
+    "id": "ac0e73e9-e23c-40f3-8d40-532b78ffed61",
+    "name": "Indonesia",
+    "price": "$40719.75",
+    "startDate": "2023-06-24",
+    "duration": 13
+  },
+  {
+    "id": "2a8ab970-a50f-4396-b56b-b545d9d2f420",
+    "name": "China",
+    "price": "$39153.45",
+    "startDate": "2023-09-02",
+    "duration": 15
+  },
+  {
+    "id": "aee168c9-9655-4baf-b52b-987d80ad9c7f",
+    "name": "France",
+    "price": "$15905.99",
+    "startDate": "2024-01-26",
+    "duration": 17
+  },
+  {
+    "id": "11e62fcb-6e3b-41e1-80ef-83a8b072da5e",
+    "name": "China",
+    "price": "$22723.19",
+    "startDate": "2023-12-04",
+    "duration": 34
+  },
+  {
+    "id": "f7e928c7-49c9-4e21-8505-05020a255707",
+    "name": "China",
+    "price": "$40343.38",
+    "startDate": "2024-04-15",
+    "duration": 19
+  },
+  {
+    "id": "675302d2-4b8f-4113-a269-843470d17e1e",
+    "name": "China",
+    "price": "$9643.65",
+    "startDate": "2023-11-10",
+    "duration": 12
+  },
+  {
+    "id": "d9c766e3-4c11-4eae-b003-8b613f33eada",
+    "name": "Botswana",
+    "price": "$39146.05",
+    "startDate": "2023-08-08",
+    "duration": 20
+  },
+  {
+    "id": "34d816b8-1bd6-4dbe-83d5-27337eae63c8",
+    "name": "Portugal",
+    "price": "$17583.53",
+    "startDate": "2023-08-21",
+    "duration": 34
+  },
+  {
+    "id": "5285f192-2107-4b35-94ca-ee874719b8c1",
+    "name": "Russia",
+    "price": "$48540.95",
+    "startDate": "2024-04-19",
+    "duration": 13
+  },
+  {
+    "id": "e8d26cb1-95ca-4f90-aa7f-8167d47d921f",
+    "name": "Russia",
+    "price": "$20939.37",
+    "startDate": "2023-12-31",
+    "duration": 8
+  },
+  {
+    "id": "94e33091-a621-4119-8ffc-50f7686d70c4",
+    "name": "Russia",
+    "price": "$25207.27",
+    "startDate": "2023-09-16",
+    "duration": 23
+  },
+  {
+    "id": "41ffe322-3032-455d-b9ff-0568c8bd9ee2",
+    "name": "Russia",
+    "price": "$13069.12",
+    "startDate": "2023-10-10",
+    "duration": 34
+  },
+  {
+    "id": "648149c9-49d4-4c46-aa2c-8a4c15104f41",
+    "name": "Russia",
+    "price": "$29543.85",
+    "startDate": "2024-03-09",
+    "duration": 28
+  },
+  {
+    "id": "70c8543c-1284-4e73-8377-e0e7096e4438",
+    "name": "China",
+    "price": "$18299.28",
+    "startDate": "2023-07-01",
+    "duration": 36
+  },
+  {
+    "id": "f3b211ac-9b84-490f-8b86-eb7f14ee88db",
+    "name": "China",
+    "price": "$1452.43",
+    "startDate": "2023-06-19",
+    "duration": 39
+  },
+  {
+    "id": "4b24adcf-20bc-4eec-bf18-db3eef2288a9",
+    "name": "Portugal",
+    "price": "$18759.97",
+    "startDate": "2023-12-15",
+    "duration": 3
+  },
+  {
+    "id": "f0873a81-3d3b-477d-8611-bfdc519eb8ce",
+    "name": "China",
+    "price": "$20420.57",
+    "startDate": "2023-07-22",
+    "duration": 23
+  },
+  {
+    "id": "45aa9745-265f-4c4d-937d-ec63d024809d",
+    "name": "China",
+    "price": "$15804.12",
+    "startDate": "2023-12-15",
+    "duration": 10
+  },
+  {
+    "id": "564d0929-85bb-427e-ade3-63c66dd932fe",
+    "name": "China",
+    "price": "$14184.27",
+    "startDate": "2023-11-01",
+    "duration": 18
+  },
+  {
+    "id": "063cdf0c-8969-481c-9f47-dadc03fdc0ca",
+    "name": "Malawi",
+    "price": "$3406.28",
+    "startDate": "2024-01-19",
+    "duration": 30
+  },
+  {
+    "id": "ebd38ff9-51ed-4b46-a1d1-7027c67f5c53",
+    "name": "China",
+    "price": "$29068.00",
+    "startDate": "2023-10-22",
+    "duration": 15
+  },
+  {
+    "id": "504aa259-dd2d-4021-a81d-0c14a8fe6261",
+    "name": "China",
+    "price": "$19058.08",
+    "startDate": "2024-03-27",
+    "duration": 33
+  },
+  {
+    "id": "d90a2328-7079-4277-871c-7dfac0e2a21a",
+    "name": "Peru",
+    "price": "$23348.16",
+    "startDate": "2024-04-15",
+    "duration": 19
+  },
+  {
+    "id": "30cb7e78-9f98-4577-b632-22f819b4f93b",
+    "name": "Indonesia",
+    "price": "$34208.82",
+    "startDate": "2024-03-05",
+    "duration": 16
+  },
+  {
+    "id": "465a95e4-d844-49cf-a2b1-29c2e9e0809b",
+    "name": "Indonesia",
+    "price": "$41456.05",
+    "startDate": "2023-10-14",
+    "duration": 14
+  },
+  {
+    "id": "a472de8e-8282-4d05-be44-7672c58986fe",
+    "name": "Indonesia",
+    "price": "$24139.98",
+    "startDate": "2024-03-06",
+    "duration": 10
+  },
+  {
+    "id": "89baa8ca-4843-4944-9576-942a0e8cec6e",
+    "name": "China",
+    "price": "$35489.92",
+    "startDate": "2023-11-03",
+    "duration": 24
+  },
+  {
+    "id": "8f308b30-926e-45b8-a34b-553c0d2849f0",
+    "name": "Russia",
+    "price": "$26013.94",
+    "startDate": "2024-02-17",
+    "duration": 3
+  },
+  {
+    "id": "7ec1f018-68e7-4625-94e1-6e95b405a6d1",
+    "name": "Cuba",
+    "price": "$33460.08",
+    "startDate": "2023-07-26",
+    "duration": 19
+  },
+  {
+    "id": "26ccb830-8a2f-4747-9bfb-807eaddd4904",
+    "name": "France",
+    "price": "$5299.76",
+    "startDate": "2024-03-13",
+    "duration": 13
+  },
+  {
+    "id": "2d032a84-20c6-4e37-aff1-e944d9f4ba74",
+    "name": "China",
+    "price": "$49088.99",
+    "startDate": "2024-05-21",
+    "duration": 29
+  },
+  {
+    "id": "4d400894-2712-4782-aa44-03f42c33a77e",
+    "name": "Paraguay",
+    "price": "$6635.71",
+    "startDate": "2024-02-13",
+    "duration": 23
+  },
+  {
+    "id": "a620c9fb-d464-46c6-b1d8-a40c64b205fd",
+    "name": "Thailand",
+    "price": "$12677.02",
+    "startDate": "2023-12-04",
+    "duration": 8
+  },
+  {
+    "id": "917c51eb-21da-480d-8552-bd885013918c",
+    "name": "China",
+    "price": "$38697.87",
+    "startDate": "2023-07-30",
+    "duration": 32
+  },
+  {
+    "id": "f2573701-f94a-422a-a9f2-468463b541ad",
+    "name": "Philippines",
+    "price": "$43069.83",
+    "startDate": "2023-09-25",
+    "duration": 24
+  },
+  {
+    "id": "1df9266f-c883-4f05-b9c7-42cda2a2b838",
+    "name": "Indonesia",
+    "price": "$19581.65",
+    "startDate": "2024-04-02",
+    "duration": 8
+  },
+  {
+    "id": "6d71273a-4b6d-42b3-a8f5-770bec5f1949",
+    "name": "China",
+    "price": "$20208.56",
+    "startDate": "2024-01-28",
+    "duration": 23
+  },
+  {
+    "id": "2b3f3c04-af8f-4bd5-a041-9184598f7d31",
+    "name": "China",
+    "price": "$31172.06",
+    "startDate": "2023-07-18",
+    "duration": 23
+  },
+  {
+    "id": "7a5080d8-bbda-47aa-b233-6d6e6553333d",
+    "name": "France",
+    "price": "$39400.01",
+    "startDate": "2023-06-24",
+    "duration": 18
+  },
+  {
+    "id": "19f2387f-6dfd-4bc4-a227-ff93564ccc0c",
+    "name": "Portugal",
+    "price": "$39348.03",
+    "startDate": "2024-04-21",
+    "duration": 32
+  },
+  {
+    "id": "d9941561-177d-4090-af40-fc554785f631",
+    "name": "Greece",
+    "price": "$48232.11",
+    "startDate": "2024-05-18",
+    "duration": 6
+  },
+  {
+    "id": "8e13a3e1-e866-47a1-87d4-05a1067a2848",
+    "name": "Japan",
+    "price": "$46451.88",
+    "startDate": "2023-08-29",
+    "duration": 8
+  },
+  {
+    "id": "1305c648-bc23-4cbc-a9f9-d6f5500ed581",
+    "name": "Guatemala",
+    "price": "$45735.65",
+    "startDate": "2024-03-02",
+    "duration": 18
+  },
+  {
+    "id": "699a0cd0-46ac-4c1f-ba12-909654f21fe5",
+    "name": "France",
+    "price": "$45122.34",
+    "startDate": "2023-06-06",
+    "duration": 13
+  },
+  {
+    "id": "90a1410b-0c5f-4e40-929b-9bec93ba2ae3",
+    "name": "Estonia",
+    "price": "$47495.66",
+    "startDate": "2024-05-04",
+    "duration": 18
+  },
+  {
+    "id": "cd97573a-6aa7-4acf-8430-35429cbc1273",
+    "name": "Benin",
+    "price": "$3977.74",
+    "startDate": "2023-10-11",
+    "duration": 6
+  },
+  {
+    "id": "203880c5-2d6d-4be8-aad2-42dcac4c6923",
+    "name": "Norway",
+    "price": "$9611.70",
+    "startDate": "2023-08-03",
+    "duration": 18
+  },
+  {
+    "id": "c472e518-4f1c-473f-91a4-864f8184c94f",
+    "name": "Russia",
+    "price": "$30019.61",
+    "startDate": "2023-06-30",
+    "duration": 14
+  },
+  {
+    "id": "12a8d92e-71bd-426e-9830-dbc05872a477",
+    "name": "China",
+    "price": "$31879.59",
+    "startDate": "2023-10-18",
+    "duration": 38
+  },
+  {
+    "id": "6d620496-43ab-4570-b798-b45600485e85",
+    "name": "Luxembourg",
+    "price": "$21163.70",
+    "startDate": "2023-11-21",
+    "duration": 21
+  },
+  {
+    "id": "e8aa5f1d-c8a4-4eac-8e76-ce082484d649",
+    "name": "China",
+    "price": "$40332.24",
+    "startDate": "2024-02-16",
+    "duration": 26
+  },
+  {
+    "id": "4a6aa3be-07e3-4fc6-85d4-dac37c1d5211",
+    "name": "Lithuania",
+    "price": "$33297.81",
+    "startDate": "2024-02-26",
+    "duration": 27
+  },
+  {
+    "id": "c04fc0fb-4113-41ee-ad45-ded2460fb45f",
+    "name": "Greece",
+    "price": "$25623.61",
+    "startDate": "2024-01-14",
+    "duration": 8
+  },
+  {
+    "id": "c0695986-a90c-41a2-902e-70983b9dee46",
+    "name": "Cuba",
+    "price": "$31255.67",
+    "startDate": "2023-11-15",
+    "duration": 5
+  },
+  {
+    "id": "22d47c94-0546-4f39-bd83-7cb9fb66afa5",
+    "name": "Luxembourg",
+    "price": "$9343.88",
+    "startDate": "2023-06-21",
+    "duration": 12
+  },
+  {
+    "id": "5f232b30-150e-4b03-8e23-85989d3ecff4",
+    "name": "Poland",
+    "price": "$46736.21",
+    "startDate": "2023-11-07",
+    "duration": 22
+  },
+  {
+    "id": "6a1a9e36-e255-48bd-b96d-1f3ec9633cb6",
+    "name": "Uganda",
+    "price": "$35479.00",
+    "startDate": "2023-11-22",
+    "duration": 17
+  },
+  {
+    "id": "2f0873c2-a214-4dbd-81a6-232eee121053",
+    "name": "Russia",
+    "price": "$26122.07",
+    "startDate": "2024-05-19",
+    "duration": 39
+  },
+  {
+    "id": "9aa9af70-6f3f-4ad1-9db5-93d2a2f31cc6",
+    "name": "Russia",
+    "price": "$16253.84",
+    "startDate": "2023-06-20",
+    "duration": 13
+  },
+  {
+    "id": "81b45f57-b516-47ce-afcd-06f03eaea1f1",
+    "name": "Poland",
+    "price": "$45327.54",
+    "startDate": "2023-06-28",
+    "duration": 18
+  },
+  {
+    "id": "2fb42df6-98e0-40ba-a917-597d83f2eebf",
+    "name": "China",
+    "price": "$30004.55",
+    "startDate": "2024-04-13",
+    "duration": 12
+  },
+  {
+    "id": "a052c6d4-8c96-491c-b3a5-ac2aaf970bd0",
+    "name": "Indonesia",
+    "price": "$11488.57",
+    "startDate": "2023-12-16",
+    "duration": 26
+  },
+  {
+    "id": "fbed6e38-0bb2-4c54-a09c-123d763d113b",
+    "name": "China",
+    "price": "$27062.41",
+    "startDate": "2023-09-13",
+    "duration": 25
+  },
+  {
+    "id": "8b087412-9571-43cc-b262-2686cf50d118",
+    "name": "Democratic Republic of the Congo",
+    "price": "$10992.08",
+    "startDate": "2023-12-21",
+    "duration": 6
+  },
+  {
+    "id": "e2d6a1e1-e5a4-4ea3-bbaf-55b38bf8e8a1",
+    "name": "China",
+    "price": "$2047.06",
+    "startDate": "2023-09-03",
+    "duration": 5
+  },
+  {
+    "id": "9400f520-0179-43ff-afdf-5ce2a06792db",
+    "name": "Luxembourg",
+    "price": "$8083.37",
+    "startDate": "2023-08-18",
+    "duration": 34
+  },
+  {
+    "id": "611f905d-536e-4029-a5c9-d806409efa29",
+    "name": "China",
+    "price": "$26083.53",
+    "startDate": "2024-03-16",
+    "duration": 34
+  },
+  {
+    "id": "e6372230-fc27-4d1b-98de-0d1537fcf454",
+    "name": "Indonesia",
+    "price": "$30785.81",
+    "startDate": "2024-05-06",
+    "duration": 29
+  },
+  {
+    "id": "07f382bd-3b54-45a9-8d49-4c0351d4b7fa",
+    "name": "Indonesia",
+    "price": "$35840.31",
+    "startDate": "2023-07-07",
+    "duration": 37
+  },
+  {
+    "id": "1b28a5d9-a1cb-4ea7-8336-34a26ad4fff0",
+    "name": "China",
+    "price": "$1913.85",
+    "startDate": "2023-08-24",
+    "duration": 16
+  },
+  {
+    "id": "674bd088-3f71-4af7-b752-48f9b3ff1ceb",
+    "name": "Peru",
+    "price": "$47296.76",
+    "startDate": "2023-10-15",
+    "duration": 13
+  },
+  {
+    "id": "2a4f70f2-0ffe-4775-8526-d57427731555",
+    "name": "China",
+    "price": "$21290.82",
+    "startDate": "2023-12-27",
+    "duration": 37
+  },
+  {
+    "id": "86dd5f51-9466-4781-b625-92d1d358cd88",
+    "name": "Myanmar",
+    "price": "$28261.23",
+    "startDate": "2023-11-02",
+    "duration": 36
+  },
+  {
+    "id": "d98c6edd-8f6f-444a-b7ef-a5b1712aec6c",
+    "name": "France",
+    "price": "$29043.87",
+    "startDate": "2024-03-01",
+    "duration": 29
+  },
+  {
+    "id": "59497e3f-64d7-4632-bd4c-d7eaebfa732a",
+    "name": "France",
+    "price": "$19294.97",
+    "startDate": "2024-05-02",
+    "duration": 29
+  },
+  {
+    "id": "36ed0394-6f6c-493d-ace0-dfdcda30b887",
+    "name": "Cuba",
+    "price": "$31467.74",
+    "startDate": "2023-09-10",
+    "duration": 12
+  },
+  {
+    "id": "3b676b4d-397c-40e0-ab2d-a61f7e49498e",
+    "name": "Morocco",
+    "price": "$48956.65",
+    "startDate": "2024-01-04",
+    "duration": 33
+  },
+  {
+    "id": "11c2870b-4d1d-47f9-8958-98bba6512656",
+    "name": "Indonesia",
+    "price": "$25518.13",
+    "startDate": "2023-10-12",
+    "duration": 23
+  },
+  {
+    "id": "fac4a0de-856a-4c73-ab66-84b6d6d200d6",
+    "name": "China",
+    "price": "$36818.02",
+    "startDate": "2023-09-04",
+    "duration": 25
+  },
+  {
+    "id": "ae59fd19-4767-4163-a523-3fc833d997f8",
+    "name": "New Zealand",
+    "price": "$11077.43",
+    "startDate": "2024-02-25",
+    "duration": 32
+  },
+  {
+    "id": "ffa00154-39d4-4c76-8798-6943030cf958",
+    "name": "Philippines",
+    "price": "$35902.83",
+    "startDate": "2023-09-02",
+    "duration": 28
+  },
+  {
+    "id": "fa8b23fb-1d6c-4b5d-9d6e-e6c30a3d09ef",
+    "name": "Malaysia",
+    "price": "$36417.73",
+    "startDate": "2023-08-04",
+    "duration": 22
+  },
+  {
+    "id": "c927a575-c82f-43ac-94d8-1d826d93c907",
+    "name": "Brazil",
+    "price": "$12120.66",
+    "startDate": "2024-03-18",
+    "duration": 22
+  },
+  {
+    "id": "cd7cd0bd-c12c-40c2-a496-c1066defa56c",
+    "name": "Ivory Coast",
+    "price": "$4802.74",
+    "startDate": "2023-09-26",
+    "duration": 8
+  },
+  {
+    "id": "167a0786-d973-4193-bf49-182c6d958036",
+    "name": "Czech Republic",
+    "price": "$17597.41",
+    "startDate": "2024-04-20",
+    "duration": 7
+  },
+  {
+    "id": "7deccabf-4b21-4df0-804a-a80dc054bcfd",
+    "name": "Indonesia",
+    "price": "$13635.80",
+    "startDate": "2023-12-18",
+    "duration": 23
+  },
+  {
+    "id": "ffaf205c-5ee7-4ae7-a17c-fb79f9492a7d",
+    "name": "Comoros",
+    "price": "$17530.43",
+    "startDate": "2023-08-11",
+    "duration": 27
+  },
+  {
+    "id": "7ab55368-a53f-459a-9d29-c964fae37111",
+    "name": "Mexico",
+    "price": "$42926.70",
+    "startDate": "2024-01-22",
+    "duration": 26
+  },
+  {
+    "id": "f1d5da3d-5259-487a-8a42-93f676c46138",
+    "name": "Paraguay",
+    "price": "$36003.99",
+    "startDate": "2024-02-05",
+    "duration": 31
+  },
+  {
+    "id": "8cc6e75e-d824-4129-9a5d-6f27cbf6c224",
+    "name": "Bangladesh",
+    "price": "$12396.96",
+    "startDate": "2023-07-10",
+    "duration": 12
+  },
+  {
+    "id": "11a3ae73-e42f-41ee-ab36-02f93faccc5d",
+    "name": "Portugal",
+    "price": "$22466.86",
+    "startDate": "2024-03-17",
+    "duration": 32
+  },
+  {
+    "id": "bf59ac4a-fb1d-4b60-bdaf-258b64196146",
+    "name": "United States",
+    "price": "$48485.68",
+    "startDate": "2024-03-07",
+    "duration": 21
+  },
+  {
+    "id": "1ba77052-c21a-4b13-bb63-173cad9fb6a9",
+    "name": "Belarus",
+    "price": "$9483.12",
+    "startDate": "2023-07-21",
+    "duration": 6
+  },
+  {
+    "id": "90e3e668-b985-4bcb-afa0-98230745c4a4",
+    "name": "China",
+    "price": "$25185.78",
+    "startDate": "2024-01-17",
+    "duration": 9
+  },
+  {
+    "id": "8d51776f-b8e0-449b-913c-594963f41b97",
+    "name": "Philippines",
+    "price": "$30457.83",
+    "startDate": "2023-12-23",
+    "duration": 11
+  },
+  {
+    "id": "866f6c24-fca3-4d65-baca-4e713573a50f",
+    "name": "Russia",
+    "price": "$4918.55",
+    "startDate": "2024-05-25",
+    "duration": 39
+  },
+  {
+    "id": "819e3338-8384-4568-819b-12769ec55a06",
+    "name": "Bosnia and Herzegovina",
+    "price": "$39237.82",
+    "startDate": "2023-12-08",
+    "duration": 13
+  },
+  {
+    "id": "9100cb55-0adc-49ac-8691-8c81f1468690",
+    "name": "Mexico",
+    "price": "$17448.44",
+    "startDate": "2024-01-10",
+    "duration": 26
+  },
+  {
+    "id": "c0ef7744-443b-4f56-a1da-a829b5c2a991",
+    "name": "China",
+    "price": "$32712.25",
+    "startDate": "2023-11-06",
+    "duration": 5
+  },
+  {
+    "id": "9a61958e-07f2-4ea4-9aea-9929dab9255b",
+    "name": "Mexico",
+    "price": "$19645.36",
+    "startDate": "2023-11-08",
+    "duration": 18
+  },
+  {
+    "id": "e898ed39-ca19-4b4b-af29-f7917b762678",
+    "name": "Indonesia",
+    "price": "$41649.49",
+    "startDate": "2023-11-15",
+    "duration": 38
+  },
+  {
+    "id": "e21a7483-df8d-4f1d-b27b-1431790ea754",
+    "name": "Peru",
+    "price": "$44160.45",
+    "startDate": "2023-06-14",
+    "duration": 17
+  },
+  {
+    "id": "b369d69f-874c-4da8-8b9b-a1333a50f6a4",
+    "name": "Poland",
+    "price": "$46260.80",
+    "startDate": "2024-02-11",
+    "duration": 26
+  },
+  {
+    "id": "6ea245c1-af74-4d6e-9e02-d3fd1ee39a14",
+    "name": "Philippines",
+    "price": "$34629.99",
+    "startDate": "2024-05-08",
+    "duration": 37
+  },
+  {
+    "id": "bd11be4b-aa63-4eab-988b-68139435ee62",
+    "name": "Portugal",
+    "price": "$29168.18",
+    "startDate": "2024-03-25",
+    "duration": 25
+  },
+  {
+    "id": "39319a4f-6675-4820-a9e6-9f9b958302a5",
+    "name": "China",
+    "price": "$10420.11",
+    "startDate": "2023-10-15",
+    "duration": 14
+  },
+  {
+    "id": "4d94e843-ffe3-41f3-8b1a-2672c238faf2",
+    "name": "Argentina",
+    "price": "$13421.78",
+    "startDate": "2023-09-19",
+    "duration": 9
+  },
+  {
+    "id": "1c6f3a09-17dd-4f2b-b114-f6d9138b6a0f",
+    "name": "Russia",
+    "price": "$7904.07",
+    "startDate": "2024-05-31",
+    "duration": 23
+  },
+  {
+    "id": "a0aff136-a8f4-4435-ba0d-373d5106fce6",
+    "name": "France",
+    "price": "$30143.93",
+    "startDate": "2023-10-27",
+    "duration": 3
+  },
+  {
+    "id": "ff052ec1-f20e-4b06-a65c-2eb995ef4349",
+    "name": "China",
+    "price": "$9589.61",
+    "startDate": "2023-06-08",
+    "duration": 5
+  },
+  {
+    "id": "cdb0df80-b019-41b7-8424-4d8269a56fd4",
+    "name": "Russia",
+    "price": "$20355.44",
+    "startDate": "2023-07-05",
+    "duration": 37
+  },
+  {
+    "id": "a36fc728-a878-4fb4-8702-d182b901a73f",
+    "name": "Zambia",
+    "price": "$22207.77",
+    "startDate": "2024-03-23",
+    "duration": 31
+  },
+  {
+    "id": "d01f8cea-9c48-421e-b436-ccfcb201e57b",
+    "name": "China",
+    "price": "$39033.37",
+    "startDate": "2024-03-27",
+    "duration": 12
+  },
+  {
+    "id": "a8d0cd63-af0f-497b-aa61-1ee909365852",
+    "name": "Vietnam",
+    "price": "$43498.59",
+    "startDate": "2023-07-16",
+    "duration": 39
+  },
+  {
+    "id": "80159058-f933-4739-a465-c57539aac6e9",
+    "name": "Portugal",
+    "price": "$22838.61",
+    "startDate": "2024-04-24",
+    "duration": 32
+  },
+  {
+    "id": "034c18f0-037d-4599-a278-a513c6615f9b",
+    "name": "Poland",
+    "price": "$17986.71",
+    "startDate": "2024-04-14",
+    "duration": 25
+  },
+  {
+    "id": "eedfe5aa-8966-416f-acf5-0bb77154a3b8",
+    "name": "Venezuela",
+    "price": "$13251.80",
+    "startDate": "2023-10-01",
+    "duration": 37
+  },
+  {
+    "id": "72bdb0d7-4297-401d-b0b2-59dc8add88a7",
+    "name": "Russia",
+    "price": "$25962.50",
+    "startDate": "2023-10-29",
+    "duration": 9
+  },
+  {
+    "id": "69eb927f-1280-4462-a409-05fded0c2c17",
+    "name": "Brazil",
+    "price": "$20455.77",
+    "startDate": "2024-05-12",
+    "duration": 29
+  },
+  {
+    "id": "16bd2852-65af-412a-b9ec-8da87348ade4",
+    "name": "Botswana",
+    "price": "$46020.21",
+    "startDate": "2023-10-14",
+    "duration": 34
+  },
+  {
+    "id": "20988f63-d40e-4565-9dc0-24aee22251bd",
+    "name": "United States",
+    "price": "$17820.03",
+    "startDate": "2023-11-05",
+    "duration": 22
+  },
+  {
+    "id": "4361c4df-9ea5-4292-9496-f92e18a6cfd7",
+    "name": "Croatia",
+    "price": "$29000.74",
+    "startDate": "2023-10-23",
+    "duration": 4
+  },
+  {
+    "id": "9530e924-3da8-4d10-9e7d-3e90372d916a",
+    "name": "China",
+    "price": "$20778.85",
+    "startDate": "2024-03-23",
+    "duration": 13
+  },
+  {
+    "id": "9659a85f-ad23-446a-9cf9-8c79c1349a7e",
+    "name": "Sweden",
+    "price": "$7399.67",
+    "startDate": "2024-01-31",
+    "duration": 13
+  },
+  {
+    "id": "90601f39-04e4-4f23-bfd8-cf277d2da5b0",
+    "name": "Indonesia",
+    "price": "$15382.68",
+    "startDate": "2023-06-25",
+    "duration": 37
+  },
+  {
+    "id": "4d086365-d5f0-4ca0-a63b-a5d32b5c7322",
+    "name": "Portugal",
+    "price": "$11897.25",
+    "startDate": "2024-03-04",
+    "duration": 14
+  },
+  {
+    "id": "026da943-132d-4b54-8298-995ebf075f09",
+    "name": "Poland",
+    "price": "$5100.20",
+    "startDate": "2024-03-10",
+    "duration": 38
+  },
+  {
+    "id": "b9800cb5-4c4c-4463-9181-161aeb823222",
+    "name": "Afghanistan",
+    "price": "$25999.77",
+    "startDate": "2023-12-04",
+    "duration": 27
+  },
+  {
+    "id": "c5cae8ed-e86a-4334-a172-0906dc303ed0",
+    "name": "China",
+    "price": "$43230.93",
+    "startDate": "2024-01-05",
+    "duration": 31
+  },
+  {
+    "id": "cd56c948-e48c-4d68-b510-e4327c3ab59d",
+    "name": "China",
+    "price": "$13697.34",
+    "startDate": "2023-06-12",
+    "duration": 11
+  },
+  {
+    "id": "4af8d8cb-c742-4f30-95ca-08cbacb268ec",
+    "name": "Indonesia",
+    "price": "$6653.32",
+    "startDate": "2023-09-05",
+    "duration": 9
+  },
+  {
+    "id": "6b0bbd5a-9d35-42f9-adf1-3e51b98343e5",
+    "name": "Serbia",
+    "price": "$8944.32",
+    "startDate": "2023-07-16",
+    "duration": 38
+  },
+  {
+    "id": "0c168744-9d89-4faf-8d08-3b1dba6abfa2",
+    "name": "Russia",
+    "price": "$4121.24",
+    "startDate": "2024-04-21",
+    "duration": 17
+  },
+  {
+    "id": "338b6b73-1ca8-46dc-b1a9-da1484696dd5",
+    "name": "Philippines",
+    "price": "$47138.34",
+    "startDate": "2023-06-19",
+    "duration": 20
+  },
+  {
+    "id": "f7e72356-f7f8-42cb-9559-0edbdfcbe651",
+    "name": "Portugal",
+    "price": "$43340.90",
+    "startDate": "2024-02-02",
+    "duration": 4
+  },
+  {
+    "id": "566f5d83-ead4-465f-bf51-4567f16145ef",
+    "name": "Brazil",
+    "price": "$30783.55",
+    "startDate": "2023-11-30",
+    "duration": 39
+  },
+  {
+    "id": "6f03dfdf-2bbc-4855-b07b-41ac10d6efb5",
+    "name": "Indonesia",
+    "price": "$17110.06",
+    "startDate": "2023-07-22",
+    "duration": 32
+  },
+  {
+    "id": "a1e2262f-19ad-4737-9a94-05dd460924a6",
+    "name": "Argentina",
+    "price": "$7849.77",
+    "startDate": "2024-02-29",
+    "duration": 32
+  },
+  {
+    "id": "544271f6-e47c-4fa7-aa2d-676fcc91b9d1",
+    "name": "Argentina",
+    "price": "$15516.26",
+    "startDate": "2023-09-19",
+    "duration": 37
+  },
+  {
+    "id": "d6de25ff-a5d3-4fa1-80b9-4364484a7f49",
+    "name": "Peru",
+    "price": "$40520.57",
+    "startDate": "2023-10-12",
+    "duration": 20
+  },
+  {
+    "id": "0d7218f3-6b04-4c8a-aa6f-5403fc36dea4",
+    "name": "Burkina Faso",
+    "price": "$32226.52",
+    "startDate": "2023-08-25",
+    "duration": 10
+  },
+  {
+    "id": "950f78ae-e8d5-4778-9811-e62928d12170",
+    "name": "China",
+    "price": "$48178.64",
+    "startDate": "2023-10-30",
+    "duration": 33
+  },
+  {
+    "id": "ab45f5bb-7a3b-4504-9e67-21ecddda0086",
+    "name": "Estonia",
+    "price": "$33084.93",
+    "startDate": "2023-08-28",
+    "duration": 22
+  },
+  {
+    "id": "acdb6dff-03a3-4cf1-a339-6103a6247d12",
+    "name": "Afghanistan",
+    "price": "$47032.58",
+    "startDate": "2024-01-03",
+    "duration": 26
+  },
+  {
+    "id": "878c11ba-7772-4ade-9c3a-41a5eaad13df",
+    "name": "Russia",
+    "price": "$46167.37",
+    "startDate": "2024-06-01",
+    "duration": 12
+  },
+  {
+    "id": "849f8a1c-06b9-4ac3-88b6-445b1a2ca239",
+    "name": "China",
+    "price": "$35521.95",
+    "startDate": "2024-05-03",
+    "duration": 24
+  },
+  {
+    "id": "f8f4020c-2515-49fc-8232-cbc6e61ddeae",
+    "name": "Russia",
+    "price": "$10126.73",
+    "startDate": "2023-08-08",
+    "duration": 4
+  },
+  {
+    "id": "93ad3474-dde5-4a52-bed3-c151ae51756d",
+    "name": "Czech Republic",
+    "price": "$13875.58",
+    "startDate": "2023-07-03",
+    "duration": 27
+  },
+  {
+    "id": "49371e83-301c-4898-9332-5d0e6017b14c",
+    "name": "Indonesia",
+    "price": "$42477.82",
+    "startDate": "2024-02-14",
+    "duration": 18
+  },
+  {
+    "id": "4cd5c17b-ea50-40de-bde3-229025447ae3",
+    "name": "Poland",
+    "price": "$29201.44",
+    "startDate": "2024-03-19",
+    "duration": 32
+  },
+  {
+    "id": "adb6b982-9206-4728-96d5-f44cb0c05d38",
+    "name": "Syria",
+    "price": "$24182.95",
+    "startDate": "2024-05-13",
+    "duration": 12
+  },
+  {
+    "id": "f9409d9c-484e-4f02-8d33-ca8c28063f11",
+    "name": "United States",
+    "price": "$9536.87",
+    "startDate": "2024-04-15",
+    "duration": 39
+  },
+  {
+    "id": "a47cfe0e-bd01-4ae0-8ef1-f6836d9524f9",
+    "name": "Finland",
+    "price": "$12165.74",
+    "startDate": "2023-08-29",
+    "duration": 26
+  },
+  {
+    "id": "7472ceef-8469-4293-a3de-fd8bc2806f0f",
+    "name": "Peru",
+    "price": "$16035.62",
+    "startDate": "2024-05-11",
+    "duration": 9
+  },
+  {
+    "id": "029b25ee-98f1-4b02-95fc-7ec3ac7cb1ff",
+    "name": "United States",
+    "price": "$19283.71",
+    "startDate": "2024-04-09",
+    "duration": 28
+  },
+  {
+    "id": "03e6065b-eaf4-46b0-b16f-c6d6114cf23a",
+    "name": "Barbados",
+    "price": "$10230.14",
+    "startDate": "2023-09-25",
+    "duration": 21
+  },
+  {
+    "id": "aa84e327-1a71-40b1-9e55-736faf209786",
+    "name": "Croatia",
+    "price": "$3255.40",
+    "startDate": "2023-08-26",
+    "duration": 32
+  },
+  {
+    "id": "86caca93-04b6-4d30-a274-1631bf208671",
+    "name": "Poland",
+    "price": "$10994.68",
+    "startDate": "2023-12-17",
+    "duration": 23
+  },
+  {
+    "id": "27a8cfa6-4135-48ce-a7c8-946137fc9de9",
+    "name": "Afghanistan",
+    "price": "$31782.80",
+    "startDate": "2023-06-11",
+    "duration": 37
+  },
+  {
+    "id": "4795391b-0716-4c3b-af2b-dc2c9a74d8e4",
+    "name": "Indonesia",
+    "price": "$22643.12",
+    "startDate": "2024-01-28",
+    "duration": 10
+  },
+  {
+    "id": "e0d9e954-e7b8-43a6-b057-0fbfe5fdfd29",
+    "name": "China",
+    "price": "$44525.41",
+    "startDate": "2024-01-13",
+    "duration": 31
+  },
+  {
+    "id": "d4392106-bed2-424d-899c-3f141f7cba27",
+    "name": "China",
+    "price": "$24678.59",
+    "startDate": "2024-03-30",
+    "duration": 10
+  },
+  {
+    "id": "3344ffc3-a8e9-4c7c-baef-066179f375ba",
+    "name": "China",
+    "price": "$29104.59",
+    "startDate": "2023-09-25",
+    "duration": 20
+  },
+  {
+    "id": "7879a6f6-a8bb-48ba-a60b-04506c1f9887",
+    "name": "Ireland",
+    "price": "$31453.30",
+    "startDate": "2024-04-05",
+    "duration": 26
+  },
+  {
+    "id": "a27d0032-26a2-4ece-b22e-a440023edddc",
+    "name": "Pakistan",
+    "price": "$19864.44",
+    "startDate": "2023-09-25",
+    "duration": 16
+  },
+  {
+    "id": "a047b8d9-0e49-43a1-ab63-7cf9ece7e395",
+    "name": "China",
+    "price": "$1446.10",
+    "startDate": "2023-11-27",
+    "duration": 7
+  },
+  {
+    "id": "d12b0617-fe4d-459b-80b7-d9c5cd64e8f4",
+    "name": "Vietnam",
+    "price": "$4585.89",
+    "startDate": "2024-04-08",
+    "duration": 31
+  },
+  {
+    "id": "57ed7051-053c-451f-9d50-1b3e0a4194f4",
+    "name": "Russia",
+    "price": "$13440.80",
+    "startDate": "2024-05-17",
+    "duration": 10
+  },
+  {
+    "id": "6d8d01c0-e799-45fc-931d-ba38c3ac4b16",
+    "name": "Russia",
+    "price": "$45591.73",
+    "startDate": "2024-02-11",
+    "duration": 39
+  },
+  {
+    "id": "b1d0b540-5b06-434a-8892-4a8c780c36ca",
+    "name": "China",
+    "price": "$2660.96",
+    "startDate": "2023-10-21",
+    "duration": 9
+  },
+  {
+    "id": "70b6c793-3821-499c-bc5a-a2e66acc4887",
+    "name": "United States",
+    "price": "$36699.78",
+    "startDate": "2024-03-22",
+    "duration": 37
+  },
+  {
+    "id": "3649d244-559f-4baa-a11e-bd281b1fc0d2",
+    "name": "China",
+    "price": "$46427.23",
+    "startDate": "2024-04-14",
+    "duration": 5
+  },
+  {
+    "id": "fb60cd52-4c52-478a-a15a-04f6b096ca04",
+    "name": "Russia",
+    "price": "$17876.97",
+    "startDate": "2024-05-18",
+    "duration": 32
+  },
+  {
+    "id": "787b8155-6027-4cc2-916c-77ce20c6a81b",
+    "name": "Brazil",
+    "price": "$7555.59",
+    "startDate": "2023-07-09",
+    "duration": 11
+  },
+  {
+    "id": "043513fd-e14a-4486-b077-1f689a5c4ee6",
+    "name": "Latvia",
+    "price": "$10432.18",
+    "startDate": "2024-05-12",
+    "duration": 23
+  },
+  {
+    "id": "949c705e-4cba-4caa-b787-eb93f32de6ed",
+    "name": "Indonesia",
+    "price": "$25192.06",
+    "startDate": "2024-02-25",
+    "duration": 32
+  },
+  {
+    "id": "9f312923-db6a-4d8c-a068-2f9cb04a3e25",
+    "name": "Indonesia",
+    "price": "$18824.41",
+    "startDate": "2024-03-15",
+    "duration": 4
+  },
+  {
+    "id": "51fd0545-048e-4360-b718-6014da4b3500",
+    "name": "Sweden",
+    "price": "$22108.54",
+    "startDate": "2024-03-21",
+    "duration": 37
+  },
+  {
+    "id": "157077ca-3e5a-432f-8e31-6684bee94c94",
+    "name": "Russia",
+    "price": "$11322.98",
+    "startDate": "2024-01-30",
+    "duration": 21
+  },
+  {
+    "id": "0edfe1bd-6ed0-4237-9793-b2ba8216fffb",
+    "name": "France",
+    "price": "$29949.91",
+    "startDate": "2023-11-26",
+    "duration": 36
+  },
+  {
+    "id": "58b6e16b-6b05-47f6-972f-53f9d4527bad",
+    "name": "China",
+    "price": "$15994.69",
+    "startDate": "2024-04-06",
+    "duration": 4
+  },
+  {
+    "id": "c5c69bef-486e-4fe6-ade6-2a5b898fb341",
+    "name": "Indonesia",
+    "price": "$21519.74",
+    "startDate": "2023-07-03",
+    "duration": 32
+  },
+  {
+    "id": "469f2cca-6065-4cc5-b020-527001f8fc14",
+    "name": "Afghanistan",
+    "price": "$19635.02",
+    "startDate": "2024-01-29",
+    "duration": 28
+  },
+  {
+    "id": "b74e733b-91db-411f-871a-cf25348dbe43",
+    "name": "Ivory Coast",
+    "price": "$30007.85",
+    "startDate": "2024-03-11",
+    "duration": 19
+  },
+  {
+    "id": "7e3b7e94-9803-4c1f-ab47-5bcf9409d106",
+    "name": "Thailand",
+    "price": "$308.41",
+    "startDate": "2023-08-22",
+    "duration": 34
+  },
+  {
+    "id": "31c02f71-8f10-4794-b8a1-d0effa6bf8c3",
+    "name": "Indonesia",
+    "price": "$26692.33",
+    "startDate": "2023-09-11",
+    "duration": 28
+  },
+  {
+    "id": "d6d49fba-2dad-4d2d-ab62-37c462fe9c40",
+    "name": "Philippines",
+    "price": "$25709.29",
+    "startDate": "2023-11-17",
+    "duration": 6
+  },
+  {
+    "id": "16c92b89-326e-4b06-a96e-4f241bd24b6e",
+    "name": "Philippines",
+    "price": "$46719.86",
+    "startDate": "2024-04-04",
+    "duration": 34
+  },
+  {
+    "id": "996a20d6-fb57-4447-9ff6-30ebc96b8a08",
+    "name": "Indonesia",
+    "price": "$31915.17",
+    "startDate": "2024-01-27",
+    "duration": 38
+  },
+  {
+    "id": "c70e0f7c-618e-455e-ae05-2cdc85138a15",
+    "name": "Luxembourg",
+    "price": "$25352.34",
+    "startDate": "2023-11-29",
+    "duration": 25
+  },
+  {
+    "id": "4c8ebeaa-4394-4d78-8c1b-a0fabba51afd",
+    "name": "China",
+    "price": "$1702.40",
+    "startDate": "2024-03-28",
+    "duration": 19
+  },
+  {
+    "id": "bb8118e8-ffe3-459b-a77f-0973f9835be4",
+    "name": "Croatia",
+    "price": "$14976.68",
+    "startDate": "2024-03-16",
+    "duration": 36
+  },
+  {
+    "id": "8aea0b89-d038-4975-bcb3-29bdb94dc0a7",
+    "name": "Portugal",
+    "price": "$6419.71",
+    "startDate": "2024-04-27",
+    "duration": 7
+  },
+  {
+    "id": "a5de0779-de65-4f63-8c4f-18fdec3d5769",
+    "name": "China",
+    "price": "$26547.12",
+    "startDate": "2024-01-12",
+    "duration": 8
+  },
+  {
+    "id": "184f9721-ea2a-4761-b774-6c482d1c08ed",
+    "name": "Pakistan",
+    "price": "$40535.57",
+    "startDate": "2023-10-13",
+    "duration": 29
+  },
+  {
+    "id": "949372bf-cb59-4766-b722-f0b07b4064a8",
+    "name": "China",
+    "price": "$41210.43",
+    "startDate": "2023-11-23",
+    "duration": 39
+  },
+  {
+    "id": "06e4254a-a847-49c3-ac8e-bea121fff512",
+    "name": "Sweden",
+    "price": "$4448.42",
+    "startDate": "2023-12-23",
+    "duration": 39
+  },
+  {
+    "id": "c051794f-8810-40d0-8329-cea32fd2d0a2",
+    "name": "Argentina",
+    "price": "$36792.33",
+    "startDate": "2023-12-22",
+    "duration": 39
+  },
+  {
+    "id": "e4add68e-0288-47a0-a25e-dda96d31a427",
+    "name": "Philippines",
+    "price": "$37417.24",
+    "startDate": "2024-05-25",
+    "duration": 20
+  },
+  {
+    "id": "992f39c2-e899-4e45-adb8-f2f2cafc1881",
+    "name": "Argentina",
+    "price": "$8516.13",
+    "startDate": "2024-03-14",
+    "duration": 3
+  },
+  {
+    "id": "f5c1d755-a272-4349-97f0-5f378b7dd802",
+    "name": "United States",
+    "price": "$17555.20",
+    "startDate": "2023-07-13",
+    "duration": 27
+  },
+  {
+    "id": "126f7422-ea4c-42f3-aea0-6801ace5a96c",
+    "name": "Dominican Republic",
+    "price": "$7599.41",
+    "startDate": "2024-02-26",
+    "duration": 35
+  },
+  {
+    "id": "b256d24d-bc49-453a-9b73-f17df1c1ccd9",
+    "name": "Venezuela",
+    "price": "$32735.54",
+    "startDate": "2024-06-02",
+    "duration": 31
+  },
+  {
+    "id": "29454908-254a-4a5f-ba08-9e5640022944",
+    "name": "Russia",
+    "price": "$36745.05",
+    "startDate": "2024-03-12",
+    "duration": 24
+  },
+  {
+    "id": "9e95ab5e-04fb-4012-87a4-93788a80f02f",
+    "name": "South Korea",
+    "price": "$12828.50",
+    "startDate": "2023-06-27",
+    "duration": 17
+  },
+  {
+    "id": "13087465-3e16-4952-bd65-2d8857affdc6",
+    "name": "Indonesia",
+    "price": "$47528.34",
+    "startDate": "2023-09-03",
+    "duration": 26
+  },
+  {
+    "id": "d21ab7de-2982-4cb3-bd53-eb54c1f17b1b",
+    "name": "Nepal",
+    "price": "$30226.40",
+    "startDate": "2023-06-26",
+    "duration": 8
+  },
+  {
+    "id": "c6665bf3-0dc8-4bb0-b2bb-3f4e251b8358",
+    "name": "Ireland",
+    "price": "$33453.25",
+    "startDate": "2024-04-17",
+    "duration": 13
+  },
+  {
+    "id": "f4ec8b42-d40f-4780-af22-c6060d5ceecf",
+    "name": "Vietnam",
+    "price": "$22237.87",
+    "startDate": "2024-05-01",
+    "duration": 10
+  },
+  {
+    "id": "b13749a2-abdb-453b-b39b-63461c7b3012",
+    "name": "China",
+    "price": "$20288.74",
+    "startDate": "2024-02-20",
+    "duration": 10
+  },
+  {
+    "id": "f3b2b8d9-a260-4dde-9aaf-46ec30e31208",
+    "name": "Indonesia",
+    "price": "$14635.21",
+    "startDate": "2023-07-07",
+    "duration": 15
+  },
+  {
+    "id": "a6097702-b857-4174-8b69-0427bf2d5dae",
+    "name": "Nigeria",
+    "price": "$26456.86",
+    "startDate": "2023-06-30",
+    "duration": 11
+  },
+  {
+    "id": "8134d2f3-02cf-4d8f-b012-52676beb2db2",
+    "name": "Pakistan",
+    "price": "$32513.22",
+    "startDate": "2023-07-06",
+    "duration": 37
+  },
+  {
+    "id": "73e3b78e-055a-4047-b3aa-81cb3f2b0421",
+    "name": "China",
+    "price": "$22126.64",
+    "startDate": "2023-07-31",
+    "duration": 35
+  },
+  {
+    "id": "b7974e79-46cf-4e07-a2f9-0cc31e33ddd3",
+    "name": "Indonesia",
+    "price": "$39137.31",
+    "startDate": "2023-12-24",
+    "duration": 34
+  },
+  {
+    "id": "474ba011-03c2-4d68-b735-bc7e4385271d",
+    "name": "Czech Republic",
+    "price": "$33291.03",
+    "startDate": "2023-10-05",
+    "duration": 37
+  },
+  {
+    "id": "98813123-a8dc-475b-a486-a7eae08dff58",
+    "name": "Indonesia",
+    "price": "$49110.08",
+    "startDate": "2023-06-05",
+    "duration": 36
+  },
+  {
+    "id": "9b3d3edd-2ec6-4e82-b1f7-debf2b065a91",
+    "name": "Thailand",
+    "price": "$12606.83",
+    "startDate": "2024-03-04",
+    "duration": 19
+  },
+  {
+    "id": "6f933edd-c160-4c89-a696-b286cdf8663e",
+    "name": "Peru",
+    "price": "$41676.32",
+    "startDate": "2024-02-18",
+    "duration": 10
+  },
+  {
+    "id": "f1d8c3bb-bd37-49a1-bffe-0ba2aef91d7a",
+    "name": "Russia",
+    "price": "$6207.92",
+    "startDate": "2023-09-14",
+    "duration": 24
+  },
+  {
+    "id": "72a0814b-b994-4074-ace0-6e6e018bad04",
+    "name": "Nicaragua",
+    "price": "$31658.93",
+    "startDate": "2024-04-27",
+    "duration": 20
+  },
+  {
+    "id": "ec3d9730-d93f-45d1-b618-9c0281b5e07b",
+    "name": "China",
+    "price": "$33798.78",
+    "startDate": "2023-11-24",
+    "duration": 10
+  },
+  {
+    "id": "60097fed-94bb-4d36-ae54-b6c55f9cf706",
+    "name": "Bhutan",
+    "price": "$48473.29",
+    "startDate": "2024-05-12",
+    "duration": 17
+  },
+  {
+    "id": "8e04eba6-aa97-4218-a183-19f60c51d9e0",
+    "name": "Dominican Republic",
+    "price": "$998.89",
+    "startDate": "2023-12-16",
+    "duration": 18
+  },
+  {
+    "id": "2ee92c50-ef19-4dd8-a981-79f661dddb61",
+    "name": "China",
+    "price": "$43524.58",
+    "startDate": "2023-10-30",
+    "duration": 39
+  },
+  {
+    "id": "b7f4805a-01bc-4a89-b73d-65b3d5abc274",
+    "name": "United States",
+    "price": "$49560.66",
+    "startDate": "2024-01-23",
+    "duration": 30
+  },
+  {
+    "id": "994b8d80-9e44-4b35-8aa3-62c55ecb35d8",
+    "name": "Norway",
+    "price": "$411.40",
+    "startDate": "2024-04-30",
+    "duration": 13
+  },
+  {
+    "id": "a2eadefe-eedb-4ba4-87b2-184bca61e049",
+    "name": "Indonesia",
+    "price": "$5326.44",
+    "startDate": "2024-05-29",
+    "duration": 29
+  },
+  {
+    "id": "dd6c457d-6118-418e-964b-ac1a1c515416",
+    "name": "Moldova",
+    "price": "$6186.41",
+    "startDate": "2023-11-05",
+    "duration": 12
+  },
+  {
+    "id": "563f0bb6-1fdf-4f5d-9417-c76294f9bfff",
+    "name": "Micronesia",
+    "price": "$5475.14",
+    "startDate": "2023-12-20",
+    "duration": 16
+  },
+  {
+    "id": "f30221d4-5b37-4637-9d60-4ab153081d9c",
+    "name": "Canada",
+    "price": "$33936.09",
+    "startDate": "2024-06-03",
+    "duration": 10
+  },
+  {
+    "id": "3fb9c869-d695-4cb3-8b13-e4935e853ab4",
+    "name": "Poland",
+    "price": "$32003.85",
+    "startDate": "2024-02-04",
+    "duration": 34
+  },
+  {
+    "id": "87bbb2d9-33ee-4fde-a814-471a9ce31dc6",
+    "name": "China",
+    "price": "$44732.96",
+    "startDate": "2023-10-03",
+    "duration": 36
+  },
+  {
+    "id": "55078b54-5741-4cec-a4cb-fb9c9bfd31d1",
+    "name": "China",
+    "price": "$17810.21",
+    "startDate": "2023-12-25",
+    "duration": 10
+  },
+  {
+    "id": "c5fc4be0-fef7-42e2-b17e-6babbb237504",
+    "name": "Sweden",
+    "price": "$26306.08",
+    "startDate": "2023-11-06",
+    "duration": 36
+  },
+  {
+    "id": "68412de3-5f5a-4b9b-8ee6-74646bc0ed78",
+    "name": "Sweden",
+    "price": "$37305.80",
+    "startDate": "2023-07-01",
+    "duration": 9
+  },
+  {
+    "id": "d744e286-83cb-4f20-be59-c05b380c28b3",
+    "name": "Bangladesh",
+    "price": "$29521.99",
+    "startDate": "2023-07-22",
+    "duration": 36
+  },
+  {
+    "id": "ccd6b8be-aeae-43bc-adcd-6a1a22969c70",
+    "name": "Indonesia",
+    "price": "$5901.22",
+    "startDate": "2023-07-19",
+    "duration": 17
+  },
+  {
+    "id": "eff9d6ea-1f28-466b-bc65-49cfd925cb71",
+    "name": "China",
+    "price": "$46141.98",
+    "startDate": "2024-01-09",
+    "duration": 14
+  },
+  {
+    "id": "923c00f4-aa09-4aa2-a9f5-e8242998671e",
+    "name": "Belarus",
+    "price": "$30012.40",
+    "startDate": "2024-02-13",
+    "duration": 34
+  },
+  {
+    "id": "147c42b3-08fc-4ecb-be33-2cd0bb0cda10",
+    "name": "China",
+    "price": "$37268.79",
+    "startDate": "2024-05-31",
+    "duration": 5
+  },
+  {
+    "id": "a5f4881b-b765-4677-9768-72332762c233",
+    "name": "South Africa",
+    "price": "$20625.38",
+    "startDate": "2024-04-06",
+    "duration": 16
+  },
+  {
+    "id": "b19f5d74-0424-42da-81a0-3f3c548a55d5",
+    "name": "Poland",
+    "price": "$41897.98",
+    "startDate": "2024-03-04",
+    "duration": 20
+  },
+  {
+    "id": "96ce5f7a-3a5f-413f-9215-5dc5a8db4ac0",
+    "name": "Israel",
+    "price": "$21775.82",
+    "startDate": "2024-01-12",
+    "duration": 15
+  },
+  {
+    "id": "cdbf3f9f-bdd1-442d-b2c3-f9220c24e7e4",
+    "name": "Samoa",
+    "price": "$44520.79",
+    "startDate": "2023-06-28",
+    "duration": 7
+  },
+  {
+    "id": "1b6ccba0-b7a0-4efb-a0d6-8bbe46bb145c",
+    "name": "Russia",
+    "price": "$33999.55",
+    "startDate": "2023-11-25",
+    "duration": 36
+  },
+  {
+    "id": "4b1bbe49-0ed3-4bc7-9c93-d2bfa69b8b31",
+    "name": "China",
+    "price": "$32601.63",
+    "startDate": "2024-03-05",
+    "duration": 19
+  },
+  {
+    "id": "02ff8105-6d3c-4d87-8c58-5809803e373d",
+    "name": "Dominican Republic",
+    "price": "$48156.53",
+    "startDate": "2024-01-25",
+    "duration": 20
+  },
+  {
+    "id": "72a22726-b029-4a34-a4db-d16b610d8c72",
+    "name": "China",
+    "price": "$15171.18",
+    "startDate": "2024-04-05",
+    "duration": 25
+  },
+  {
+    "id": "0db020ce-ce30-4412-bea9-c5c7bbb0dff0",
+    "name": "Isle of Man",
+    "price": "$29865.84",
+    "startDate": "2024-01-02",
+    "duration": 14
+  },
+  {
+    "id": "2ab22be4-6581-4c79-8fcc-f48028eb750e",
+    "name": "Afghanistan",
+    "price": "$23876.44",
+    "startDate": "2023-10-21",
+    "duration": 28
+  },
+  {
+    "id": "4a1e2a99-8472-4983-91eb-7db85b807820",
+    "name": "China",
+    "price": "$47061.10",
+    "startDate": "2023-07-23",
+    "duration": 19
+  },
+  {
+    "id": "9dbe8f12-d050-4190-8c6c-042aaede9c33",
+    "name": "Poland",
+    "price": "$18335.79",
+    "startDate": "2023-10-27",
+    "duration": 19
+  },
+  {
+    "id": "5472ed54-0828-4b4c-a41a-713c155765eb",
+    "name": "Ethiopia",
+    "price": "$29307.34",
+    "startDate": "2023-12-07",
+    "duration": 37
+  },
+  {
+    "id": "b8db1e85-912f-42aa-a674-6183c3e5a7ed",
+    "name": "Madagascar",
+    "price": "$11776.34",
+    "startDate": "2023-06-09",
+    "duration": 23
+  },
+  {
+    "id": "2490184f-bf28-42db-a464-d5ef0532f8e7",
+    "name": "Russia",
+    "price": "$43347.56",
+    "startDate": "2024-04-29",
+    "duration": 38
+  },
+  {
+    "id": "f9b01613-0da5-4ff7-8209-d97d59376932",
+    "name": "Nepal",
+    "price": "$20166.99",
+    "startDate": "2024-05-10",
+    "duration": 3
+  },
+  {
+    "id": "bb21d6ff-affe-40ee-a9c1-cdce4294d5ce",
+    "name": "Philippines",
+    "price": "$42424.44",
+    "startDate": "2023-09-11",
+    "duration": 14
+  },
+  {
+    "id": "a576b662-9bc4-4cfa-8cb6-9356b7eeb297",
+    "name": "Peru",
+    "price": "$11205.38",
+    "startDate": "2023-10-16",
+    "duration": 33
+  },
+  {
+    "id": "eb2e712c-4269-4617-9b42-462add94fb86",
+    "name": "Uzbekistan",
+    "price": "$337.16",
+    "startDate": "2023-08-24",
+    "duration": 12
+  },
+  {
+    "id": "e6f7ed83-1afe-4035-af77-caad1f3ff223",
+    "name": "Czech Republic",
+    "price": "$20891.65",
+    "startDate": "2024-01-15",
+    "duration": 21
+  },
+  {
+    "id": "d84786a0-a82f-4b8d-9258-bf179eba5f7b",
+    "name": "Czech Republic",
+    "price": "$30937.89",
+    "startDate": "2023-09-06",
+    "duration": 15
+  },
+  {
+    "id": "93792ccc-b5b7-446a-b381-58c75465367c",
+    "name": "Russia",
+    "price": "$23670.33",
+    "startDate": "2023-10-28",
+    "duration": 28
+  },
+  {
+    "id": "86279986-c33a-43a5-924e-e46fbda04c35",
+    "name": "Venezuela",
+    "price": "$32252.51",
+    "startDate": "2023-09-04",
+    "duration": 22
+  },
+  {
+    "id": "e81f9e94-4c79-444c-8521-4d98142bf718",
+    "name": "Czech Republic",
+    "price": "$38213.75",
+    "startDate": "2024-05-24",
+    "duration": 17
+  },
+  {
+    "id": "f363f575-a98d-4e0b-bd04-a2db273cd929",
+    "name": "France",
+    "price": "$36928.79",
+    "startDate": "2024-03-15",
+    "duration": 29
+  },
+  {
+    "id": "1e66aeea-d5a4-4480-a5fa-103bebe85372",
+    "name": "Indonesia",
+    "price": "$2256.08",
+    "startDate": "2023-11-03",
+    "duration": 32
+  },
+  {
+    "id": "471e7435-871b-4bf1-9474-a29ec6423f1d",
+    "name": "Thailand",
+    "price": "$18694.78",
+    "startDate": "2024-03-13",
+    "duration": 26
+  },
+  {
+    "id": "2fb727aa-cd8b-4788-9821-d9b0fa1ea8a1",
+    "name": "Ukraine",
+    "price": "$11107.48",
+    "startDate": "2023-07-11",
+    "duration": 4
+  },
+  {
+    "id": "e7e1c4cc-f3f5-46cf-9ae3-62581e212234",
+    "name": "Palestinian Territory",
+    "price": "$36011.19",
+    "startDate": "2023-07-26",
+    "duration": 33
+  },
+  {
+    "id": "9c2d8275-eabb-4484-be94-9284ff944e35",
+    "name": "Namibia",
+    "price": "$17276.12",
+    "startDate": "2023-09-09",
+    "duration": 16
+  },
+  {
+    "id": "da5c9765-402a-427e-a4bb-dfe30a1dd568",
+    "name": "Israel",
+    "price": "$39389.43",
+    "startDate": "2024-05-17",
+    "duration": 16
+  },
+  {
+    "id": "0db7b0dd-ae12-4121-8c8c-382b22d576e2",
+    "name": "Thailand",
+    "price": "$19911.65",
+    "startDate": "2024-02-29",
+    "duration": 39
+  },
+  {
+    "id": "690feeb6-9d5e-4e1e-b5b9-7d3ea67999ee",
+    "name": "Indonesia",
+    "price": "$44211.94",
+    "startDate": "2023-07-24",
+    "duration": 38
+  },
+  {
+    "id": "064ba19e-5db1-49e1-82bb-f280aeaecf56",
+    "name": "Turkmenistan",
+    "price": "$13881.90",
+    "startDate": "2024-03-16",
+    "duration": 39
+  },
+  {
+    "id": "9c868710-af23-4476-ba8f-1a2309c76b24",
+    "name": "China",
+    "price": "$48170.53",
+    "startDate": "2024-02-15",
+    "duration": 10
+  },
+  {
+    "id": "95f9a4cb-335c-41b1-896c-948525e9bd05",
+    "name": "Indonesia",
+    "price": "$42033.58",
+    "startDate": "2024-04-26",
+    "duration": 13
+  },
+  {
+    "id": "ff7a6b4e-9623-4910-ac08-e250d2d50a8c",
+    "name": "Philippines",
+    "price": "$19704.43",
+    "startDate": "2024-01-16",
+    "duration": 21
+  },
+  {
+    "id": "0b91355d-0d39-40db-b38d-c6eee4c19a08",
+    "name": "Philippines",
+    "price": "$26453.08",
+    "startDate": "2023-11-11",
+    "duration": 39
+  },
+  {
+    "id": "3c6f5f52-8eb0-405b-b747-40bb1e3f1262",
+    "name": "Philippines",
+    "price": "$35852.14",
+    "startDate": "2023-09-13",
+    "duration": 32
+  },
+  {
+    "id": "b39c6336-02dc-4404-aab3-4d3bb89ccc2c",
+    "name": "Jamaica",
+    "price": "$45299.74",
+    "startDate": "2024-02-09",
+    "duration": 27
+  },
+  {
+    "id": "c0d0e5ba-8d35-4f87-9b9d-94d8657b53cf",
+    "name": "Russia",
+    "price": "$38021.60",
+    "startDate": "2023-12-16",
+    "duration": 4
+  },
+  {
+    "id": "1b6708fc-a0d7-41ff-85bf-f22b1973ac99",
+    "name": "Greece",
+    "price": "$12497.73",
+    "startDate": "2024-01-12",
+    "duration": 35
+  },
+  {
+    "id": "d9ab7929-b0dc-447c-a6ce-2cfae93820a3",
+    "name": "Tunisia",
+    "price": "$14190.41",
+    "startDate": "2024-02-01",
+    "duration": 24
+  },
+  {
+    "id": "f351dda9-22ed-4092-8933-5bab486b5258",
+    "name": "Russia",
+    "price": "$4878.27",
+    "startDate": "2023-07-14",
+    "duration": 12
+  },
+  {
+    "id": "08f1fa25-5cb1-4a32-9de3-05963e8d132e",
+    "name": "Ecuador",
+    "price": "$26547.74",
+    "startDate": "2024-05-09",
+    "duration": 24
+  },
+  {
+    "id": "3ffb53e4-8e81-4c72-82ef-cba5e9f0d9c8",
+    "name": "China",
+    "price": "$6658.27",
+    "startDate": "2024-05-15",
+    "duration": 21
+  },
+  {
+    "id": "f3ccf46b-cf76-4ce2-9f6d-d6c6af401dbb",
+    "name": "China",
+    "price": "$38072.31",
+    "startDate": "2024-04-08",
+    "duration": 10
+  },
+  {
+    "id": "5c7cbde1-043c-4084-824f-538325145c5f",
+    "name": "Pakistan",
+    "price": "$19941.27",
+    "startDate": "2024-01-01",
+    "duration": 6
+  },
+  {
+    "id": "9b9b07f3-5b60-4b12-a04b-b4f86e85fcbe",
+    "name": "China",
+    "price": "$19757.68",
+    "startDate": "2023-12-14",
+    "duration": 31
+  },
+  {
+    "id": "0f64bfd7-a014-448b-a15d-1f08ebd37ad5",
+    "name": "Venezuela",
+    "price": "$9873.50",
+    "startDate": "2023-06-11",
+    "duration": 27
+  },
+  {
+    "id": "ffddc40d-541c-4db4-978b-dafef8e2eaaa",
+    "name": "China",
+    "price": "$20671.08",
+    "startDate": "2024-04-16",
+    "duration": 17
+  },
+  {
+    "id": "95d7b85f-619f-4199-96c0-74a2bf274636",
+    "name": "China",
+    "price": "$43972.26",
+    "startDate": "2024-04-12",
+    "duration": 35
+  },
+  {
+    "id": "3e6242d9-234b-4a9d-a70a-49a3d0a3a2f0",
+    "name": "China",
+    "price": "$9516.46",
+    "startDate": "2024-02-26",
+    "duration": 27
+  },
+  {
+    "id": "43758131-89bf-4960-b0fe-06340cf7cbf7",
+    "name": "Indonesia",
+    "price": "$30668.68",
+    "startDate": "2024-04-15",
+    "duration": 6
+  },
+  {
+    "id": "ec1b7c88-9194-4f0e-b840-d5adb34e9c7f",
+    "name": "China",
+    "price": "$48067.99",
+    "startDate": "2024-05-03",
+    "duration": 3
+  },
+  {
+    "id": "f9b03ecb-2fcb-4b95-9403-877635c3a68b",
+    "name": "Sweden",
+    "price": "$18202.21",
+    "startDate": "2024-03-26",
+    "duration": 3
+  },
+  {
+    "id": "a2061495-ccb4-4500-8fe7-c23ba255c8f7",
+    "name": "Colombia",
+    "price": "$16777.19",
+    "startDate": "2024-01-15",
+    "duration": 14
+  },
+  {
+    "id": "4a3fb14c-62c9-43fe-a469-ceec444ce3c8",
+    "name": "France",
+    "price": "$25569.73",
+    "startDate": "2023-06-19",
+    "duration": 32
+  },
+  {
+    "id": "fae6baec-36fe-4c35-864d-fae672dbccda",
+    "name": "China",
+    "price": "$26910.96",
+    "startDate": "2023-08-08",
+    "duration": 4
+  },
+  {
+    "id": "4122d870-60f2-43e0-925f-9942693e8823",
+    "name": "China",
+    "price": "$16283.87",
+    "startDate": "2023-12-27",
+    "duration": 38
+  },
+  {
+    "id": "3f4f5fa7-ff71-4e22-bc50-6bafaa13162d",
+    "name": "Luxembourg",
+    "price": "$2564.77",
+    "startDate": "2023-12-13",
+    "duration": 21
+  },
+  {
+    "id": "1da54d78-1764-4e61-acf6-fa40adca0887",
+    "name": "Colombia",
+    "price": "$35113.93",
+    "startDate": "2024-04-05",
+    "duration": 33
+  },
+  {
+    "id": "315c9808-e2fe-4bc1-9d84-84fd3466e16c",
+    "name": "China",
+    "price": "$18520.75",
+    "startDate": "2023-07-22",
+    "duration": 16
+  },
+  {
+    "id": "e40d36e1-87f2-40eb-96cf-0cdb76af784b",
+    "name": "Poland",
+    "price": "$27560.35",
+    "startDate": "2024-06-02",
+    "duration": 3
+  },
+  {
+    "id": "bae34ef3-663b-4865-ad6c-e7fc68abd3f6",
+    "name": "China",
+    "price": "$5524.10",
+    "startDate": "2024-02-26",
+    "duration": 25
+  },
+  {
+    "id": "e3299a60-5837-4c1c-9dc5-0e98e7b339ff",
+    "name": "Thailand",
+    "price": "$20487.10",
+    "startDate": "2024-02-18",
+    "duration": 29
+  },
+  {
+    "id": "257dd463-7994-43da-a44e-e75d465d73ca",
+    "name": "Poland",
+    "price": "$40350.17",
+    "startDate": "2024-02-29",
+    "duration": 36
+  },
+  {
+    "id": "e5885ee5-cd5c-423a-9ddf-2585a8e0d5aa",
+    "name": "Canada",
+    "price": "$45896.46",
+    "startDate": "2024-05-17",
+    "duration": 15
+  },
+  {
+    "id": "e8c41cb1-204c-4d35-b41d-902a929150c2",
+    "name": "Indonesia",
+    "price": "$31724.15",
+    "startDate": "2023-09-20",
+    "duration": 33
+  },
+  {
+    "id": "9837986c-e833-4355-9440-56278e3ec31b",
+    "name": "Nigeria",
+    "price": "$34284.48",
+    "startDate": "2023-08-29",
+    "duration": 35
+  },
+  {
+    "id": "d7b04172-cbc9-497d-8502-f7b0cae3eb0f",
+    "name": "Russia",
+    "price": "$13922.68",
+    "startDate": "2023-09-26",
+    "duration": 25
+  },
+  {
+    "id": "df060c8c-54a4-41dd-ab36-08fe28618a1e",
+    "name": "Brazil",
+    "price": "$16002.67",
+    "startDate": "2024-03-26",
+    "duration": 21
+  },
+  {
+    "id": "c8f6e707-e3af-41e9-8b2d-7df7db71b291",
+    "name": "Russia",
+    "price": "$46301.76",
+    "startDate": "2024-04-25",
+    "duration": 13
+  },
+  {
+    "id": "b289205e-8079-427b-95e1-ec2e3cf542c6",
+    "name": "Czech Republic",
+    "price": "$22293.64",
+    "startDate": "2023-08-23",
+    "duration": 34
+  },
+  {
+    "id": "dfa4b829-332c-496b-9ba9-a598c29577be",
+    "name": "Latvia",
+    "price": "$45173.38",
+    "startDate": "2023-11-11",
+    "duration": 4
+  },
+  {
+    "id": "e3ceecdf-f44f-4b73-9c47-d8caf120c232",
+    "name": "Philippines",
+    "price": "$8294.01",
+    "startDate": "2024-05-21",
+    "duration": 13
+  },
+  {
+    "id": "175f9452-0316-41e7-bd61-c0f63c19c1b7",
+    "name": "Bosnia and Herzegovina",
+    "price": "$6278.70",
+    "startDate": "2024-02-25",
+    "duration": 37
+  },
+  {
+    "id": "0bf9a307-1ae4-4735-a55b-07ae7def4fd8",
+    "name": "China",
+    "price": "$8355.08",
+    "startDate": "2024-04-23",
+    "duration": 16
+  },
+  {
+    "id": "7475fae4-9e1d-4db0-b9d1-9d8de453c51b",
+    "name": "Indonesia",
+    "price": "$45478.65",
+    "startDate": "2024-03-25",
+    "duration": 37
+  },
+  {
+    "id": "3dc5e823-9dbf-4cfa-afe1-1b5670d661ac",
+    "name": "United Kingdom",
+    "price": "$22028.67",
+    "startDate": "2024-02-12",
+    "duration": 14
+  },
+  {
+    "id": "df2ad2dd-63dd-45cc-9302-ac27241d35ee",
+    "name": "Netherlands",
+    "price": "$31586.84",
+    "startDate": "2023-08-06",
+    "duration": 38
+  },
+  {
+    "id": "9c650945-9fcd-4040-bfe3-3bad5a77cecb",
+    "name": "East Timor",
+    "price": "$12567.21",
+    "startDate": "2024-05-08",
+    "duration": 40
+  },
+  {
+    "id": "41120911-e37c-4f81-bc31-c8e024aaf24f",
+    "name": "Sweden",
+    "price": "$30769.20",
+    "startDate": "2024-05-25",
+    "duration": 7
+  },
+  {
+    "id": "3bfa2502-4015-4c29-ab0e-5a6fb2f21e3e",
+    "name": "China",
+    "price": "$37399.50",
+    "startDate": "2024-04-10",
+    "duration": 40
+  },
+  {
+    "id": "aba6aef6-03c2-4ab6-9bf3-f9f5e85f2748",
+    "name": "Russia",
+    "price": "$31087.04",
+    "startDate": "2024-05-14",
+    "duration": 19
+  },
+  {
+    "id": "d9651741-65bc-4e13-b66e-381f069bb93e",
+    "name": "China",
+    "price": "$18991.41",
+    "startDate": "2023-11-25",
+    "duration": 33
+  },
+  {
+    "id": "ab1320c6-d804-4ea3-b2b6-7bb87feebdea",
+    "name": "Canada",
+    "price": "$36156.11",
+    "startDate": "2024-03-21",
+    "duration": 26
+  },
+  {
+    "id": "780eacbb-6084-4f7f-a275-010cc6536952",
+    "name": "Indonesia",
+    "price": "$21336.39",
+    "startDate": "2024-02-26",
+    "duration": 22
+  },
+  {
+    "id": "f1266fc7-1634-4be0-97ca-845d5da0c208",
+    "name": "China",
+    "price": "$2069.25",
+    "startDate": "2023-12-16",
+    "duration": 14
+  },
+  {
+    "id": "0635520c-21e0-42b8-9474-b1951e795d29",
+    "name": "Philippines",
+    "price": "$19905.37",
+    "startDate": "2024-05-02",
+    "duration": 30
+  },
+  {
+    "id": "dd0349fb-6d85-47f3-8e4c-36a268fdb5fb",
+    "name": "Philippines",
+    "price": "$19026.93",
+    "startDate": "2024-01-19",
+    "duration": 20
+  },
+  {
+    "id": "61edf39e-d314-42a7-8d30-f7ba33aa0d33",
+    "name": "Albania",
+    "price": "$35059.68",
+    "startDate": "2023-08-02",
+    "duration": 9
+  },
+  {
+    "id": "39b9c689-def4-40d1-9788-ed1a49bd30c9",
+    "name": "France",
+    "price": "$39998.14",
+    "startDate": "2023-09-05",
+    "duration": 29
+  },
+  {
+    "id": "78b98dec-7209-47c1-9fa0-bc4a9c29b795",
+    "name": "Palestinian Territory",
+    "price": "$44960.09",
+    "startDate": "2024-04-20",
+    "duration": 12
+  },
+  {
+    "id": "6b4e94b6-a31d-45df-93e7-b7fbc5a037b9",
+    "name": "Brazil",
+    "price": "$9129.89",
+    "startDate": "2024-06-01",
+    "duration": 33
+  },
+  {
+    "id": "3be678cd-8022-4d3a-b82a-1b79181e5167",
+    "name": "Pakistan",
+    "price": "$24819.35",
+    "startDate": "2024-03-08",
+    "duration": 24
+  },
+  {
+    "id": "5c74e3a4-75af-405f-a90d-c8bede7f43e2",
+    "name": "China",
+    "price": "$23608.16",
+    "startDate": "2023-09-10",
+    "duration": 14
+  },
+  {
+    "id": "f363e866-40e8-48fa-8cb5-7c1559e87643",
+    "name": "Portugal",
+    "price": "$39710.79",
+    "startDate": "2024-01-04",
+    "duration": 15
+  },
+  {
+    "id": "aace042c-889e-4bec-8990-69f2f1c369eb",
+    "name": "Dubai",
+    "price": "$5886.72",
+    "startDate": "2023-06-10",
+    "duration": 26,
+    "createdAt": "2023-06-05T09:40:17.251Z"
+  }
+]
